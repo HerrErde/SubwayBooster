@@ -1,12 +1,12 @@
 
 highscore
 DefaultValue:10000000
-Android\data\com.kiloo.subwaysurf\files\profile\user_stats.json
-
-
+Android/data/com.kiloo.subwaysurf/files/profile/user_stats.json
 
 
 ## Currencies / Items
+
+Android/data/com.kiloo.subwaysurf/files/profile/wallet.json
 
 3 Boards
 DefaultValue:100000000
