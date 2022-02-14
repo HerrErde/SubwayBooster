@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "data": "{\"lastSaved\":\"2022-02-14T12:46:00.969406Z\",\"patchVersion\":0,\"hasUnclaimedReward\":false,\"currentCountry\":\"de\",\"nextCountry\":null,\"currentScore\":10000000,\"unsubmittedScore\":{\"score\":10000000,\"scoreDate\":\"2022-02-14T12:46:00.842425Z\",\"metadata\":[{\"key\":\"multiplier\",\"value\":\"10\"},{\"key\":\"character\",\"value\":\"missMaia\"},{\"key\":\"board\",\"value\":\"bigKahuna\"}]},\"previousScore\":0,\"previousBracket\":null,\"startDate\":\"2022-02-07T08:00:00Z\",\"lastClaimedTournamentStart\":\"0001-01-01T00:00:00Z\",\"friendRuns\":{},\"currentTopScoreMetadata\":[{\"key\":\"multiplier\",\"value\":\"1\"},{\"key\":\"character\",\"value\":\"jake\"},{\"key\":\"board\",\"value\":\"default\"}]}"
+}
