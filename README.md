@@ -1,8 +1,11 @@
 
-highscore
+highscore local
 DefaultValue:10000000
 Android/data/com.kiloo.subwaysurf/files/profile/user_stats.json
 
+highscore leaderboard
+DefaultValue:10000000
+Android/data/com.kiloo.subwaysurf/files/profile/top_run.json
 
 ## Currencies / Items
 
