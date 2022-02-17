@@ -1,3 +1,4 @@
+## Highscore
 
 highscore local
 DefaultValue:10000000
