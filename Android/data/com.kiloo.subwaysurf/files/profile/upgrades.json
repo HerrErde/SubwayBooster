@@ -1,4 +1,5 @@
 {
-  "version": 2,
-  "data": "{\"lastSaved\":\"2022-02-14T12:29:14.378073Z\",\"patchVersion\":1,\"activeModifiers\":{},\"powerupLevels\":{\"jetpack\":10000,\"superSneakers\":10000,\"magnet\":10000,\"doubleScore\":10000}}"
-}
+	"version":2,
+	"data":"{\"lastSaved\":\"2022-03-07T18:19:13.997998Z\",\"patchVersion\":1,\"activeModifiers\":{\"permanent_score_multiplier\":{\"value\":{\"id\":\"permanent_score_multiplier\",\"type\":3,\"subType\":3,\"value\":5},\"expirationType\":0}},\"powerupLevels\":{\"jetpack\":6,\"superSneakers\":6,\"magnet\":6,\"doubleScore\":6}}"
+	}
+	
