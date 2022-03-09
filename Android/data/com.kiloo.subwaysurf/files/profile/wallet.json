@@ -1,5 +1,4 @@
 {
 	"version":2,
 	"data":"{\"lastSaved\":\"2022-03-07T18:19:13.974019Z\",\"patchVersion\":0,\"currencies\":{\"3\":{\"value\":100000000,\"expirationType\":0},\"2\":{\"value\":100000000,\"expirationType\":0},\"1\":{\"value\":100000000,\"expirationType\":0},\"5\":{\"value\":100000000,\"expirationType\":0},\"4\":{\"value\":100000000,\"expirationType\":0},\"20\":{\"value\":100000000,\"expirationType\":0},\"23\":{\"value\":73,\"expirationType\":0},\"22\":{\"value\":64,\"expirationType\":0},\"24\":{\"value\":15,\"expirationType\":0},\"21\":{\"value\":28,\"expirationType\":0}},\"lootboxQueue\":{\"unopenedLootboxes\":{\"0\":[]}},\"currencyAllowedInRun\":{\"5\":true},\"lootBoxesOpened\":{\"mini_mystery_box\":1,\"mystery_box\":2,\"token_box\":16},\"ownedOnlyBuyOnceProducts\":[\"free_token_box\",\"multiplier_pack\"]}"
-	}
-	
+}
