@@ -1,4 +1,4 @@
 {
 	"version":2,
-	"data":"{\"lastSaved\":\"2022-03-07T18:19:13.997998Z\",\"patchVersion\":1,\"activeModifiers\":{\"permanent_score_multiplier\":{\"value\":{\"id\":\"permanent_score_multiplier\",\"type\":3,\"subType\":3,\"value\":5},\"expirationType\":0}},\"powerupLevels\":{\"jetpack\":6,\"superSneakers\":6,\"magnet\":6,\"doubleScore\":6}}"
+	"data":"{\"lastSaved\":\"2022-04-28T11:37:31.111848Z\",\"patchVersion\":1,\"activeModifiers\":{\"token_multiplier_low\":{\"value\":{\"id\":\"token_multiplier_low\",\"type\":0,\"subType\":2,\"value\":2},\"expirationValue\":1651220192677,\"expirationType\":1}},\"powerupLevels\":{\"doubleScore\":5,\"magnet\":5,\"superSneakers\":5,\"jetpack\":5}}"
 }
