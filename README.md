@@ -7,13 +7,13 @@ You can still download all files and put them in the right folder and it will wo
 
 You can also use an old versions of the app, right now I found v2.39.0 best working and the files will not be encrypted, the downside there is that the SeasonHunt will say that you need to udate your app and you dont get new Characters 
 
-Insight how I did it [test](todo/test)
+Insight how I did it [test](Todo/test)
 
 ### App Info
 
 App Version: v3.1.1
 
-Season Hunt: 0056
+Season Hunt: 0057
 
 ## TODO
 Add every Character and Board that has existed in the game
