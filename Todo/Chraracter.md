@@ -1,11 +1,154 @@
 All Characters
+[Source](https://subwaysurf.fandom.com/wiki/Characters)
+96% done
 
 - [x] Jake
-- [x] Fresh
 - [x] Tricky
+- [x] Fresh
 - [x] Spike
 - [x] Yutani
+- [x] Frank
+- [x] Ella
+- [x] King
 - [x] Lucy
+- [x] Ninja
 - [x] Tagbot
-- [x] Ninla
-- [x] ...
+- [x] Tasha
+- [x] Zoe
+- [x] Brody
+- [x] Prince K
+- [x] Zombie Jake
+- [x] Elf Tricky
+- [x] Tony
+- [x] Carmen
+- [x] Roberto
+- [x] Kim
+- [x] Harumi
+- [x] Nick
+- [x] Coco
+- [x] Sun
+- [x] Alex
+- [x] Eddy
+- [x] Jamie
+- [x] Jay
+- [x] Mina
+- [x] Rosa
+- [x] Olivia
+- [x] Edison
+- [x] Wayne
+- [x] Jasmine
+- [x] Noon
+- [x] Dino
+- [x] Buddy
+- [x] Rex
+- [x] Izzy
+- [x] Amira
+- [x] Marco
+- [x] Nikos
+- [x] Zuri
+- [x] Mike
+- [x] Jenny
+- [x] Jaro
+- [x] Aina
+- [x] Carlos
+- [x] Jia
+- [x] Bjarki
+- [x] Ramona
+- [x] Lauren
+- [x] Malik
+- [x] Jolien
+- [x] Philip
+- [x] Freya
+- [x] Salma
+- [x] Lee
+- [x] Diego
+- [x] Manny
+- [x] Nicolai
+- [x] E.Z.
+- [x] Sofia
+- [x] Dylan
+- [x] Boombot
+- [x] Nina
+- [x] Brandon
+- [x] Scarlett
+- [x] Alicia
+- [x] Miss Maia
+- [x] Rabbot
+- [x] Hugo
+- [x] Rin
+- [x] Ace
+- [x] Kareem
+- [x] Mei
+- [x] Mimi
+- [x] Maeko
+- [x] Alba
+- [x] Amy
+- [x] Festive Fresh
+- [x] Monkbot
+- [x] Liu
+- [x] Ming
+- [x] Callum
+- [x] Jack
+- [] Dak Not Found
+- [] Lamar Not Found
+- [] Tom Not Found
+- [] Odell Not Found
+- [] Patrick Not Found
+- [] Saquon Not Found
+- [x] Tankbot
+- [x] Cathy
+- [x] Noel
+- [x] Morgan
+- [x] Andy
+- [x] Festive Jake
+- [x] Festive Tricky
+- [x] Festive Spike
+- [x] Festive Frank
+- [x] Festive Yutani
+- [x] Frankette
+- [x] Spacebot
+- [x] Ox
+- [x] Rat
+- [x] Qin
+- [x] Hou
+- [x] Zayn
+- [x] Darryl
+- [x] Lana
+- [x] Bonnie
+- [x] Buzz
+- [x] Trym
+- [x] Pridebot
+- [x] Pride Jake
+- [x] Pride Fresh
+- [x] Pride Spike
+- [x] Pride Tricky
+- [x] Pride Yutani
+- [x] Pride Frank
+- [x] Alexandre
+- [x] Parkour Rin
+- [x] Akira
+- [x] Koral
+- [x] Cleo
+- [x] Taha
+- [x] Bob the Blob
+- [x] Mala
+- [x] Phoenix
+- [x] Clementine
+- [x] Gingerbot
+- [x] Hasina
+- [x] Tiger
+- [x] Charlie
+- [x] Pink
+- [x] George
+- [x] Dummy
+- [x] Super Runner Jake
+- [x] Super Runner Tricky
+- [x] Pride Miss Maia
+- [x] Super Runner Fresh
+- [x] Super Runner Yutani
+- [x] The Burger King
+- [x] Moira
+- [x] Zi Hao
+- [x] Alia
+- [x] Fantasma
+- [x] Song Yi
