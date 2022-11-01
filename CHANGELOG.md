@@ -11,3 +11,9 @@ Added Board Fantasma, Bob the blob, Slime, Scarlett (Catrina), Manny (Mariachi, 
 1.1.3
 Added Character (none)
 Added Board Hexed, Pumpkin
+
+
+1.1.4
+fixed commas
+Added Character Song Yi
+Added Board Night Lute (Super Speed) Queen fo Hearts

@@ -9,11 +9,17 @@ You can also use an old versions of the app, right now I found v2.39.0 best work
 
 Insight how I did it [test](Todo/test)
 
+#### Other
+
+Found out you can use and edit all files so they have no commas in them (exept the one after "version": 3) and it still works somehow ...
+Still gonna use with commas because why not
+
+
 ### App Info
 
-App Version: v3.2.1
+App Version: v3.3.0
 
-Season Hunt: 0057
+Season Hunt: 0058
 
 ## TODO
 Add every Character and Board that has existed in the game
