@@ -1,4 +1,17 @@
-# Anouncement
+<h1 align="center">SubwayBooster</h1>
+<p align="center">
+<a href="https://github.com/HerrErde/SubwayBooster/releases/latest">
+  <img alt="Github Release Download Count" src="https://img.shields.io/github/downloads/HerrErde/SubwayBooster/latest/total.svg?color=181717&logo=github&style=for-the-badge">
+  </a>
+  <a href="https://github.com/HerrErde/SubwayBooster/releases/latest">
+  <img alt="GitHub Release Tag" src="https://img.shields.io/github/release/HerrErde/SubwayBooster/all.svg?style=for-the-badge&logo=github&logoColor=fafafa&colorA=191b25&colorB=32cb8b">
+  </a>
+  <a href="https://github.com/HerrErde/SubwayBooster/releases/">
+    <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/HerrErde/SubwayBooster.svg?style=for-the-badge">
+  </a>
+</p>
+
+## Anouncement
 Because Kiloo/Sybo now erncrypt all files in the SubwaySurfers app, it's harder to publish the files for the characters and boards-
 
 For this Version I tried to find the right name for the characters and boards and write the json code directly in the old files instead of taking it directly out of the game folder
