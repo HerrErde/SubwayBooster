@@ -1,6 +1,5 @@
 All Characters
 [Source](https://subwaysurf.fandom.com/wiki/Characters)
-96% done
 
 - [x] Jake
 - [x] Tricky
@@ -152,3 +151,4 @@ All Characters
 - [x] Alia
 - [x] Fantasma
 - [x] Song Yi
+- [] Super Runner Fernando

@@ -17,3 +17,13 @@ Added Board Hexed, Pumpkin
 fixed commas
 Added Character Song Yi
 Added Board Night Lute (Super Speed) Queen fo Hearts
+
+
+1.1.5
+added all other outfits and boards
+fixed Score Multiplier #1
+updated README
+removed lastSaved time & profileID
+updated lists
+updated season
+Added Board Zuper Zapper

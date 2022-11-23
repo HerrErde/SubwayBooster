@@ -1,6 +1,5 @@
 All Boards
 [Source](https://subwaysurf.fandom.com/wiki/Hoverboard)
-93% done
 
 - [x] Hoverboard
 - [x] Skull Fire
@@ -160,3 +159,4 @@ All Boards
 - [x] Moped
 - [x] Aero Fish
 - [x] Smoking Slime
+- [x] Zuper Zapper
