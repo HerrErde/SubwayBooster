@@ -24,7 +24,7 @@ All Boards
 - [x] Chicky
 - [x] Outback
 - [x] Kitty
-- [] Fortune Unavailable
+- [ ] Fortune (Unavailable)
 - [x] Cherry
 - [x] Flamingo
 - [x] Rose
@@ -71,7 +71,7 @@ All Boards
 - [x] Speeder
 - [x] Ukulele
 - [x] Hammer
-- [] 8th Birthday Unavailable
+- [ ] 8th Birthday (Unavailable)
 - [x] Cobra
 - [x] Rickshaw
 - [x] Mosaic
@@ -95,9 +95,9 @@ All Boards
 - [x] Clockwork
 - [x] Desert Racer
 - [x] Diablo
-- [] 4th of July Not Found
+- [ ] 4th of July (Not Found)
 - [x] Naga
-- [x] Stallion (Trail)
+- [ ] Stallion (Superjump)
 - [x] Leaf
 - [x] Retro Wave
 - [x] Starcruiser
@@ -109,12 +109,12 @@ All Boards
 - [x] Punk
 - [x] Betty
 - [x] Coral
-- [] Barkley Not Found
-- [] Prescott Not Found
-- [] Jackson Not Found
-- [] Mahomes Not Found
-- [] Beckham Jr. Not Found
-- [] Brady Not Found
+- [ ] Barkley (Not Found)
+- [ ] Prescott (Not Found)
+- [ ] Jackson (Not Found)
+- [ ] Mahomes (Not Found)
+- [ ] Beckham Jr. (Not Found)
+- [ ] Brady (Not Found)
 - [x] Goat
 - [x] Beelzebook
 - [x] Surf & Spray
@@ -154,8 +154,8 @@ All Boards
 - [x] Super Surfer
 - [x] Trickster
 - [x] Boombastic
-- [] Mag-Neat-O Not Found
-- [x] Ssskater
+- [ ] Mag-Neat-O (Not Found)
+- [x] Ssskater (Broken)
 - [x] Moped
 - [x] Aero Fish
 - [x] Smoking Slime

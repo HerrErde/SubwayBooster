@@ -88,17 +88,17 @@ All Characters
 - [x] Ming
 - [x] Callum
 - [x] Jack
-- [] Dak Not Found
-- [] Lamar Not Found
-- [] Tom Not Found
-- [] Odell Not Found
-- [] Patrick Not Found
-- [] Saquon Not Found
+- [ ] Dak (Not Found)
+- [ ] Lamar (Not Found)
+- [ ] Tom (Not Found)
+- [ ] Odell (Not Found)
+- [ ] Patrick (Not Found)
+- [ ] Saquon (Not Found)
 - [x] Tankbot
 - [x] Cathy
 - [x] Noel
 - [x] Morgan
-- [x] Andy
+- [ ] Andy (The Great Outdoors)
 - [x] Festive Jake
 - [x] Festive Tricky
 - [x] Festive Spike
@@ -134,7 +134,7 @@ All Characters
 - [x] Phoenix
 - [x] Clementine
 - [x] Gingerbot
-- [x] Hasina
+- [ ] Hasina (Championship)
 - [x] Tiger
 - [x] Charlie
 - [x] Pink
@@ -151,4 +151,4 @@ All Characters
 - [x] Alia
 - [x] Fantasma
 - [x] Song Yi
-- [] Super Runner Fernando
+- [ ] Super Runner Fernando
