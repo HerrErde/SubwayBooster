@@ -30,7 +30,7 @@ Still gonna use with commas because why not
 
 ### App Info
 
-App Version: v3.4.0
+App Version: v3.4.1
 
 Season Hunt: 0059
 
