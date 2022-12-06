@@ -151,4 +151,4 @@ All Characters
 - [x] Alia
 - [x] Fantasma
 - [x] Song Yi
-- [ ] Super Runner Fernando
+- [x] Super Runner Fernando
