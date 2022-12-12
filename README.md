@@ -30,9 +30,9 @@ Still gonna use with commas because why not
 
 ### App Info
 
-App Version: v3.4.1
+App Version: v3.5.0
 
-Season Hunt: 0059
+Season Hunt: 0060
 
 ## TODO
 Add every Character and Board that has existed in the game

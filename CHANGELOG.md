@@ -27,3 +27,11 @@ removed lastSaved time & profileID
 updated lists
 updated season
 Added Board Zuper Zapper
+
+
+1.1.6
+all achievements
+Added outfit Super Runner Fernando
+changed stuff
+Added Character Elf Jake, Elf Fresh
+Added Board Snow Cloud, Ho Ho Hoverboard

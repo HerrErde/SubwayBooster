@@ -152,3 +152,5 @@ All Characters
 - [x] Fantasma
 - [x] Song Yi
 - [x] Super Runner Fernando
+- [x] Elf Jake
+- [x] Elf Fresh

@@ -160,3 +160,5 @@ All Boards
 - [x] Aero Fish
 - [x] Smoking Slime
 - [x] Zuper Zapper
+- [x] Snow Cloud
+- [x] Ho Ho Hoverboard
