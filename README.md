@@ -16,7 +16,7 @@ Because Kiloo/Sybo now erncrypt all files in the SubwaySurfers app, it's harder 
 
 You can still download all files and put them in the right folder and it will work, SubwaySurfers makes it just easy enough and encrypts those files when they are in the folder, so there changes nothing in this
 
-You can also use an old versions of the app, right now I found v2.39.0[v2.39.0](Todo/test) best working and the files will not be encrypted, the downside there is that the SeasonHunt will say that you need to udate your app and you dont get new Characters 
+You can also use an old versions of the app, right now I found [v2.39.0](https://www.apkmirror.com/apk/sybo-games/subwaysurfers/subwaysurfers-2-39-0-release/) best working and the files will not be encrypted, the downside there is that the SeasonHunt will say that you need to udate your app and you dont get new Characters 
 
 Insight how I did it [test](Todo/test)
 
@@ -30,9 +30,9 @@ Still gonna use with commas because why not
 
 ### App Info
 
-App Version: v3.5.0
+App Version: `v3.5.0`
 
-Season Hunt: 0060
+Season Hunt: `0060`
 
 ## TODO
 Add every Character and Board that has existed in the game
