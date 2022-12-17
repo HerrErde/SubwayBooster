@@ -71,7 +71,7 @@ All Boards
 - [x] Speeder
 - [x] Ukulele
 - [x] Hammer
-- [x] 8th Birthday (Unavailable)
+- [x] 8th Birthday
 - [x] Cobra
 - [x] Rickshaw
 - [x] Mosaic
@@ -95,7 +95,7 @@ All Boards
 - [x] Clockwork
 - [x] Desert Racer
 - [x] Diablo
-- [x] 4th of July (Not Found)
+- [x] 4th of July
 - [x] Naga
 - [x] Stallion (Superjump)
 - [x] Leaf
@@ -109,12 +109,12 @@ All Boards
 - [x] Punk
 - [x] Betty
 - [x] Coral
-- [x] Barkley (Not Found)
-- [x] Prescott (Not Found)
-- [x] Jackson (Not Found)
-- [x] Mahomes (Not Found)
-- [x] Beckham Jr. (Not Found)
-- [x] Brady (Not Found)
+- [x] Barkley
+- [x] Prescott
+- [x] Jackson 
+- [x] Mahomes
+- [x] Beckham Jr.
+- [x] Brady
 - [x] Goat
 - [x] Beelzebook
 - [x] Surf & Spray
