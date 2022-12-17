@@ -97,7 +97,7 @@ All Boards
 - [x] Diablo
 - [ ] 4th of July (Not Found)
 - [x] Naga
-- [ ] Stallion (Superjump)
+- [x] Stallion (Superjump)
 - [x] Leaf
 - [x] Retro Wave
 - [x] Starcruiser
