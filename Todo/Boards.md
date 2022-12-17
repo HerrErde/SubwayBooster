@@ -109,12 +109,12 @@ All Boards
 - [x] Punk
 - [x] Betty
 - [x] Coral
-- [ ] Barkley (Not Found)
-- [ ] Prescott (Not Found)
-- [ ] Jackson (Not Found)
-- [ ] Mahomes (Not Found)
-- [ ] Beckham Jr. (Not Found)
-- [ ] Brady (Not Found)
+- [x] Barkley (Not Found)
+- [x] Prescott (Not Found)
+- [x] Jackson (Not Found)
+- [x] Mahomes (Not Found)
+- [x] Beckham Jr. (Not Found)
+- [x] Brady (Not Found)
 - [x] Goat
 - [x] Beelzebook
 - [x] Surf & Spray
