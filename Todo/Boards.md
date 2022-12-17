@@ -71,7 +71,7 @@ All Boards
 - [x] Speeder
 - [x] Ukulele
 - [x] Hammer
-- [ ] 8th Birthday (Unavailable)
+- [x] 8th Birthday (Unavailable)
 - [x] Cobra
 - [x] Rickshaw
 - [x] Mosaic
@@ -95,7 +95,7 @@ All Boards
 - [x] Clockwork
 - [x] Desert Racer
 - [x] Diablo
-- [ ] 4th of July (Not Found)
+- [x] 4th of July (Not Found)
 - [x] Naga
 - [x] Stallion (Superjump)
 - [x] Leaf
