@@ -88,12 +88,12 @@ All Characters
 - [x] Ming
 - [x] Callum
 - [x] Jack
-- [ ] Dak (Not Found)
-- [ ] Lamar (Not Found)
-- [ ] Tom (Not Found)
-- [ ] Odell (Not Found)
-- [ ] Patrick (Not Found)
-- [ ] Saquon (Not Found)
+- [x] Dak
+- [x] Lamar
+- [x] Tom
+- [x] Odell
+- [x] Patrick
+- [x] Saquon
 - [x] Tankbot
 - [x] Cathy
 - [x] Noel
