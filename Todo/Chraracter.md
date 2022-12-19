@@ -154,3 +154,4 @@ All Characters
 - [x] Super Runner Fernando
 - [x] Elf Jake
 - [x] Elf Fresh
+- [x] Elf Yutani

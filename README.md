@@ -11,6 +11,8 @@
   </a>
 </p>
 
+## Please always backup all gameplay data
+
 ## Anouncement
 Because Kiloo/Sybo now erncrypt all files in the SubwaySurfers app, it's harder to publish the files for the characters and boards-
 

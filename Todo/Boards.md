@@ -162,3 +162,5 @@ All Boards
 - [x] Zuper Zapper
 - [x] Snow Cloud
 - [x] Ho Ho Hoverboard
+- [x] Snow Cloud
+- [x] Wrapped
