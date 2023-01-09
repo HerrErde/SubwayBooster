@@ -155,7 +155,7 @@ All Boards
 - [x] Trickster
 - [x] Boombastic
 - [ ] Mag-Neat-O (Not Found)
-- [x] Ssskater (Broken)
+- [x] Ssskater (Broken/Unplayable)
 - [x] Moped
 - [x] Aero Fish
 - [x] Smoking Slime
@@ -163,4 +163,5 @@ All Boards
 - [x] Snow Cloud
 - [x] Ho Ho Hoverboard
 - [x] Snow Cloud
-- [x] Wrapped
+- [ ] Wrapped (Not Found)
+- [x] Carp Diem

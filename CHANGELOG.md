@@ -35,3 +35,12 @@ Added outfit Super Runner Fernando
 changed stuff
 Added Character Elf Jake, Elf Fresh
 Added Board Snow Cloud, Ho Ho Hoverboard
+
+
+1.1.7
+fixed README
+Added Character Dak, Lamar, Tom, Odell, Patrick, Saquan (Thanks @NotTiie), Elf Yutani 
+Added Outfits Rabbit, Fortune (Festive Frank), Lucky (Bonnie), Moonbun (George)
+Added Board Barkley, Prescott, Jackson, Mahomes, Beckham Jr., Brady, 8th Birthday, 4th of July (@NotTiie), Carp Diem
+updated list
+c294fc1: More characters and boards (@NotTiie)

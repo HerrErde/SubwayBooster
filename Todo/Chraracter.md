@@ -155,3 +155,4 @@ All Characters
 - [x] Elf Jake
 - [x] Elf Fresh
 - [x] Elf Yutani
+- [x] Rabbit

@@ -32,13 +32,11 @@ Still gonna use with commas because why not
 
 ### App Info
 
-App Version: `v3.5.0`
+App Version: `v3.6.0`
 
-Season Hunt: `0060`
+Season Hunt: `0061`
 
 ## TODO
-Add every Character and Board that has existed in the game
-
 
 
 ## Works before v3.0.1
