@@ -1,4 +1,4 @@
 {
   "version": 2,
-  "data": "{\"lastSaved\":\"\",\"patchVersion\":1,\"activeModifiers\":{\"token_multiplier_low\":{\"value\":{\"id\":\"token_multiplier_low\",\"type\":0,\"subType\":2,\"value\":2},\"expirationValue\":1652651999999,\"expirationType\":1}},\"powerupLevels\":{\"doubleScore\":6,\"magnet\":6,\"superSneakers\":6,\"jetpack\":6}}"
+  "data": "{\"lastSaved\":\"\",\"patchVersion\":1,\"activeModifiers\":{\"token_multiplier_low\":{\"value\":{\"id\":\"token_multiplier_low\",\"type\":0,\"subType\":2,\"value\":2},\"expirationValue\":0,\"expirationType\":1}},\"powerupLevels\":{\"doubleScore\":6,\"magnet\":6,\"superSneakers\":6,\"jetpack\":6}}"
 }
