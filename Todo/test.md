@@ -17,19 +17,19 @@ RULES
 ### Example
 #### Miss Maia - One Outfit
 
-```json
+```
 \"missMaia\":{\"value\":{\"id\":\"missMaia\",\"ownedOutfits\":[{\"value\":\"default\",\"expirationType\":0}],\"lastOutfit\":\"default\"},\"expirationType\":0}
 ```
 
 #### Jake - Two additional outfits
 
-```json
+```
 \"jake\":{\"value\":{\"id\":\"jake\",\"ownedOutfits\":[{\"value\":\"default\",\"expirationType\":0},{\"value\":\"darkOutfit\",\"expirationType\":0},{\"value\":\"starOutfit\",\"expirationType\":0}],\"lastOutfit\":\"default\"},\"expirationType\":0}
 ```
 
 #### example code
 
-```json
+```
 \"firstSecond\":{\"value\":{\"id\":\"firstSecond\",\"ownedOutfits\":[{\"value\":\"default\",\"expirationType\":0}],\"lastOutfit\":\"default\"},\"expirationType\":0}
 ```
 
@@ -55,19 +55,19 @@ RULES
 
 #### Default Board
 
-```json
+```
 \"default\":{\"value\":{\"id\":\"default\",\"ownedUpgrades\":{}},\"expirationType\":0}
 ```
 
 #### Skull Fire - Two special abilitys
 
-```json
+```
 \"skullFire\":{\"value\":{\"id\":\"skullFire\",\"ownedUpgrades\":{\"default\":{\"value\":true,\"expirationType\":0},\"doubleJump\":{\"value\":true,\"expirationType\":0},\"highSpeed\":{\"value\":true,\"expirationType\":0}}},\"expirationType\":0}
 ```
 
 #### example code
 
-```json
+```
 \"firstSecond\":{\"value\":{\"id\":\"firstSecond\",\"ownedUpgrades\":{\"default\":{\"value\":true,\"expirationType\":0}}},\"expirationType\":0}
 ```
 
