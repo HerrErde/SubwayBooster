@@ -156,3 +156,4 @@ All Characters
 - [x] Elf Fresh
 - [x] Elf Yutani
 - [x] Rabbit
+- [x] Soul

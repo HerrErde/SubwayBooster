@@ -25,9 +25,9 @@ Insight how I did it [Todo/test](Todo/test.md)
 
 ### App Info
 
-App Version: `v3.6.0`
+App Version: `v3.7.0`
 
-Season Hunt: `0061`
+Season Hunt: `0062`
 
 ## TODO
 
