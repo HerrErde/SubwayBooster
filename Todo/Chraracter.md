@@ -98,7 +98,7 @@ All Characters
 - [x] Cathy
 - [x] Noel
 - [x] Morgan
-- [ ] Andy (The Great Outdoors)
+- [x] Andy
 - [x] Festive Jake
 - [x] Festive Tricky
 - [x] Festive Spike
