@@ -166,3 +166,4 @@ All Boards
 - [ ] Wrapped (Not Found)
 - [x] Carp Diem
 - [x] Ghastly Glider
+- [x] Fan-tastic

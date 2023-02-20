@@ -23,17 +23,25 @@ The files in the SubwaySurfers App are now encrypted, and its harder to find out
 
 It is still possible to modify the SubwaySurfers files, because you can replace the files with the modefiy ones and those get encrypted
 
-Old versions of the app alos still function wich are without the exryption, I found [v2.39.0](https://www.apkmirror.com/apk/sybo-games/subwaysurfers/subwaysurfers-2-39-0-release/) to be best working, downside is that it is a **really** old verson wich has many missing features and additions, the SeasonHunt will say that you need to udate your app
+---
 
-___
+### How do i use it?
+
+You need a file explorer, and the downloaded [release](https://github.com/HerrErde/SubwayBooster/releases/latest).\
+After that, you unpack the Zip file and extract it in the same folder.\
+You now have the **Android** folder, which you copy in the same folder which also contains a Folder named Android.
+
+But you if you know what youre doing, you can edit and copy the seperate files, into the right folder.
+
+---
 
 Insight how I did it [Todo/test](Todo/test.md)
 
 ### App Info
 
-App Version: `v3.7.2`
+App Version: `v3.8.0`
 
-Season Hunt: `0062`
+Season Hunt: `0063`
 
 ## TODO
 

@@ -157,3 +157,4 @@ All Characters
 - [x] Elf Yutani
 - [x] Rabbit
 - [x] Soul
+- [x] Tutti

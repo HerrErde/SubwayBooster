@@ -55,3 +55,12 @@
 - updated README
 - changed files, season
 - updated test, CHANGELOG
+
+### 1.1.9
+
+- Added Character Tutti
+- Added Board Fan-tastic
+- Added Outfits The Great Outdoors (Andy), Phoenix (Party-Business-Outfit)
+- Adds Double Coins (@Vaibhboy2)
+- updated README
+- 00c3da6: Adds Double Coins (@Vaibhboy2)
