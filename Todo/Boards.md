@@ -154,7 +154,7 @@ All Boards
 - [x] Super Surfer
 - [x] Trickster
 - [x] Boombastic
-- [ ] Mag-Neat-O (Not Found)
+- [x] Mag-Neat-O
 - [x] Ssskater (Broken/Unplayable)
 - [x] Moped
 - [x] Aero Fish
