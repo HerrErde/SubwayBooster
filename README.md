@@ -19,19 +19,19 @@
 
 ### Some Info
 
-The files in the SubwaySurfers App are now encrypted, and its harder to find out the names of the Characters/Outfits/Boards
+The files in the SubwaySurfers App are now encrypted, and it's harder to find out the names of the Characters/Outfits/Boards
 
-It is still possible to modify the SubwaySurfers files, because you can replace the files with the modefiy ones and those get encrypted
+It is still possible to modify the SubwaySurfers files, because you can replace the files with the modified ones and those get encrypted
 
 ---
 
 ### How do i use it?
 
 You need a file explorer, and the downloaded [release](https://github.com/HerrErde/SubwayBooster/releases/latest).\
-After that, you unpack the Zip file and extract it in the same folder.\
-You now have the **Android** folder, which you copy in the same folder which also contains a Folder named Android.
+After that, you unpack the Zip file and extract it into the same folder.\
+You now have the **Android** folder, which you copy into the same folder which also contains a Folder named Android.
 
-But you if you know what youre doing, you can edit and copy the seperate files, into the right folder.
+But if you know what you're doing, you can edit and copy the separate files into the right folder.
 
 ---
 

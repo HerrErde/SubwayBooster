@@ -4,7 +4,7 @@
 
 RULES
 
-1. any name with a space is "firstSecond" wich means, for example "Miss Maia"\
+1. any name with a space is "firstSecond" which means, for example "Miss Maia"\
    is without space and with the first letter of the second word big\
    example `missMaia`.
 
@@ -12,7 +12,7 @@ RULES
    example `goldOutfit`. in code is it `\"value\":\"goldOutfit\",\"expirationType\":0}`\
    when the outfit name has a space, rule 1.
 
-3. Characters without Outfits just have the `\"lastOutfit\":\"default\"`
+3. Characters without outfits just have the `\"lastOutfit\":\"default\"`
 
 ### Example
 #### Miss Maia - One Outfit
@@ -39,7 +39,7 @@ RULES
 
 RULES
 
-1. any name with a space is "firstSecond" wich means, for example "Skull Fire"\
+1. any name with a space is "firstSecond" which means, for example "Skull Fire"\
  is without space and with the first letter of the second word big\
   example `skullFire`.
 
@@ -48,7 +48,7 @@ RULES
    when the special ability has a space, rule 1.\
    below is a list of all special abilitys
 
-3. Boards without a visible ability wich you can enable and disable\
+3. Boards without a visible ability which you can enable and disable\
  just have the `\"default\":{\"value\":true,\"expirationType\":0}`
 
 ### Example
