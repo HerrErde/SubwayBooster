@@ -64,3 +64,11 @@
 - Adds Double Coins (@Vaibhboy2)
 - updated README
 - 00c3da6: Adds Double Coins (@Vaibhboy2)
+
+### 1.2.0
+
+- Added Outfits Tenta Queen (Koral)
+- Added Board Mag-Neat-O (@Bulbous-Baboon), Viperfish
+- fixed spelling
+- update list
+- b7f664c: added Mag-Neat-O (@Bulbous-Baboon)

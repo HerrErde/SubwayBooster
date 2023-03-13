@@ -96,7 +96,7 @@ All Characters
 - [x] Saquon
 - [x] Tankbot
 - [x] Cathy
-- [x] Noel
+- [ ] Noel (Deep-Blue)
 - [x] Morgan
 - [x] Andy
 - [x] Festive Jake
