@@ -68,7 +68,7 @@
 ### 1.2.0
 
 - Added Outfits Tenta Queen (Koral)
-- Added Board Mag-Neat-O (@Bulbous-Baboon), Viperfish
+- Added Board Mag-Neat-O (@edwark43), Viperfish
 - fixed spelling
 - update list
-- b7f664c: added Mag-Neat-O (@Bulbous-Baboon)
+- b7f664c: added Mag-Neat-O (@edwark43)

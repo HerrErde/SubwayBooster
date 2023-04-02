@@ -158,3 +158,4 @@ All Characters
 - [x] Rabbit
 - [x] Soul
 - [x] Tutti
+- [ ] Frutti
