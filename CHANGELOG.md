@@ -72,3 +72,9 @@
 - fixed spelling
 - update list
 - b7f664c: added Mag-Neat-O (@edwark43)
+
+### 1.2.1
+
+- Added Character Frutti
+- Added Board IScream
+- update Changelog, list, Readme

@@ -86,7 +86,7 @@ All Characters
 - [x] Monkbot
 - [x] Liu
 - [x] Ming
-- [x] Callum
+- [ ] Callum (Pink-Punk-Outfit)
 - [x] Jack
 - [x] Dak
 - [x] Lamar
@@ -158,4 +158,4 @@ All Characters
 - [x] Rabbit
 - [x] Soul
 - [x] Tutti
-- [ ] Frutti
+- [x] Frutti

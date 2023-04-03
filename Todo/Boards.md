@@ -168,4 +168,4 @@ All Boards
 - [x] Ghastly Glider
 - [x] Fan-tastic
 - [x] Viperfish
-- [ ] Iscream
+- [x] IScream
