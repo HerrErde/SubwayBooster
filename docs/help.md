@@ -15,6 +15,7 @@ RULES
 3. Characters without outfits just have the `\"lastOutfit\":\"default\"`
 
 ### Example
+
 #### Miss Maia - One Outfit
 
 ```
@@ -40,8 +41,8 @@ RULES
 RULES
 
 1. any name with a space is "firstSecond" which means, for example "Skull Fire"\
- is without space and with the first letter of the second word big\
-  example `skullFire`.
+   is without space and with the first letter of the second word big\
+    example `skullFire`.
 
 2. special abilitys are named just after the ability name \
     example "Trail" is `trail` in code is it `\"trail\":{\"value\":true,\"expirationType\":0`\
@@ -49,7 +50,7 @@ RULES
    below is a list of all special abilitys
 
 3. Boards without a visible ability which you can enable and disable\
- just have the `\"default\":{\"value\":true,\"expirationType\":0}`
+   just have the `\"default\":{\"value\":true,\"expirationType\":0}`
 
 ### Example
 
