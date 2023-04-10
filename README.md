@@ -41,7 +41,7 @@ But if you know what you're doing, you can edit and copy the separate files into
 Insight how I did it [docs/help](docs/help.md) <br>
 Some Infos [docs/info](docs/info.md) <br>
 Character [todo/Character.md](todo/Character.md) <br>
-Boards [todo/Boards.md](todo/CharaBoardscter.md)
+Boards [todo/Boards.md](todo/Boards.md)
 
 ### App Info
 
