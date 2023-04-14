@@ -18,9 +18,24 @@
 
 ## Anouncement
 
-/
+You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/Boards/.. amount
 
-### Some Info
+## Features
+
+- All*most* [**Characters**](Todo/Characters.md) and their **Outfits**
+- All*most* [**Boards**](Todo/Boards.md) with every **Special Ability**
+- **Double Coins**
+- **All Upgrades**
+- _basicly_ **Unlimited Coins**
+- _basicly_ **Unlimited Keys**
+- _basicly_ **Unlimited Boosters**
+- Complete **Season**
+- Top of **Highscore**
+- **30 of 30 Multiplier**
+- All **Trophies**
+- All **Achievements**
+
+### Info
 
 The files in the SubwaySurfers App are now encrypted, and it's harder to find out the names of the Characters/Outfits/Boards
 
