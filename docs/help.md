@@ -78,14 +78,14 @@ RULES
 
 ---
 
-| Name         | other name                      | code         |
-| ------------ | ------------------------------- | ------------ |
-| Double Jump  | -                               | `doubleJump` |
-| Trils        | Bubble, heart, music, pink, ... | `trail`      |
-| Color Splash | -                               | -            |
-| Speed Up     | -                               | `highSpeed`  |
-| Super Jump   | -                               | `superJump`  |
-| Smooth Drift | -                               | `glider`     |
-| Super Jump   | -                               | `jumper`     |
-| Stay Low     | -                               | `lowrider`   |
-| Zap Sideways | -                               | `teleport`   |
+| Name         | other name                              | code         |
+| ------------ | --------------------------------------- | ------------ |
+| Double Jump  | -                                       | `doubleJump` |
+| Trils        | `bubble`, `heart`, `music`, `pink`, ... | `trail`      |
+| Color Splash | -                                       | -            |
+| Speed Up     | -                                       | `highSpeed`  |
+| Super Jump   | `jumper`                                | `superJump`  |
+| Smooth Drift | -                                       | `glider`     |
+| Super Jump   | -                                       | `jumper`     |
+| Stay Low     | -                                       | `lowrider`   |
+| Zap Sideways | -                                       | `teleport`   |

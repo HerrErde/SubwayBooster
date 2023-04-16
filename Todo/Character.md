@@ -86,7 +86,7 @@ All Characters
 - [x] Monkbot
 - [x] Liu
 - [x] Ming
-- [ ] Callum (Pink-Punk-Outfit)
+- [x] Callum
 - [x] Jack
 - [x] Dak
 - [x] Lamar
