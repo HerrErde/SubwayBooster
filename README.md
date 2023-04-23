@@ -22,8 +22,8 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ## Features
 
-- All*most* [**Characters**](Todo/Characters.md) and their **Outfits**
-- All*most* [**Boards**](Todo/Boards.md) with every **Special Ability**
+- All*most all* [**Characters**](Todo/Characters.md) and their **Outfits**
+- All*most all* [**Boards**](Todo/Boards.md) with every **Special Ability**
 - **Double Coins**
 - **All Upgrades**
 - _basicly_ **Unlimited Coins**
