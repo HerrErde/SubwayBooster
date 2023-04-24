@@ -169,4 +169,4 @@ All Boards
 - [x] Fan-tastic
 - [x] Viperfish
 - [x] IScream
-- [ ] Tagger
+- [x] Tagger

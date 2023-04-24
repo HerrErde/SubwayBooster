@@ -159,4 +159,4 @@ All Characters
 - [x] Soul
 - [x] Tutti
 - [x] Frutti
-- [ ] Spraybot
+- [x] Spraybot

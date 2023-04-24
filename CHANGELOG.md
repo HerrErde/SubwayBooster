@@ -78,3 +78,17 @@
 - Added Character Frutti
 - Added Board IScream
 - update Changelog, list, Readme
+
+### 1.2.2
+
+- new top value for wallet top_run & user_stats
+- renamed test.md -> help.md
+- moved help & info & added info.md
+- added Features list & fixed season_hunt
+- Added Outfit Pink Punk (Callum), Heartbreaker (Cleo)
+- Added Special Ability SuperJump (Stallion)
+- updated help.md
+- update list
+- Update README.md
+- Added Character Spraybot
+- Added Board Tagger
