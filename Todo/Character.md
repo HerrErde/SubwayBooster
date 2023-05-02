@@ -96,7 +96,7 @@ All Characters
 - [x] Saquon
 - [x] Tankbot
 - [x] Cathy
-- [ ] Noel (Deep-Blue)
+- [x] Noel
 - [x] Morgan
 - [x] Andy
 - [x] Festive Jake
@@ -134,7 +134,7 @@ All Characters
 - [x] Phoenix
 - [x] Clementine
 - [x] Gingerbot
-- [ ] Hasina (Championship)
+- [x] Hasina
 - [x] Tiger
 - [x] Charlie
 - [x] Pink
