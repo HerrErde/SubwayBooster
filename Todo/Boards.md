@@ -163,7 +163,7 @@ All Boards
 - [x] Snow Cloud
 - [x] Ho Ho Hoverboard
 - [x] Snow Cloud
-- [ ] Wrapped (Not Found)
+- [x] Wrapped
 - [x] Carp Diem
 - [x] Ghastly Glider
 - [x] Fan-tastic
