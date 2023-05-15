@@ -160,4 +160,4 @@ All Characters
 - [x] Tutti
 - [x] Frutti
 - [x] Spraybot
-- [ ] Catrine
+- [x] Catrine

@@ -92,3 +92,11 @@
 - Update README.md
 - Added Character Spraybot
 - Added Board Tagger
+
+### 1.2.3
+
+- Added Character Catrine
+- Added Board Wrapped, Danger Dasher, 11th Birthday
+- Added Outfit Deep-Blue (Noel), Championship (Hasina), East-Vest (Zayn)
+- update list
+- Update README.md

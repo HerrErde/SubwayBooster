@@ -60,9 +60,9 @@ Boards [todo/Boards.md](Todo/Boards.md)
 
 ### App Info
 
-App Version: `3.11.2`
+App Version: `3.12.0`
 
-Season Hunt: `0066`
+Season Hunt: `0067`
 
 ## TODO
 
