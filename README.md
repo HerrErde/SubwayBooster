@@ -22,8 +22,8 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ## Features
 
-- All*most all* [**Characters**](Todo/Characters.md) and their **Outfits**
-- All*most all* [**Boards**](Todo/Boards.md) with every **Special Ability**
+- All*most all* [**Characters**](todo/Characters.md) and their **Outfits**
+- All*most all* [**Boards**](todo/Boards.md) with every **Special Ability**
 - **Double Coins**
 - **All Upgrades**
 - _basicly_ **Unlimited Coins**
@@ -31,32 +31,34 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - _basicly_ **Unlimited Boosters**
 - Complete **Season**
 - Top of **Highscore**
-- **30 of 30 Multiplier**
+- **30 of 30 Missions/Multiplier**
 - All **Trophies**
 - All **Achievements**
 
 ### Info
 
-The files in the SubwaySurfers App are now encrypted, and it's harder to find out the names of the Characters/Outfits/Boards
+The files of the SubwaySurfers App are now encrypted, making it more difficult to add new names for the Characters/Outfits/Boards.
+However, it is still possible to modify the SubwaySurfers files by replacing the original SubwaySurfers files with the modified ones.
 
-It is still possible to modify the SubwaySurfers files, because you can replace the files with the modified ones and those get encrypted
+But it's not too difficult. You can achieve this by downloading the app, renaming it to `.zip`, and then extracting the files `characters.json` and `boards.json` from the folder `assets/tower/game data/`. This folder contains all the necessary information, allowing you to view all characters or boards along with their outfits and Special Abilities.
+
+You can play the old SubwaySurfers app versions. When you set the date of your Phone to the same date (or before) the release of the app on [apkmirror.com](https://apkmirror.com). \
+For example, when the app was released on 29.08.2022 set your phone to the same date.
 
 ---
 
 ### How do i use it?
 
-You need a file explorer, and the downloaded [release](https://github.com/HerrErde/SubwayBooster/releases/latest).\
-After that, you unpack the Zip file and extract it into the same folder.\
-You now have the **Android** folder, which you copy into the same folder which also contains a Folder named Android.
+To modify the SubwaySurfers files, you'll need a file explorer and the latest release from [this link](https://github.com/HerrErde/SubwayBooster/releases/latest). Once you've downloaded the release, unpack the Zip file and extract it into the same folder. In the extracted files, you'll find the **Android** folder. Copy this folder to the **Internal Storage** of your Android device.
 
-But if you know what you're doing, you can edit and copy the separate files into the right folder.
+If you know what you're doing, you can edit the individual files and then copy them into the `com.kiloo.subwaysurf` folder. Just make sure to be careful and understand the changes you're making.
 
 ---
 
 Insight how I did it [docs/help](docs/help.md) <br>
 Some Infos [docs/info](docs/info.md) <br>
-Character [todo/Character.md](Todo/Character.md) <br>
-Boards [todo/Boards.md](Todo/Boards.md)
+Character [todo/Character.md](todo/Character.md) <br>
+Boards [todo/Boards.md](todo/Boards.md)
 
 ### App Info
 
