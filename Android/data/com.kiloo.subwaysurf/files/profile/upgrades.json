@@ -1,2 +1,4 @@
-{"version":2,"data":"{\"lastSaved\":\"2022-05-18T07:21:42.565329Z\",\"patchVersion\":1,\"activeModifiers\":{\"doubleCoins\":{\"value\":{\"id\":\"doubleCoins\",\"type\":0,\"subType\":0,\"value\":2},\"expirationType\":0},
-\"permanent_score_multiplier\":{\"value\":{\"id\":\"permanent_score_multiplier\",\"type\":3,\"subType\":3,\"value\":10},\"expirationType\":0}},\"powerupLevels\":{\"jetpack\":6,\"superSneakers\":6,\"magnet\":6,\"doubleScore\":6}}"}
+{
+  "version": 2,
+  "data": "{\"lastSaved\":\"0001-01-01T00:00:00Z\",\"patchVersion\":1,\"activeModifiers\":{\"doubleCoins\":{\"value\":{\"id\":\"doubleCoins\",\"type\":0,\"subType\":0,\"value\":2},\"expirationType\":0},\"permanent_score_multiplier\":{\"value\":{\"id\":\"permanent_score_multiplier\",\"type\":3,\"subType\":3,\"value\":10},\"expirationType\":0},\"token_multiplier_low\":{\"value\":{\"id\":\"token_multiplier_low\",\"type\":0,\"subType\":2,\"value\":2},\"expirationValue\":100000000000000,\"expirationType\":1}},\"powerupLevels\":{\"jetpack\":6,\"superSneakers\":6,\"magnet\":6,\"doubleScore\":6}}"
+}

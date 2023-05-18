@@ -20,3 +20,9 @@ but it is hard to even reach this number, so it is set.
 <p>
 You can still play the old versions of the SubwaySurfers app, by downloading them from <a href="https://www.apkmirror.com/apk/sybo-games/subwaysurfers/">apkmirror.com</a>. On the bottom left of the <code>Download APK</code> page, you can see the apk upload date, which you need to set your phone's date to, to avoid the annoying <code>Download Update</code> popup.
 </p>
+
+## Creating weird stuff
+
+<p>
+When finding out what the best number for the <code>expirationValue</code> in <code style="background-color: purple;">upgrades.json</code> is, I found out that when the set number is too high(my first try was the 64bit), the number is too much and the same Token Boost widget duplicates itself multiple times under each other.
+</p>

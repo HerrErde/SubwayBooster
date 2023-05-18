@@ -1,4 +1,4 @@
 {
   "version": 1,
-  "data": "{\"lastSaved\":\"\",\"patchVersion\":0,\"totalRuns\":0,\"totalIAPs\":0,\"totalIAPCurrencySpent\":0,\"lastIAPDate\":\"0001-01-01T00:00:00Z\",\"lastIAPTier\":0,\"totalTimeInRuns\":0,\"highscore\":9223372036854775807,\"lastStoredDailyLogin\":\"0001-01-01T00:00:00Z\",\"numSessions\":0,\"daysPlayed\":0,\"lastDatePlayed\":\"0001-01-01T00:00:00Z\",\"prevDateLastPlayed\":\"0001-01-01T00:00:00Z\"}"
+  "data": "{\"lastSaved\":\"0001-01-01T00:00:00Z\",\"patchVersion\":0,\"totalRuns\":0,\"totalIAPs\":0,\"totalIAPCurrencySpent\":0,\"lastIAPDate\":\"0001-01-01T00:00:00Z\",\"lastIAPTier\":0,\"totalTimeInRuns\":0,\"highscore\":9223372036854775807,\"lastStoredDailyLogin\":\"0001-01-01T00:00:00Z\",\"numSessions\":0,\"daysPlayed\":0,\"lastDatePlayed\":\"0001-01-01T00:00:00Z\",\"prevDateLastPlayed\":\"0001-01-01T00:00:00Z\"}"
 }

@@ -16,7 +16,7 @@
 
 ## Please always backup all gameplay data
 
-## Anouncement
+## Announcement
 
 You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/Boards/.. amount
 
@@ -47,7 +47,7 @@ For example, when the app was released on 29.08.2022 set your phone to the same 
 
 ---
 
-### How do i use it?
+### How do I use it?
 
 To modify the SubwaySurfers files, you'll need a file explorer and the latest release from [this link](https://github.com/HerrErde/SubwayBooster/releases/latest). Once you've downloaded the release, unpack the Zip file and extract it into the same folder. In the extracted files, you'll find the **Android** folder. Copy this folder to the **Internal Storage** of your Android device.
 
@@ -82,3 +82,4 @@ Season Hunt: `0067`
 | 4      | Shop Headstart     | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | 5      | Shop Score Booster | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | 6      | EventCoins         | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
+| -      | Token Boost        | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
