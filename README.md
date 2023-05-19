@@ -40,7 +40,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 The files of the SubwaySurfers App are now encrypted, making it more difficult to add new names for the Characters/Outfits/Boards.
 However, it is still possible to modify the SubwaySurfers files by replacing the original SubwaySurfers files with the modified ones.
 
-But it's not too difficult. You can achieve this by downloading the app, renaming it to `.zip`, and then extracting the files `characters.json` and `boards.json` from the folder `assets/tower/game data/`. This folder contains all the necessary information, allowing you to view all characters or boards along with their outfits and Special Abilities.
+But it's not too difficult. You can achieve this by downloading the app, renaming it to `.zip`, and then extracting the files `characters.json` and `boards.json` from the folder `assets/tower/gamedata/`. This folder contains all the necessary information, allowing you to view all characters or boards along with their outfits and Special Abilities.
 
 You can play the old SubwaySurfers app versions. When you set the date of your Phone to the same date (or before) the release of the app on [apkmirror.com](https://apkmirror.com). \
 For example, when the app was released on 29.08.2022 set your phone to the same date.
@@ -83,3 +83,4 @@ Season Hunt: `0067`
 | 5      | Shop Score Booster | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | 6      | EventCoins         | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | -      | Token Boost        | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
+| -      | Double Coins       | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
