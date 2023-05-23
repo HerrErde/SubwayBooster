@@ -62,7 +62,7 @@ Boards [todo/Boards.md](todo/Boards.md)
 
 ### App Info
 
-App Version: `3.12.0`
+App Version: `3.12.2`
 
 Season Hunt: `0067`
 
@@ -74,7 +74,7 @@ Season Hunt: `0067`
 
 | Number | Name               | Default Value       | File                                                                                           |
 | ------ | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------- |
-| -      | Highscore          | 9223372036854775807 | [Android/.../user_stats.json](Android/data/com.kiloo.subwaysurf/files/profile/user_stats.json) |
+| -      | Highscore          | 2147483647          | [Android/.../user_stats.json](Android/data/com.kiloo.subwaysurf/files/profile/user_stats.json) |
 | -      | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](Android/data/com.kiloo.subwaysurf/files/profile/top_run.json)       |
 | 1      | Coins              | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | 2      | Keys               | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
