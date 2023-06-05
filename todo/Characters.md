@@ -161,3 +161,4 @@ All Characters
 - [x] Frutti
 - [x] Spraybot
 - [x] Catrine
+- [x] Rain

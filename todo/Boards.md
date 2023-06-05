@@ -171,3 +171,5 @@ All Boards
 - [x] IScream
 - [x] Tagger
 - [x] Danger Dasher
+- [x] Flying Horse
+- [x] Colour Shift

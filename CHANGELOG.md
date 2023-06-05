@@ -83,13 +83,13 @@
 
 - new top value for wallet top_run & user_stats
 - renamed test.md -> help.md
-- moved help & info & added info.md
+- moved help & info & added info
 - added Features list & fixed season_hunt
 - Added Outfit Pink Punk (Callum), Heartbreaker (Cleo)
 - Added Special Ability SuperJump (Stallion)
-- updated help.md
+- updated help
 - update list
-- Update README.md
+- Update README
 - Added Character Spraybot
 - Added Board Tagger
 
@@ -99,4 +99,17 @@
 - Added Board Wrapped, Danger Dasher, 11th Birthday
 - Added Outfit Deep-Blue (Noel), Championship (Hasina), East-Vest (Zayn)
 - update list
-- Update README.md
+- Update README
+
+### 1.2.4
+
+- Added Character Rain
+- Added Board Flying Horse, Colour Shift
+- Added Outfit The Tourist (Moira)
+- rewritten some text
+- renamed Todo -> todo
+- new date for "lastSaved"
+- adding infinite token boost
+- new value for user_stats.jon (local highscore)
+- updating info & README
+- updating help
