@@ -10,7 +10,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
@@ -31,12 +31,25 @@ jobs:
       - name: Zip
         run: zip -r SubwayBooster.zip Android/
 
-      - name: Upload Data
-        uses: softprops/action-gh-release@v1
-        with:
-          body: ${{steps.var.outputs.version}}
-          tag_name: ${{steps.commit.outputs.body}}
-          files: SubwayBooster.zip
+      - name: Increse version
+        run: python script/update.py
+
+      - name: Get version
+        id: version
+        run: echo version=$(jq -r '.version' Android/data/com.kiloo.subwaysurf/files/version.json) >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated version
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit -am "characters, boards"
+          git push
+
+        - name: Upload Data
+          uses: softprops/action-gh-release@v1
+          with:
+            tag_name: '${{steps.version.outputs.version}}'
+            files: SubwayBooster.zip
 
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
