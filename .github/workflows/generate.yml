@@ -1,0 +1,42 @@
+name: Update
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - update_event
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download Files
+        run: python script/setup.py
+
+      - name: Generate
+        run: |
+          python script/generate_characters.py
+          python script/generate_boards.py
+
+      - name: Move Files
+        run: |
+          mv characters_inventory.json Android/data/com.kiloo.subwaysurf/files/profile/characters_inventory.json
+          mv boards_inventory.json Android/data/com.kiloo.subwaysurf/files/profile/boards_inventory.json
+
+      - name: Zip
+        run: zip -r SubwayBooster.zip Android/
+
+      - name: Upload Data
+        uses: softprops/action-gh-release@v1
+        with:
+          body: ${{steps.var.outputs.version}}
+          tag_name: ${{steps.commit.outputs.body}}
+          files: SubwayBooster.zip
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
