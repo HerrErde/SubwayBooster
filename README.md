@@ -29,7 +29,6 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - _basicly_ **Unlimited Coins**
 - _basicly_ **Unlimited Keys**
 - _basicly_ **Unlimited Boosters**
-- Complete **Season**
 - Top of **Highscore**
 - **30 of 30 Missions/Multiplier**
 - All **Trophies**

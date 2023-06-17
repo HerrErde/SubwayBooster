@@ -46,7 +46,6 @@ major += minor == 0 and patch == 0
 major = min(major, 9)
 
 appversion = get_version()
-season = "0069"
 
 data.update({"version": f"{major}.{minor}.{patch}", "appversion": appversion})
 
