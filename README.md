@@ -22,8 +22,8 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ## Features
 
-- All*most all* [**Characters**](todo/Characters.md) and their **Outfits**
-- All*most all* [**Boards**](todo/Boards.md) with every **Special Ability**
+- Every [**Characters**](todo/Characters.md) and their **Outfits**
+- Every [**Boards**](todo/Boards.md) with every **Special Ability**
 - **Double Coins**
 - **All Upgrades**
 - _basicly_ **Unlimited Coins**
@@ -62,9 +62,7 @@ Boards [todo/Boards.md](todo/Boards.md)
 
 ### App Info
 
-App Version: `3.12.2`
-
-Season Hunt: `0067`
+App Version: `3.13.2`
 
 ## TODO
 
