@@ -155,7 +155,7 @@ All Boards
 - [x] Trickster
 - [x] Boombastic
 - [x] Mag-Neat-O
-- [x] Ssskater (Broken/Unplayable)
+- [x] Ssskater
 - [x] Moped
 - [x] Aero Fish
 - [x] Smoking Slime
