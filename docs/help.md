@@ -9,7 +9,7 @@ RULES
    example `missMaia`.
 
 2. additional outfits are named like this `{outfitname}Outfit`.\
-   example `goldOutfit`. in code is it `\"value\":\"goldOutfit\",\"expirationType\":0}`\
+   example `goldOutfit`. in code is it `\"value\":\"goldOutfit\"}`\
    when the outfit name has a space, rule 1.
 
 3. Characters without outfits just have the `\"lastOutfit\":\"default\"`
@@ -19,19 +19,19 @@ RULES
 #### Miss Maia - One Outfit
 
 ```
-\"missMaia\":{\"value\":{\"id\":\"missMaia\",\"ownedOutfits\":[{\"value\":\"default\",\"expirationType\":0}],\"lastOutfit\":\"default\"},\"expirationType\":0}
+\"missMaia\":{\"value\":{\"id\":\"missMaia\",\"ownedOutfits\":[{\"value\":\"default\"}],\"lastOutfit\":\"default\"}}
 ```
 
 #### Jake - Two additional outfits
 
 ```
-\"jake\":{\"value\":{\"id\":\"jake\",\"ownedOutfits\":[{\"value\":\"default\",\"expirationType\":0},{\"value\":\"darkOutfit\",\"expirationType\":0},{\"value\":\"starOutfit\",\"expirationType\":0}],\"lastOutfit\":\"default\"},\"expirationType\":0}
+\"jake\":{\"value\":{\"id\":\"jake\",\"ownedOutfits\":[{\"value\":\"default\"},{\"value\":\"darkOutfit\"},{\"value\":\"starOutfit\"}],\"lastOutfit\":\"default\"}}
 ```
 
 #### example code
 
 ```
-\"firstSecond\":{\"value\":{\"id\":\"firstSecond\",\"ownedOutfits\":[{\"value\":\"default\",\"expirationType\":0}],\"lastOutfit\":\"default\"},\"expirationType\":0}
+\"firstSecond\":{\"value\":{\"id\":\"firstSecond\",\"ownedOutfits\":[{\"value\":\"default\"}],\"lastOutfit\":\"default\"}}
 ```
 
 ---
@@ -45,36 +45,36 @@ RULES
     example `skullFire`.
 
 2. special abilitys are named just after the ability name \
-    example "Trail" is `trail` in code is it `\"trail\":{\"value\":true,\"expirationType\":0`\
+    example "Trail" is `trail` in code is it `\"trail\":{\"value\":true`\
    when the special ability has a space, rule 1.\
    below is a list of all special abilitys
 
 3. Boards without a visible ability which you can enable and disable\
-   just have the `\"default\":{\"value\":true,\"expirationType\":0}`
+   just have the `\"default\":{\"value\":true}`
 
 ### Example
 
 #### Default Board
 
 ```
-\"default\":{\"value\":{\"id\":\"default\",\"ownedUpgrades\":{}},\"expirationType\":0}
+\"default\":{\"value\":{\"id\":\"default\",\"ownedUpgrades\":{}}}
 ```
 
 #### Skull Fire - Two special abilitys
 
 ```
-\"skullFire\":{\"value\":{\"id\":\"skullFire\",\"ownedUpgrades\":{\"default\":{\"value\":true,\"expirationType\":0},\"doubleJump\":{\"value\":true,\"expirationType\":0},\"highSpeed\":{\"value\":true,\"expirationType\":0}}},\"expirationType\":0}
+\"skullFire\":{\"value\":{\"id\":\"skullFire\",\"ownedUpgrades\":{\"default\":{\"value\":true},\"doubleJump\":{\"value\":true},\"highSpeed\":{\"value\":true}}}}
 ```
 
 #### example code
 
 ```
-\"firstSecond\":{\"value\":{\"id\":\"firstSecond\",\"ownedUpgrades\":{\"default\":{\"value\":true,\"expirationType\":0}}},\"expirationType\":0}
+\"firstSecond\":{\"value\":{\"id\":\"firstSecond\",\"ownedUpgrades\":{\"default\":{\"value\":true}}}}
 ```
 
 #### special abilitys
 
-`\"firstSecond\":{\"value\":true,\"expirationType\":0}`
+`\"firstSecond\":{\"value\":true}`
 
 ---
 
