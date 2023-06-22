@@ -79,6 +79,6 @@ App Version: `3.13.2`
 | 3      | Shop Boards        | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | 4      | Shop Headstart     | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | 5      | Shop Score Booster | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| 6      | EventCoins         | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
+| 6      | Event Coins        | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
 | -      | Token Boost        | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
 | -      | Double Coins       | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
