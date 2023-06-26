@@ -16,10 +16,10 @@ for item in data:
     if item2s != "none":
         for item2 in item2s:
             item2_id = item2["id"]
-            item2_data.append('{"value":"' + item2_id + '"}')
+            item2_data.append('"' + item2_id + '":{"value":true}')
 
     item2_list = ",".join(item2_data)
-    list_data = f'"{item_id}":{{"value":{{"id":"{item_id}","ownedUpgrades":[{{"value":"default"}},{item2_list}]}}}}'
+    list_data = f'"{item_id}":{{"value":{{"id":"{item_id}","ownedUpgrades":{{"default":{{"value":true}},{item2_list}}}}}}}'
 
     item_data_list[item_id] = list_data
 
