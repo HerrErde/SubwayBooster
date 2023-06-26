@@ -113,3 +113,16 @@
 - new value for user_stats.jon (local highscore)
 - updating info & README
 - updating help
+
+### 1.2.5
+
+- Added Character Alfie
+- Added Board Big Boss
+- Added Outfit Noble Newbie (Trym)
+- add inventory gen
+- Update README.md
+- version update
+- remove season & season_hunt.json
+- fixed characters, board
+- clean up unnecessary
+- readding season
