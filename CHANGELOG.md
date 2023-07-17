@@ -1,25 +1,25 @@
-### 1.1.1
+### v1.1.1
 
 - Added Character Alia
 - Added Board Aero Fish
 
-### 1.1.2
+### v1.1.2
 
 - Added Character Phantom (Zap Sideway), Casket, Beelzebook, Smoking Slime (Speed, Jump)
 - Added Board Fantasma, Bob the blob, Slime, Scarlett (Catrina), Manny (Mariachi, Luchador), Cathy, Noel, Morgan, Eddy (Trick, Vampire)
 
-### 1.1.3
+### v1.1.3
 
 - Added Character (none)
 - Added Board Hexed, Pumpkin
 
-### 1.1.4
+### v1.1.4
 
 - fixed commas
 - Added Character Song Yi
 - Added Board Night Lute (Super Speed) Queen fo Hearts
 
-### 1.1.5
+### v1.1.5
 
 - added all other outfits and boards
 - fixed Score Multiplier #1
@@ -29,7 +29,7 @@
 - updated season
 - Added Board Zuper Zapper
 
-### 1.1.6
+### v1.1.6
 
 - all achievements
 - Added outfit Super Runner Fernando
@@ -37,7 +37,7 @@
 - Added Character Elf Jake, Elf Fresh
 - Added Board Snow Cloud, Ho Ho Hoverboard
 
-### 1.1.7
+### v1.1.7
 
 - fixed README
 - Added Character Dak, Lamar, Tom, Odell, Patrick, Saquan (Thanks @NotTiie), Elf Yutani
@@ -46,7 +46,7 @@
 - updated list
 - c294fc1: More characters and boards (@NotTiie)
 
-### 1.1.8
+### v1.1.8
 
 - Added Character Soul
 - Added Outfits Ironbun (Robbit), Spellcaster (Pink)
@@ -56,7 +56,7 @@
 - changed files, season
 - updated test, CHANGELOG
 
-### 1.1.9
+### v1.1.9
 
 - Added Character Tutti
 - Added Board Fan-tastic
@@ -65,7 +65,7 @@
 - updated README
 - 00c3da6: Adds Double Coins (@Vaibhboy2)
 
-### 1.2.0
+### v1.2.0
 
 - Added Outfits Tenta Queen (Koral)
 - Added Board Mag-Neat-O (@edwark43), Viperfish
@@ -73,13 +73,13 @@
 - update list
 - b7f664c: added Mag-Neat-O (@edwark43)
 
-### 1.2.1
+### v1.2.1
 
 - Added Character Frutti
 - Added Board IScream
 - update Changelog, list, Readme
 
-### 1.2.2
+### v1.2.2
 
 - new top value for wallet top_run & user_stats
 - renamed test.md -> help.md
@@ -93,7 +93,7 @@
 - Added Character Spraybot
 - Added Board Tagger
 
-### 1.2.3
+### v1.2.3
 
 - Added Character Catrine
 - Added Board Wrapped, Danger Dasher, 11th Birthday
@@ -101,7 +101,7 @@
 - update list
 - Update README
 
-### 1.2.4
+### v1.2.4
 
 - Added Character Rain
 - Added Board Flying Horse, Colour Shift
@@ -114,7 +114,7 @@
 - updating info & README
 - updating help
 
-### 1.2.5
+### v1.2.5
 
 - Added Character Alfie
 - Added Board Big Boss
@@ -126,3 +126,11 @@
 - fixed characters, board
 - clean up unnecessary
 - readding season
+
+### v1.2.6
+
+- Added Character Bruno
+- Added Board Future Wave
+- Added Outfit Ceibo (Rosa)
+- Update CHANGELOG.md
+- Revert "add auto changelog"
