@@ -1,7 +1,7 @@
 import json
 import requests
 
-gplayapi_url = "https://gplayapi.srik.me/api/apps/com.kiloo.subwaysurf"
+gplayapi_url = "https://gplayapi.herrerde.xyz/api/apps/com.kiloo.subwaysurf"
 json_file = "Android/data/com.kiloo.subwaysurf/files/version.json"
 version_file_path = "Android/data/com.kiloo.subwaysurf/files/profile/season_hunt.json"
 
