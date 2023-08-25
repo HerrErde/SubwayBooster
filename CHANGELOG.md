@@ -134,3 +134,9 @@
 - Added Outfit Ceibo (Rosa)
 - Update CHANGELOG.md
 - Revert "add auto changelog"
+
+### v1.2.7
+
+- Added Character Yutani Harlequin Toad, Tainá
+- Added Board Jamanta, Kite
+- Added Outfit Super Scout Outfit (Super Runner Fernando)

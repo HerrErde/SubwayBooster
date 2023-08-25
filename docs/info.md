@@ -28,10 +28,3 @@ On the bottom left of the <code>Download APK</code> page, you can see the apk up
 When finding out what the best number for the <code>expirationValue</code> in <code style="background-color: purple;">upgrades.json</code> is,<br>
 I found out that when the set number is too high (the first try was 64-bit) and the same Token Boost widget duplicates itself multiple times under each other (which got really laggy).
 </p>
-
-## Season Hunt
-
-<p>
-Because the devs decided to change the file format for the <code style="background-color: purple;">season_hunt.json</code>, I cant just increase the <code>currentTimeSlotId</code> every time they update the app, so I just remove it until it is possible to decrypt it.
-<br>(was useless anyway, characters and boards that you could get through it were already added normally through the _inventory file)
-</p>
