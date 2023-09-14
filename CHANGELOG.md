@@ -140,3 +140,9 @@
 - Added Character Yutani Harlequin Toad, Tainá
 - Added Board Jamanta, Kite
 - Added Outfit Super Scout Outfit (Super Runner Fernando)
+
+### v1.2.8
+
+- Added Character Yuto
+- Added Board Sweet Chili
+- Added Outfit Visual Kei Outfit (Cathy)

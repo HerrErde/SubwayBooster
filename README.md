@@ -22,8 +22,8 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ## Features
 
-- Every [**Characters**](todo/Characters.md) and their **Outfits**
-- Every [**Boards**](todo/Boards.md) with every **Special Ability**
+- Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters)) and their **Outfits**
+- Every [**Board**](https://subwaysurf.fandom.com/wiki/Boards) with every **Special Ability**
 - **Double Coins**
 - **All Upgrades**
 - _basicly_ **Unlimited Coins**
