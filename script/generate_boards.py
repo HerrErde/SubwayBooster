@@ -1,6 +1,5 @@
 import json
 
-
 # Read the input file
 with open("boards_data.json") as f:
     data = json.load(f)
@@ -16,10 +15,13 @@ for item in data:
     if item2s != "none":
         for item2 in item2s:
             item2_id = item2["id"]
-            item2_data.append('"' + item2_id + '":{"value":true}')
+            item2_data.append(f'"{item2_id}":{{"value":true}}')
 
     item2_list = ",".join(item2_data)
-    list_data = f'"{item_id}":{{"value":{{"id":"{item_id}","ownedUpgrades":{{"default":{{"value":true}},{item2_list}}}}}}}'
+    if item2_list:
+        item2_list = "," + ",".join(item2_data)
+
+    list_data = f'"{item_id}":{{"value":{{"id":"{item_id}","ownedUpgrades":{{"default":{{"value":true}}{item2_list}}}}}}}'
 
     item_data_list[item_id] = list_data
 

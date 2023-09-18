@@ -38,7 +38,7 @@ jobs:
         id: version
         run: |
           echo version=v$(jq -r '.version' Android/data/com.kiloo.subwaysurf/files/version.json) >> $GITHUB_OUTPUT
-          echo changelog=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.body') >> $GITHUB_OUTPUT
+          echo changelog=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.body' | tr '\n' '\r\n') >> $GITHUB_OUTPUT
 
       - name: Commit and push updated version
         run: |

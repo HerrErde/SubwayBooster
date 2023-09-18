@@ -16,7 +16,7 @@ for item in data:
     if item2s != "none":
         for item2 in item2s:
             item2_id = item2["id"]
-            item2_data.append('{"value":"' + item2_id + '"}')
+            item2_data.append(f'{"value":"{item2_id}"}')
 
     item2_list = ",".join(item2_data)
     list_data = (
@@ -30,7 +30,7 @@ inventory_data = ",".join(item_data_list.values())
 
 output_data = {
     "version": 3,
-    "data": '{"selected":{"character":"Jake","outfit":"default"},"owned":{'
+    "data": '{"selected":{"character":"jake","outfit":"default"},"owned":{'
     + inventory_data
     + "}}",
 }

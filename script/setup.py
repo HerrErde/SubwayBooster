@@ -25,7 +25,3 @@ def download_latest_files():
     for file in files:
         url = base_url + file
         download_file(url, file)
-
-
-if __name__ == "__main__":
-    download_latest_files()

@@ -1,16 +1,16 @@
 <h1 align="center">SubwayBooster</h1>
 <p align="center">
   <a>
-  <img alt="Github All Time Download Count" src="https://img.shields.io/github/downloads/HerrErde/SubwayBooster/total.svg?color=181717&logo=github&style=for-the-badge">
+  <img alt="Github All Time Download Count" src="https://img.shields.io/github/downloads/HerrErde/SubwayBooster/total.svg?color=181717&logo=github&style=for-the-badge&cacheSeconds=3600">
   </a>
 <a href="https://github.com/HerrErde/SubwayBooster/releases/latest">
-  <img alt="Github Release Download Count" src="https://img.shields.io/github/downloads/HerrErde/SubwayBooster/latest/total.svg?color=181717&logo=github&style=for-the-badge">
+  <img alt="Github Release Download Count" src="https://img.shields.io/github/downloads/HerrErde/SubwayBooster/latest/total.svg?color=181717&logo=github&style=for-the-badge&cacheSeconds=3600">
   </a>
   <a href="https://github.com/HerrErde/SubwayBooster/releases/latest">
-  <img alt="GitHub Release Tag" src="https://img.shields.io/github/release/HerrErde/SubwayBooster/all.svg?style=for-the-badge&logo=github&logoColor=fafafa&colorA=191b25&colorB=32cb8b">
+  <img alt="GitHub Release Tag" src="https://img.shields.io/github/release/HerrErde/SubwayBooster/all.svg?style=for-the-badge&logo=github&logoColor=fafafa&colorA=191b25&colorB=32cb8b&cacheSeconds=3600">
   </a>
   <a href="https://github.com/HerrErde/SubwayBooster/releases/">
-    <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/HerrErde/SubwayBooster.svg?style=for-the-badge">
+    <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/HerrErde/SubwayBooster.svg?style=for-the-badge&cacheSeconds=3600">
   </a>
 </p>
 
@@ -22,7 +22,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ## Features
 
-- Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters)) and their **Outfits**
+- Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters) and their **Outfits**
 - Every [**Board**](https://subwaysurf.fandom.com/wiki/Boards) with every **Special Ability**
 - **Double Coins**
 - **All Upgrades**
@@ -52,7 +52,7 @@ If you know what you're doing, you can edit the individual files and then copy t
 
 ---
 
-Other [docs/info](docs/info.md) <br>
+Other [docs/info](docs/info.md)
 
 ---
 

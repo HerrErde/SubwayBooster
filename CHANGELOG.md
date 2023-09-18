@@ -146,3 +146,11 @@
 - Added Character Yuto
 - Added Board Sweet Chili
 - Added Outfit Visual Kei Outfit (Cathy)
+
+### v1.2.9
+
+- fix upgrades
+- Update wallet.json
+- Added Characters Hali
+- Added Outfit Tropi-Taha Outfit (Taha)
+- Added Boards RaveRider
