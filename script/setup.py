@@ -20,8 +20,11 @@ def download_file(url, filename):
         file.write(response.content)
 
 
-def download_latest_files():
+def download():
     base_url = f"https://github.com/{org_name}/{repo_name}/releases/latest/download/"
     for file in files:
         url = base_url + file
         download_file(url, file)
+
+
+download()
