@@ -56,15 +56,15 @@ Other [docs/info](docs/info.md)
 
 ---
 
-| Number | Name               | Default Value       | File                                                                                           |
-| ------ | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------- |
-| -      | Highscore          | 2147483647          | [Android/.../user_stats.json](Android/data/com.kiloo.subwaysurf/files/profile/user_stats.json) |
-| -      | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](Android/data/com.kiloo.subwaysurf/files/profile/top_run.json)       |
-| 1      | Coins              | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| 2      | Keys               | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| 3      | Shop Boards        | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| 4      | Shop Headstart     | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| 5      | Shop Score Booster | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| 6      | Event Coins        | 2100000000          | [Android/.../wallet.json](Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)         |
-| -      | Token Boost        | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
-| -      | Double Coins       | 2                   | [Android/.../upgrades.json](Android/data/com.kiloo.subwaysurf/files/profile/upgrades.json)     |
+| Number | Name               | Default Value       | File                                                     |
+| ------ | ------------------ | ------------------- | -------------------------------------------------------- |
+| -      | Highscore          | 2147483647          | [Android/.../user_stats.json](src/files/user_stats.json) |
+| -      | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/files/top_run.json)       |
+| 1      | Coins              | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 2      | Keys               | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 3      | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 4      | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 5      | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 6      | Event Coins        | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| -      | Token Boost        | 2                   | [Android/.../upgrades.json](src/files/upgrades.json)     |
+| -      | Double Coins       | 2                   | [Android/.../upgrades.json](src/files/upgrades.json)     |

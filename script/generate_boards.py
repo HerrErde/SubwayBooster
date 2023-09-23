@@ -11,28 +11,27 @@ for item in data:
     item_id = item["id"]
     item2s = item.get("upgrades", "none")
 
-    item2_data = []
+    item2_data = {}
     if item2s != "none":
         for item2 in item2s:
             item2_id = item2["id"]
-            item2_data.append(f'"{item2_id}":{{"value":true}}')
+            item2_data[item2_id] = {"value": True}
 
-    item2_list = ",".join(item2_data)
-    if item2_list:
-        item2_list = "," + ",".join(item2_data)
-
-    list_data = f'"{item_id}":{{"value":{{"id":"{item_id}","ownedUpgrades":{{"default":{{"value":true}}{item2_list}}}}}}}'
+    list_data = {
+        "value": {
+            "id": item_id,
+            "ownedUpgrades": {
+                "default": {"value": True},
+                **item2_data,
+            }
+        }
+    }
 
     item_data_list[item_id] = list_data
 
 # Generate the output
-inventory_data = ",".join(item_data_list.values())
-
-output_data = {
-    "version": 3,
-    "data": '{"selected":"default","owned":{' + inventory_data + "}}",
-}
+inventory_data = {"version": 3, "data": {"selected": "default", "owned": item_data_list}}
 
 # Write the output file
-with open("boards_inventory.json", "w") as f:
-    json.dump(output_data, f, indent=2)
+with open("src/profile/boards_inventory.json", "w", encoding="utf-8") as f:
+    json.dump(inventory_data, f, indent=2, ensure_ascii=False)

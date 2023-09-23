@@ -1,4 +1,0 @@
-{
-  "version": 1,
-  "data": "{\"lastSaved\":\"0001-01-01T00:00:00Z\",\"patchVersion\":0,\"hasUnclaimedReward\":false,\"currentCountry\":\"null\",\"nextCountry\":null,\"currentScore\":9223372036854775807,\"unsubmittedScore\":{\"score\":9223372036854775807,\"scoreDate\":\"0001-01-01T00:00:00Z\",\"metadata\":null},\"previousScore\":0,\"previousBracket\":null,\"startDate\":\"0001-01-01T00:00:00Z\",\"lastClaimedTournamentStart\":\"0001-01-01T00:00:00Z\",\"friendRuns\":{},\"currentTopScoreMetadata\":[{\"key\":\"multiplier\",\"value\":\"1\"},{\"key\":\"character\",\"value\":\"jake\"},{\"key\":\"board\",\"value\":\"default\"}]}"
-}

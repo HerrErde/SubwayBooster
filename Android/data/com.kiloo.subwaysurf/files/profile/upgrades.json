@@ -1,4 +1,0 @@
-{
-  "version": 2,
-  "data": "{\"lastSaved\":\"0001-01-01T00:00:00Z\",\"patchVersion\":1,\"currencyPickupModifiers\":{\"doubleCoins\":{\"value\":{\"id\":\"doubleCoins\",\"type\":0,\"subType\":0,\"value\":2}}},\"scoreModifiers\":{\"permanent_score_multiplier\":{\"value\":{\"id\":\"permanent_score_multiplier\",\"type\":0,\"subType\":3,\"value\":2}}},\"powerupLevels\":{\"jetpack\":6,\"superSneakers\":6,\"magnet\":6,\"doubleScore\":6}}"
-}

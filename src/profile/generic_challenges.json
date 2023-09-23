@@ -1,0 +1,582 @@
+{
+  "version": 1,
+  "data": {
+    "lastSaved": "0001-01-01T00:00:00Z",
+    "patchVersion": 0,
+    "challengeStates": {
+      "dailyChallenge": {
+        "challengeId": "dailyChallenge",
+        "currentSetEntryID": "v3_default",
+        "default": true,
+        "currentScore": 220985,
+        "lastSeenScore": 220985,
+        "startDate": "0001-01-01T00:00:00Z",
+        "endDate": "0001-01-01T00:00:00Z",
+        "sunsetPeriodInSeconds": 0,
+        "multiplierOnStart": 1,
+        "rewardStates": [
+          {
+            "State": 10,
+            "RequiredScore": 5000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "ScoreBoosters",
+                  "value": 1
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 50
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 50
+                }
+              }
+            ]
+          },
+          {
+            "State": 2,
+            "RequiredScore": 5000,
+            "AdRequired": true,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "Hoverboards",
+                  "value": 3
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 300
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 150
+                }
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 15000,
+            "Rewards": [
+              {
+                "reward": { "type": "Currency", "id": "HeadStarts", "value": 1 }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 100
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 100
+                }
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 25000,
+            "Rewards": [
+              {
+                "reward": { "type": "Currency", "id": "HeadStarts", "value": 1 }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 100
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 100
+                }
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 45000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "ScoreBoosters",
+                  "value": 1
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 100
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 100
+                }
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 75000,
+            "Rewards": [
+              { "reward": { "type": "Currency", "id": "Keys", "value": 3 } },
+              {
+                "reward": { "type": "Currency", "id": "Coins", "value": 1000 }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 350
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 350
+                }
+              }
+            ]
+          }
+        ],
+        "requirementsMultiplier": 1,
+        "successParameter": 0,
+        "successBehaviour": 0,
+        "matchmakingId": "dailyChallenge",
+        "ruleSetId": null,
+        "relatedChallenge": "coinChallenge",
+        "endAccess": -1,
+        "requirements": {
+          "access": {
+            "data": [
+              {
+                "type": "BaseMultiplier",
+                "operator": "GreaterEqual",
+                "value": "4"
+              }
+            ],
+            "operator": "And"
+          },
+          "progress": { "operator": "And" }
+        },
+        "kind": 1,
+        "markAsSeen": true
+      },
+      "coinChallenge": {
+        "challengeId": "coinChallenge",
+        "currentSetEntryID": "v3_new_coin",
+        "default": true,
+        "currentScore": 2108,
+        "lastSeenScore": 1144,
+        "startDate": "0001-01-01T00:00:00Z",
+        "endDate": "0001-01-01T00:00:00Z",
+        "sunsetPeriodInSeconds": 0,
+        "multiplierOnStart": 1,
+        "rewardStates": [
+          {
+            "State": 10,
+            "RequiredScore": 250,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 50
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 50
+                }
+              }
+            ]
+          },
+          {
+            "State": 2,
+            "RequiredScore": 500,
+            "AdRequired": true,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 300
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 300
+                }
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 1000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 100
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 100
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "ScoreBoosters",
+                  "value": 1
+                }
+              }
+            ]
+          },
+          {
+            "State": 1,
+            "RequiredScore": 2000,
+            "GroupId": 1,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 100
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 100
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 3000,
+            "GroupId": 1,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 150
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 150
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "Hoverboards",
+                  "value": 2
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 4000,
+            "GroupId": 2,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 200
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 200
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 5000,
+            "GroupId": 2,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 300
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 300
+                }
+              },
+              {
+                "reward": { "type": "Currency", "id": "HeadStarts", "value": 3 }
+              }
+            ]
+          }
+        ],
+        "requirementsMultiplier": 1,
+        "successParameter": 1,
+        "successBehaviour": 1,
+        "ruleSetId": null,
+        "endAccess": -1,
+        "requirements": {
+          "access": {
+            "data": [
+              {
+                "type": "BaseMultiplier",
+                "operator": "GreaterEqual",
+                "value": "4"
+              }
+            ],
+            "operator": "And"
+          },
+          "progress": { "operator": "And" }
+        },
+        "kind": 2
+      },
+      "lunarNewYear_marathon_challenge": {
+        "challengeId": "lunarNewYear_marathon_challenge",
+        "currentSetEntryID": "v2_cbe",
+        "default": false,
+        "startDate": "0001-01-01T00:00:00Z",
+        "endDate": "0001-01-01T00:00:00Z",
+        "sunsetPeriodInSeconds": 259200,
+        "multiplierOnStart": 1,
+        "rewardStates": [
+          {
+            "State": 0,
+            "RequiredScore": 7000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "ScoreBoosters",
+                  "value": 1
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 100
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 100
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 7000,
+            "AdRequired": true,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "Hoverboards",
+                  "value": 1
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 300
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 300
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 20000,
+            "Rewards": [
+              {
+                "reward": { "type": "Currency", "id": "HeadStarts", "value": 1 }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 150
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 150
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 40000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "ScoreBoosters",
+                  "value": 1
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 200
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 200
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 65000,
+            "Rewards": [
+              {
+                "reward": { "type": "Currency", "id": "HeadStarts", "value": 2 }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 250
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 250
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 90000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "Hoverboards",
+                  "value": 3
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 300
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 300
+                }
+              }
+            ]
+          },
+          {
+            "State": 0,
+            "RequiredScore": 120000,
+            "Rewards": [
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "ScoreBoosters",
+                  "value": 3
+                }
+              },
+              {
+                "reward": {
+                  "type": "SeasonHuntToken",
+                  "id": null,
+                  "value": 10
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 200
+                }
+              },
+              {
+                "reward": {
+                  "type": "Currency",
+                  "id": "EventCoins",
+                  "value": 500
+                },
+                "fallbackReward": {
+                  "type": "Currency",
+                  "id": "Coins",
+                  "value": 500
+                }
+              }
+            ]
+          }
+        ],
+        "requirementsMultiplier": 1,
+        "successParameter": 0,
+        "successBehaviour": 0,
+        "matchmakingId": "dailyChallenge",
+        "ruleSetId": null,
+        "endAccess": -1,
+        "requirements": {
+          "access": {
+            "data": [
+              {
+                "type": "BaseMultiplier",
+                "operator": "GreaterEqual",
+                "value": "6"
+              }
+            ],
+            "operator": "And"
+          },
+          "progress": {
+            "data": [
+              { "type": "City", "operator": "Equal", "value": "lunarnewyear" }
+            ],
+            "operator": "And"
+          }
+        },
+        "kind": 4,
+        "targetCity": "lunarnewyear",
+        "markAsSeen": true
+      }
+    }
+  }
+}
