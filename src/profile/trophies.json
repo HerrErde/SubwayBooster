@@ -2,7 +2,15 @@
   "version": 1,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
-    "patchVersion": 0,
-    "trophiesEarned": []
+    "trophiesEarned": [
+      "trophy.microphone",
+      "trophy.headphones",
+      "trophy.tapeblack",
+      "trophy.lpblack",
+      "trophy.diamond_green",
+      "trophy.diamond_yellow",
+      "trophy.diamond_red",
+      "trophy.diamond_purple"
+    ]
   }
 }
