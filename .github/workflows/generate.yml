@@ -22,12 +22,10 @@ jobs:
         run: |
           python script/generate_characters.py
           python script/generate_boards.py
+          python script/collections.py
 
       - name: Increse version
         run: python script/update.py
-
-      - name: Zip
-        run: zip -r SubwayBooster.zip Android/
 
       - name: Get version
         id: version
