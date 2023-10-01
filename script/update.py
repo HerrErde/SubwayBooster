@@ -3,57 +3,66 @@ import requests
 
 gplayapi_url = "https://gplayapi.herrerde.xyz/api/apps/com.kiloo.subwaysurf"
 json_file = "src/version.json"
-version_file_path = "src/profile/season_hunt.json"
+season_hunt_file = "src/profile/season_hunt.json"
+collections_file = "collections_data.json"
 
 
 def get_version():
-    return requests.get(gplayapi_url).json()["version"]
+    response = requests.get(gplayapi_url)
+    response.raise_for_status()
+    return response.json()["version"]
 
 
-def update_season(data, old_season, new_season):
-    return json.loads(
-        json.dumps(data).replace(f"season_S{old_season}", f"season_S{new_season}")
+def update_season():
+    with open(collections_file, "r") as file:
+        data = json.load(file)
+        time_slot = data.get("timeSlot", "")
+        return int(time_slot.split("_S")[1])
+
+
+def update_season_hunt(season):
+    with open(season_hunt_file, "r+") as file:
+        season_hunt_data = json.load(file)
+        season_hunt_data["data"]["currentTimeSlotId"] = f"season_S{season}"
+        file.seek(0)
+        json.dump(season_hunt_data, file, indent=2)
+
+
+def update_version(data, season):
+    version = data["version"]
+    major, minor, patch = map(int, version.split("."))
+
+    patch = (patch + 1) % 10
+    minor += int(patch == 0)
+    minor %= 10
+    major += int(minor == 0 and patch == 0)
+    major = min(major, 9)
+
+    app_version = get_version()
+
+    data.update(
+        {
+            "version": f"{major}.{minor}.{patch}",
+            "appversion": app_version,
+            "season": str(season),
+        }
     )
 
+    return data
 
-def update_version():
+
+def main():
     with open(json_file, "r+") as file:
         data = json.load(file)
+        season = update_season()
 
-        old_season = int(data.get("season", 0))
-        version = data["version"]
-        major, minor, patch = map(int, version.split("."))
-
-        patch = (patch + 1) % 10
-        minor += int(patch == 0)
-        minor %= 10
-        major += int(minor == 0 and patch == 0)
-        major = min(major, 9)
-
-        season = old_season + 1
-
-        app_version = get_version()
-
-        data.update(
-            {
-                "version": f"{major}.{minor}.{patch}",
-                "appversion": app_version,
-                "season": str(season)
-            }
-        )
+        updated_data = update_version(data, season)
 
         file.seek(0)
-        json.dump(data, file, indent=2)
+        update_season_hunt(season)
+        json.dump(updated_data, file, indent=2)
         file.truncate()
         file.write("\n")
 
-        with open(version_file_path, "r+") as version_file:
-            version_data = json.load(version_file)
-            new_version_data = update_season(version_data, old_season, season)
-            version_file.seek(0)
-            json.dump(new_version_data, version_file, indent=2)
-            version_file.truncate()
-            version_file.write("\n")
 
-
-update_version()
+main()
