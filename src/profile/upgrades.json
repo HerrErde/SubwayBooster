@@ -1,11 +1,26 @@
 {
-  "version": 2,
+  "version": 3,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
     "patchVersion": 1,
     "currencyPickupModifiers": {
       "doubleCoins": {
-        "value": { "id": "doubleCoins", "type": 0, "subType": 0, "value": 2 }
+        "value": {
+          "id": "doubleCoins",
+          "type": 0,
+          "subType": 0,
+          "value": 2
+        }
+      },
+      "token_multiplier_low": {
+        "value": {
+          "id": "token_multiplier_low",
+          "type": 0,
+          "subType": 2,
+          "value": 2
+        },
+        "expirationValue": 99999999999999,
+        "expirationType": 1
       }
     },
     "scoreModifiers": {
