@@ -1,7 +1,7 @@
 import json
 import requests
 
-gplayapi_url = "https://gplayapi.herrerde.xyz/api/apps/com.kiloo.subwaysurf"
+gplayapi_url = "https://gplayapi.cashlessconsumer.in/api/apps/com.kiloo.subwaysurf"
 json_file = "src/version.json"
 season_hunt_file = "src/profile/season_hunt.json"
 collections_file = "collections_data.json"
