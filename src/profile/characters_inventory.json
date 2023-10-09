@@ -1070,6 +1070,9 @@
             },
             {
               "value": "catrinaOutfit"
+            },
+            {
+              "value": "botanicalHorrorOutfit"
             }
           ]
         }
@@ -2197,6 +2200,26 @@
       "hali": {
         "value": {
           "id": "hali",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "thursday": {
+        "value": {
+          "id": "thursday",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "outatimeJake": {
+        "value": {
+          "id": "outatimeJake",
           "ownedOutfits": [
             {
               "value": "default"

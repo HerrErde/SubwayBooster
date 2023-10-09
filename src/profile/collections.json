@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "data": {
+    "lastSaved": "0001-01-01T00:00:00Z",
+    "collectionsState": {
+      "collection_1": {
+        "id": "collection_1",
+        "items": [
+          {
+            "id": "jake.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "jake.darkOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "starboard.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": null
+      },
+      "collection_2": {
+        "id": "collection_2",
+        "items": [
+          {
+            "id": "lumberjack.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "lucy.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "tagbot.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "ninja.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "frank.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "starboard.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": null
+      },
+      "collection_3": {
+        "id": "collection_3",
+        "items": [
+          {
+            "id": "jake.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "tricky.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "fresh.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "spike.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "yutani.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": null
+      },
+      "collection_4": {
+        "id": "collection_4",
+        "items": [
+          {
+            "id": "jake.starOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "tricky.camoOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "fresh.sportOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "yutani.gadgetOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "windglider.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": null
+      },
+      "collection_5": {
+        "id": "collection_5",
+        "items": [
+          {
+            "id": "sunset.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "tasha.cheeroutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "frank.clownOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "king.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "brody.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "ella.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": null
+      },
+      "collection_6": {
+        "id": "collection_6",
+        "items": [
+          {
+            "id": "daredevil.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "ella.rastaOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "zoe.bikerOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "lucy.steamOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "brody.chillOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "missMaia.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": null
+      }
+    },
+    "seasonalCollectionsState": {
+      "collection_season_S74": {
+        "id": "collection_season_S74",
+        "items": [
+          {
+            "id": "zombiejake.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "pumpkin",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "zombiejake.seriousOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "scarlett.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "scarlett.catrinaOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "soul.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          }
+        ],
+        "upgradesState": [
+          2
+        ],
+        "claimedPoints": 0
+      }
+    },
+    "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      }
+    ],
+    "viewed": true,
+    "meterViewed": true,
+    "lastUpdate": "0001-01-01T00:00:00Z"
+  }
+}

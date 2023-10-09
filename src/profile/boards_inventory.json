@@ -1977,6 +1977,32 @@
             }
           }
         }
+      },
+      "flamingdoll": {
+        "value": {
+          "id": "flamingdoll",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "backtothefuture": {
+        "value": {
+          "id": "backtothefuture",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }
