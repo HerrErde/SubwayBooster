@@ -24,14 +24,17 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 - Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters) and their **Outfits**
 - Every [**Board**](https://subwaysurf.fandom.com/wiki/Boards) with every **Special Ability**
-- **Double Coins**
 - **All Upgrades**
+- **Double Coins**
+- **Endless Token Boost**
 - _basicly_ **Unlimited Coins**
 - _basicly_ **Unlimited Keys**
 - _basicly_ **Unlimited Boosters**
+- _basicly_ **Unlimited Hoverboards**
 - Complete **Season**
 - Top of **Highscore**
-- **30 of 30 Missions/Multiplier**
+- **30 of 30 Missions/Score Multipliers**
+- All **Collections**
 - All **Trophies**
 - All **Achievements**
 
@@ -56,15 +59,16 @@ Other [docs/info](docs/info.md)
 
 ---
 
-| Number | Name               | Default Value       | File                                                     |
-| ------ | ------------------ | ------------------- | -------------------------------------------------------- |
-| -      | Highscore          | 2147483647          | [Android/.../user_stats.json](src/files/user_stats.json) |
-| -      | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/files/top_run.json)       |
-| 1      | Coins              | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
-| 2      | Keys               | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
-| 3      | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
-| 4      | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
-| 5      | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
-| 6      | Event Coins        | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
-| -      | Token Boost        | 2                   | [Android/.../upgrades.json](src/files/upgrades.json)     |
-| -      | Double Coins       | 2                   | [Android/.../upgrades.json](src/files/upgrades.json)     |
+| Number            | Name               | Default Value       | File                                                     |
+| ----------------- | ------------------ | ------------------- | -------------------------------------------------------- |
+| -                 | Highscore          | 2147483647          | [Android/.../user_stats.json](src/files/user_stats.json) |
+| -                 | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/files/top_run.json)       |
+| 1                 | Coins              | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 2                 | Keys               | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 3                 | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 4                 | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 5                 | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| 6                 | Event Coins        | 2100000000          | [Android/.../wallet.json](src/files/wallet.json)         |
+| -                 | Token Boost        | 2                   | [Android/.../upgrades.json](src/files/upgrades.json)     |
+| -                 | Double Coins       | 2                   | [Android/.../upgrades.json](src/files/upgrades.json)     |
+| `expirationValue` | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/files/upgrades.json)     |

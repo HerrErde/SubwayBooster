@@ -154,3 +154,19 @@
 - Added Characters Hali
 - Added Outfit Tropi-Taha Outfit (Taha)
 - Added Boards RaveRider
+
+### v1.3.0
+
+- fix #7
+- some changes
+- fix #8
+- Update generate.yml
+- changing of generating files
+- add collections
+- Update update.py
+- small fixes
+- add token boost
+- Update update.py
+- Added Characters Thursday, outatimeJake
+- Added Outfit botanicalHorrorOutfit (scarlett)
+- Added Boards flamingdoll, backtothefuture
