@@ -3,6 +3,32 @@
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
     "patchVersion": 1,
+    "scoreModifiers": {
+      "permanent_score_multiplier": {
+        "value": {
+          "id": "permanent_score_multiplier",
+          "type": 2,
+          "subType": 3,
+          "value": 7
+        }
+      },
+      "permanent_score_multiplier_1": {
+        "value": {
+          "id": "permanent_score_multiplier_1",
+          "type": 2,
+          "subType": 3,
+          "value": 1
+        }
+      },
+      "permanent_score_multiplier_3": {
+        "value": {
+          "id": "permanent_score_multiplier_3",
+          "type": 2,
+          "subType": 3,
+          "value": 3
+        }
+      }
+    },
     "currencyPickupModifiers": {
       "doubleCoins": {
         "value": {
@@ -12,25 +38,15 @@
           "value": 2
         }
       },
-      "token_multiplier_low": {
-        "value": {
-          "id": "token_multiplier_low",
-          "type": 0,
-          "subType": 2,
-          "value": 2
-        },
-        "expirationValue": 99999999999999,
-        "expirationType": 1
-      }
-    },
-    "scoreModifiers": {
       "permanent_score_multiplier": {
         "value": {
           "id": "permanent_score_multiplier",
           "type": 0,
-          "subType": 3,
-          "value": 2
-        }
+          "subType": 2,
+          "value": 7
+        },
+        "expirationValue": 99999999999999,
+        "expirationType": 1
       }
     },
     "powerupLevels": {
