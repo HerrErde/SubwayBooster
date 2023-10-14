@@ -25,7 +25,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - [ ] Season Quests
 - [ ] Live Events
 - [ ] Challenge
-- [ ] Calender
+- [x] Calender
 - [ ] No Notifys
 
 ## Features
