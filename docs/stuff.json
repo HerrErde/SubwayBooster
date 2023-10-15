@@ -1,0 +1,151 @@
+[
+    {
+        "challenges.json": {
+            "icon": [
+                "icon_switch",
+                "icon_mystery_challenge",
+                "icon_cooldown",
+                "icon_plant_invasion",
+                "icon_hurdle",
+                "icon_how_to_calendar",
+                "icon_hourglass",
+                "icon_marathon",
+                "icon_coinpack_coinmeter",
+                "icon_board2",
+                "icon_relay",
+                "icon_dailychallenge"
+            ],
+            "shortcut": null
+        }
+    },
+    {
+        "characters.json": {
+            "icon": [
+                "icon_photomode_boombox",
+                "icon_photomode_emote",
+                "icon_photomode_hoverboard",
+                "icon_dailychallenge",
+                "icon_photomode_crew"
+            ],
+            "shortcut": null
+        }
+    },
+    {
+        "collections.json": {
+            "icon": [
+                "supermysterybox",
+                "core_crew_collection_icon",
+                "icon_collection_points",
+                "icon_score_multiplier_bonus",
+                "icon_tab_character"
+            ],
+            "shortcut": null
+        }
+    },
+    {
+        "missions.json": {
+            "icon": [
+                "default_icon",
+                "icon_pogostick",
+                "magnet",
+                "supersneakers",
+                "icon_scoremultiplier",
+                "jetpack",
+                "hoverboard",
+                "headstart",
+                "scorebooster",
+                "keypack_1",
+                "icon_wordhunt",
+                "mysterybox",
+                "coinpack_2"
+            ],
+            "shortcut": null
+        }
+    },
+    {
+        "products.json": {
+            "icon": [
+                "keyPack_1",
+                "magnet",
+                "minimysterybox",
+                "surfer_pack",
+                "coinPack_6",
+                "coinPack_5",
+                "mysteryBox",
+                "superMysteryBox",
+                "icon_social_twitter",
+                "headstart",
+                "scoreBooster",
+                "coinPack_4",
+                "tokenpack_4",
+                "doubleScore",
+                "tokenBox",
+                "coinPack_3",
+                "hoverboard",
+                "keyPack_2",
+                "master_pack",
+                "superSneakers",
+                "coinpack_6",
+                "coinPack_2",
+                "miniMysteryBox",
+                "icon_social_instagram",
+                "keyPack_5",
+                "champion_pack",
+                "coinPack_1",
+                "icon_social_facebook",
+                "icon_social_bornthisway",
+                "coinpack_5",
+                "coinpack_2",
+                "icon_social_discord",
+                "tokenpack_2",
+                "keyPack_3",
+                "icon_social_tiktok",
+                "legend_pack",
+                "keyPack_4",
+                "pro_pack",
+                "jetpack",
+                "coinpack_4",
+                "icon_social_youtube"
+            ],
+            "shortcut": null
+        }
+    },
+    {
+        "quests.json": {
+            "icon": [
+                "icon_pogostick",
+                "magnet",
+                "supersneakers",
+                "icon_medal_gold",
+                "icon_elitechallenge",
+                "mysterybox",
+                "icon_sneaker",
+                "$event_coin",
+                "icon_coin",
+                "hoverboard",
+                "headstart",
+                "scorebooster",
+                "jetpack",
+                "doublescore",
+                "icon_dailychallenge",
+                "icon_video",
+                "icon_key_02"
+            ],
+            "shortcut": [
+                "TopRun",
+                "MainMenu",
+                "Offers",
+                "Shop",
+                "WorldTour"
+            ]
+        }
+    },
+    {
+        "useringamecommunication.json": {
+            "icon": [
+                "icon_collection_points"
+            ],
+            "shortcut": null
+        }
+    }
+]
