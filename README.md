@@ -22,9 +22,9 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ## TODO
 
-- [ ] Season Quests
-- [ ] Live Events
-- [ ] Challenge
+- [ ] ~~Season Quests~~
+- [ ] ~~Live Events~~
+- [ ] ~~Challenge~~
 - [x] Calender
 - [ ] No Notifys
 
