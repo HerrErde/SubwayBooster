@@ -20,18 +20,10 @@
 
 You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/Boards/.. amount
 
-## TODO
-
-- [ ] ~~Season Quests~~
-- [ ] ~~Live Events~~
-- [ ] ~~Challenge~~
-- [x] Calender
-- [ ] No Notifys
-
 ## Features
 
 - Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters) and their **Outfits**
-- Every [**Board**](https://subwaysurf.fandom.com/wiki/Boards) with every **Special Ability**
+- Every [**HoverBoard**](https://subwaysurf.fandom.com/wiki/Boards) with every **Special Ability**
 - **All Upgrades**
 - **Double Coins**
 - **Endless Token Boost**

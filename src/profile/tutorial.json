@@ -1,11 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
-    "patchVersion": 0,
-    "runTutorialCompleted": true,
-    "tutorialCompletionTime": "0001-01-01T00:00:00Z",
-    "hoverboardAllowed": true,
-    "finalHoverboardNudgeShown": true
+    "patchVersion": 2,
+    "tutorialCompleted": {
+      "0": {
+        "CompletedTime": "0001-01-01T00:00:00Z",
+        "CompletedSteps": {}
+      }
+    },
+    "isHoverboardUsed": true
   }
 }
