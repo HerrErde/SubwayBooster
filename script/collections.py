@@ -11,9 +11,9 @@ collections_state = {}
 for collection in collections_data["collections"]:
     collection_id = collection["id"]
     items = []
-    for item_id, item_info in collection["items"].items():
+    for item_info in collection["items"]:
         item_data = {
-            "id": item_id,
+            "id": item_info["id"],
             "type": item_info["type"],
             "claimed": True,
             "lastUpdate": "0001-01-01T00:00:00Z",
