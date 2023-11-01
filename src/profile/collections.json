@@ -245,41 +245,41 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S74": {
-        "id": "collection_season_S74",
+      "collection_season_S75": {
+        "id": "collection_season_S75",
         "items": [
           {
-            "id": "zombiejake.default",
+            "id": "alexandre.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "pumpkin",
+            "id": "lion",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "zombiejake.seriousOutfit",
+            "id": "mina.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "scarlett.default",
+            "id": "brandon.kungFuOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "scarlett.catrinaOutfit",
+            "id": "rin.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "soul.default",
+            "id": "musician.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"

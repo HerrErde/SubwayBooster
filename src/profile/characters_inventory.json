@@ -1727,6 +1727,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "stanOutfit"
             }
           ]
         }
@@ -2220,6 +2223,26 @@
       "outatimeJake": {
         "value": {
           "id": "outatimeJake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "jiYeong": {
+        "value": {
+          "id": "jiYeong",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "musician": {
+        "value": {
+          "id": "musician",
           "ownedOutfits": [
             {
               "value": "default"

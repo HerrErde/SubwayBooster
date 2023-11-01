@@ -2003,6 +2003,52 @@
             }
           }
         }
+      },
+      "kdillac": {
+        "value": {
+          "id": "kdillac",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "retroorange": {
+        "value": {
+          "id": "retroorange",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "neoseoul": {
+        "value": {
+          "id": "neoseoul",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "energy": {
+        "value": {
+          "id": "energy",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "teleport": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }
