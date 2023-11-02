@@ -40,12 +40,12 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 
 ### Info
 
-The files of the SubwaySurfers App are now encrypted, changing the way to add new names for the Characters/Outfits/Boards.
-However, it is still possible to modify the SubwaySurfers files by replacing the original SubwaySurfers files with the modified ones.
+The files of the SubwaySurfers App are now encrypted, not changing the way to add new names for the Characters/Outfits/Boards.
+Because it is still possible to modify the SubwaySurfers files by just replacing the original SubwaySurfers files with the modified ones.
 
-If you want to add your own set of Characters or Boards you can achieve this by downloading the app, renaming it to `.zip`, \
+If you want to extract your own set of Characters or Boards, you can achieve this by downloading the app, renaming it to `.zip`, \
 and then extracting the files `characters.json` and `boards.json` from the folder `assets/tower/gamedata/`. \
-This folder contains all the necessary information, allowing you to view all characters or boards along with their outfits and Special Abilities.
+This folder contains the necessary data, allowing you to set all characters or boards along with their outfits and Special Abilities.
 
 ### How do I use it?
 
