@@ -249,37 +249,37 @@
         "id": "collection_season_S75",
         "items": [
           {
-            "id": "alexandre.default",
+            "id": "superRunnerTricky.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "lion",
+            "id": "trickster",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "mina.default",
+            "id": "vivienne.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "brandon.kungFuOutfit",
+            "id": "fauxpunx",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "frankette.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "rin.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "musician.default",
+            "id": "soul.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
