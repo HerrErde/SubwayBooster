@@ -23,7 +23,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 ## Features
 
 - Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters) and their **Outfits**
-- Every [**HoverBoard**](https://subwaysurf.fandom.com/wiki/Boards) with every **Special Ability**
+- Every [**Hoverboard**](https://subwaysurf.fandom.com/wiki/Hoverboard) with every **Special Ability**
 - **All Upgrades**
 - **Double Coins**
 - **Endless Token Boost**
