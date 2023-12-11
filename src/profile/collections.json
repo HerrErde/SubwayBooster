@@ -245,41 +245,41 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S75": {
-        "id": "collection_season_S75",
+      "collection_season_S77": {
+        "id": "collection_season_S77",
         "items": [
           {
-            "id": "superRunnerTricky.default",
+            "id": "gingerbot.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "trickster",
+            "id": "rudy",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "vivienne.default",
+            "id": "festiveSpike.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "fauxpunx",
+            "id": "jingles",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "frankette.default",
+            "id": "bobTheBlob.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "soul.default",
+            "id": "malik.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"

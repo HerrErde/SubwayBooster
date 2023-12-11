@@ -669,6 +669,16 @@
           }
         }
       },
+      "flashjet": {
+        "value": {
+          "id": "flashjet",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "flyingHorse": {
         "value": {
           "id": "flyingHorse",
@@ -1693,6 +1703,16 @@
           }
         }
       },
+      "snowdown": {
+        "value": {
+          "id": "snowdown",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "snowflake": {
         "value": {
           "id": "snowflake",
@@ -2029,6 +2049,16 @@
       "windglider": {
         "value": {
           "id": "windglider",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "winduprocket": {
+        "value": {
+          "id": "winduprocket",
           "ownedUpgrades": {
             "default": {
               "value": true

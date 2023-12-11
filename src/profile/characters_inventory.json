@@ -196,6 +196,9 @@
             },
             {
               "value": "slimeOutfit"
+            },
+            {
+              "value": "jingleOutfit"
             }
           ]
         }
@@ -307,6 +310,16 @@
           ]
         }
       },
+      "captainFlash": {
+        "value": {
+          "id": "captainFlash",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "carlos": {
         "value": {
           "id": "carlos",
@@ -394,6 +407,16 @@
             },
             {
               "value": "heartbreakerOutfit"
+            }
+          ]
+        }
+      },
+      "clockworkJohnny": {
+        "value": {
+          "id": "clockworkJohnny",
+          "ownedOutfits": [
+            {
+              "value": "default"
             }
           ]
         }
