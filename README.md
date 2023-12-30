@@ -59,16 +59,16 @@ Other [docs/info](docs/info.md)
 
 ---
 
-| Id            | Name               | Default Value       | File                                                     |
-| ----------------- | ------------------ | ------------------- | -------------------------------------------------------- |
-| `highscore`                 | Highscore          | 2147483647          | [Android/.../user_stats.json](src/profile/user_stats.json) |
-| `currentScore`                 | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/profile/top_run.json)       |
-| 1                 | Coins              | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)         |
-| 2                 | Keys               | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)         |
-| 3                 | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)         |
-| 4                 | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)         |
-| 5                 | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)         |
-| 6                 | Event Coins        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)         |
-| `collectedTokens`               | Season Tokens        | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json)     |
-| `currencyPickupModifiers.doubleCoins`    | Double Coins       | 2                | [Android/.../upgrades.json](src/profile/upgrades.json)     |
-| `currencyPickupModifiers.permanent_score_multiplier.expirationValue` | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)     |
+| Id                                           | Name               | Default Value       | File                                                         |
+| -------------------------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ |
+| `highscore`                                  | Highscore          | 2147483647          | [Android/.../user_stats.json](src/profile/user_stats.json)   |
+| `currentScore`                               | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/profile/top_run.json)         |
+| 1                                            | Coins              | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 2                                            | Keys               | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 3                                            | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 4                                            | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 5                                            | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json) |
+| `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)       |

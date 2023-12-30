@@ -20,7 +20,13 @@ for item in data:
     item_data_list[item_id] = {"value": {"id": item_id, "ownedOutfits": item2_data}}
 
 # Generate the output
-inventory_data = {"version": 3, "data": {"selected": {"character": "jake", "outfit": "default"}, "owned": item_data_list}}
+inventory_data = {
+    "version": 3,
+    "data": {
+        "selected": {"character": "jake", "outfit": "default"},
+        "owned": item_data_list,
+    },
+}
 
 # Write the output file
 with open("src/profile/characters_inventory.json", "w", encoding="utf-8") as f:
