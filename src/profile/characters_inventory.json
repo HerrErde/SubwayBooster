@@ -2162,6 +2162,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "cupidOutfit"
             }
           ]
         }
@@ -2296,9 +2299,9 @@
           ]
         }
       },
-      "thunder": {
+      "skye": {
         "value": {
-          "id": "thunder",
+          "id": "skye",
           "ownedOutfits": [
             {
               "value": "default"
@@ -2306,9 +2309,9 @@
           ]
         }
       },
-      "skye": {
+      "thunder": {
         "value": {
-          "id": "skye",
+          "id": "thunder",
           "ownedOutfits": [
             {
               "value": "default"
