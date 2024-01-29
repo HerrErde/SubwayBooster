@@ -2162,6 +2162,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "cupidOutfit"
             }
           ]
         }
@@ -2296,6 +2299,16 @@
           ]
         }
       },
+      "skye": {
+        "value": {
+          "id": "skye",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "thunder": {
         "value": {
           "id": "thunder",
@@ -2306,9 +2319,19 @@
           ]
         }
       },
-      "skye": {
+      "dragonyear": {
         "value": {
-          "id": "skye",
+          "id": "dragonyear",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "azura": {
+        "value": {
+          "id": "azura",
           "ownedOutfits": [
             {
               "value": "default"

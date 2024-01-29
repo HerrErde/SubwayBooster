@@ -13,78 +13,6 @@
           }
         }
       },
-      "skullFire": {
-        "value": {
-          "id": "skullFire",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "doubleJump": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
-      "teleporter": {
-        "value": {
-          "id": "teleporter",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "hotrod": {
-        "value": {
-          "id": "hotrod",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "bouncer": {
-        "value": {
-          "id": "bouncer",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "freestyler": {
-        "value": {
-          "id": "freestyler",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "doubleJump": {
-              "value": true
-            },
-            "jumper": {
-              "value": true
-            }
-          }
-        }
-      },
-      "lowrider": {
-        "value": {
-          "id": "lowrider",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
       "starboard": {
         "value": {
           "id": "starboard",
@@ -96,74 +24,6 @@
               "value": true
             },
             "doubleJump": {
-              "value": true
-            }
-          }
-        }
-      },
-      "daredevil": {
-        "value": {
-          "id": "daredevil",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "greatWhite": {
-        "value": {
-          "id": "greatWhite",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "speed": {
-              "value": true
-            },
-            "glider": {
-              "value": true
-            }
-          }
-        }
-      },
-      "windglider": {
-        "value": {
-          "id": "windglider",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "scoot": {
-        "value": {
-          "id": "scoot",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "teleport": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
-      "lumberjack": {
-        "value": {
-          "id": "lumberjack",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "doubleJump": {
-              "value": true
-            },
-            "lowrider": {
               "value": true
             }
           }
@@ -185,6 +45,22 @@
           }
         }
       },
+      "freestyler": {
+        "value": {
+          "id": "freestyler",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "jumper": {
+              "value": true
+            }
+          }
+        }
+      },
       "bigKahuna": {
         "value": {
           "id": "bigKahuna",
@@ -196,6 +72,26 @@
               "value": true
             },
             "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "bouncer": {
+        "value": {
+          "id": "bouncer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "lowrider": {
+        "value": {
+          "id": "lowrider",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
@@ -228,6 +124,160 @@
               "value": true
             },
             "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "skullFire": {
+        "value": {
+          "id": "skullFire",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "lumberjack": {
+        "value": {
+          "id": "lumberjack",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "daredevil": {
+        "value": {
+          "id": "daredevil",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "scoot": {
+        "value": {
+          "id": "scoot",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "teleport": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "greatWhite": {
+        "value": {
+          "id": "greatWhite",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "speed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "hotrod": {
+        "value": {
+          "id": "hotrod",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "windglider": {
+        "value": {
+          "id": "windglider",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "teleporter": {
+        "value": {
+          "id": "teleporter",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarWildStyle": {
+        "value": {
+          "id": "sakarWildStyle",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarSurfSpray": {
+        "value": {
+          "id": "sakarSurfSpray",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarCrew": {
+        "value": {
+          "id": "sakarCrew",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarCrewCrush": {
+        "value": {
+          "id": "sakarCrewCrush",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarBlueIce": {
+        "value": {
+          "id": "sakarBlueIce",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
@@ -289,9 +339,9 @@
           }
         }
       },
-      "kitty": {
+      "cherry": {
         "value": {
-          "id": "kitty",
+          "id": "cherry",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -299,9 +349,9 @@
           }
         }
       },
-      "cherry": {
+      "kitty": {
         "value": {
-          "id": "cherry",
+          "id": "kitty",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1220,16 +1270,6 @@
           }
         }
       },
-      "nflpaBarkley": {
-        "value": {
-          "id": "nflpaBarkley",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
       "nflpaPrescott": {
         "value": {
           "id": "nflpaPrescott",
@@ -1250,9 +1290,9 @@
           }
         }
       },
-      "nflpaMahomes": {
+      "nflpaBrady": {
         "value": {
-          "id": "nflpaMahomes",
+          "id": "nflpaBrady",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1270,9 +1310,19 @@
           }
         }
       },
-      "nflpaBrady": {
+      "nflpaMahomes": {
         "value": {
-          "id": "nflpaBrady",
+          "id": "nflpaMahomes",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "nflpaBarkley": {
+        "value": {
+          "id": "nflpaBarkley",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1300,59 +1350,9 @@
           }
         }
       },
-      "sakarSurfSpray": {
+      "secretSociety": {
         "value": {
-          "id": "sakarSurfSpray",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarCrew": {
-        "value": {
-          "id": "sakarCrew",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarCrewCrush": {
-        "value": {
-          "id": "sakarCrewCrush",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarWildStyle": {
-        "value": {
-          "id": "sakarWildStyle",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarBlueIce": {
-        "value": {
-          "id": "sakarBlueIce",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "discovery": {
-        "value": {
-          "id": "discovery",
+          "id": "secretSociety",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1370,9 +1370,9 @@
           }
         }
       },
-      "secretSociety": {
+      "discovery": {
         "value": {
-          "id": "secretSociety",
+          "id": "discovery",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1639,9 +1639,9 @@
           }
         }
       },
-      "birthday2022": {
+      "superSurfer": {
         "value": {
-          "id": "birthday2022",
+          "id": "superSurfer",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1649,9 +1649,9 @@
           }
         }
       },
-      "superSurfer": {
+      "birthday2022": {
         "value": {
-          "id": "superSurfer",
+          "id": "birthday2022",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1877,16 +1877,6 @@
           }
         }
       },
-      "flyingHorse": {
-        "value": {
-          "id": "flyingHorse",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
       "colourshift": {
         "value": {
           "id": "colourshift",
@@ -1973,6 +1963,16 @@
               "value": true
             },
             "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "flyingHorse": {
+        "value": {
+          "id": "flyingHorse",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
@@ -2076,9 +2076,9 @@
           }
         }
       },
-      "flashjet": {
+      "winduprocket": {
         "value": {
-          "id": "flashjet",
+          "id": "winduprocket",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -2086,9 +2086,9 @@
           }
         }
       },
-      "winduprocket": {
+      "flashjet": {
         "value": {
-          "id": "winduprocket",
+          "id": "flashjet",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -2133,6 +2133,62 @@
               "value": true
             },
             "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "badabomb": {
+        "value": {
+          "id": "badabomb",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "roaringheart": {
+        "value": {
+          "id": "roaringheart",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "confetticrush": {
+        "value": {
+          "id": "confetticrush",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "lunarscroll": {
+        "value": {
+          "id": "lunarscroll",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "redvelvet": {
+        "value": {
+          "id": "redvelvet",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
