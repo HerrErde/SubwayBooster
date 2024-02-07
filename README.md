@@ -12,6 +12,8 @@
   <a href="https://github.com/HerrErde/SubwayBooster/releases/">
     <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/HerrErde/SubwayBooster.svg?style=for-the-badge&cacheSeconds=3600">
   </a>
+  <a href="https://github.com/HerrErde/SubwayBooster/releases/">
+    <img alt="Next Release" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.herrerde.workers.dev%2Fshield%2Fgh%2FSubwayBooster&cacheSeconds=60">
 </p>
 
 ## Please always backup all gameplay data
