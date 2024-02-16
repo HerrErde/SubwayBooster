@@ -13,7 +13,7 @@
     <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date-pre/HerrErde/SubwayBooster.svg?style=for-the-badge&cacheSeconds=3600">
   </a>
   <a href="https://github.com/HerrErde/SubwayBooster/releases/">
-    <img alt="Next Release" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.herrerde.workers.dev%2Fshield%2Fgh%2FSubwayBooster&cacheSeconds=60">
+    <img alt="Next Release" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.herrerde.workers.dev%2Fgh%2FSubwayBooster%2Fshield&cacheSeconds=60">
 </p>
 
 ## Please always backup all gameplay data
@@ -57,20 +57,7 @@ If you know what you're doing, you can edit the individual files and then copy t
 
 ---
 
-Other [docs/info](docs/info.md)
+Docs Info [docs/info.md](docs/info.md)
 
----
-
-| Id                                           | Name               | Default Value       | File                                                         |
-| -------------------------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ |
-| `highscore`                                  | Highscore          | 2147483647          | [Android/.../user_stats.json](src/profile/user_stats.json)   |
-| `currentScore`                               | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/profile/top_run.json)         |
-| 1                                            | Coins              | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 2                                            | Keys               | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 3                                            | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 4                                            | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 5                                            | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json) |
-| `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](src/profile/upgrades.json)       |
-| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+[Hoverboard.md](docs/Hoverboard.md) \
+[Characters.md](docs/Characters.md)

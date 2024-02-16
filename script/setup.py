@@ -16,16 +16,14 @@ def download_asset(session, asset):
     asset_url = asset["browser_download_url"]
     asset_name = os.path.basename(asset_url)
 
-    # Only download files that contain "_data.json"
-    if "_data.json" in asset_name:
-        try:
-            with session.get(asset_url) as response:
-                response.raise_for_status()
-                with open(asset_name, "wb") as file:
-                    file.write(response.content)
-                print(f"Downloaded {asset_name}")
-        except requests.RequestException as e:
-            print(f"Failed to download {asset_name}: {str(e)}")
+    try:
+        with session.get(asset_url) as response:
+            response.raise_for_status()
+            with open(asset_name, "wb") as file:
+                file.write(response.content)
+            print(f"Downloaded {asset_name}")
+    except requests.RequestException as e:
+        print(f"Failed to download {asset_name}: {str(e)}")
 
 
 def download_assets(assets):

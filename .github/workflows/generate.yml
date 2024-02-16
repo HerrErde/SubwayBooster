@@ -13,7 +13,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Download Files
         run: python script/setup.py
@@ -25,7 +25,7 @@ jobs:
           python script/collection.py
           python script/calender.py
 
-      - name: Increse version
+      - name: increase version
         run: python script/update.py
 
       - name: Get version

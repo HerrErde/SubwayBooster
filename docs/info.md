@@ -34,3 +34,19 @@ When editing <code>shortcut</code> or <code>icon</code> values in any file, they
 Which means you can Link any button to any (avalialbil) page or you can set all icons to specific icons.
 You can get a list of the available icon and shortcuts list <a href="stuff.json">here</a>.
 </p>
+
+## Value Ids
+
+| Id                                           | Name               | Default Value       | File                                                         |
+| -------------------------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ |
+| `highscore`                                  | Highscore          | 2147483647          | [Android/.../user_stats.json](src/profile/user_stats.json)   |
+| `currentScore`                               | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/profile/top_run.json)         |
+| 1                                            | Coins              | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 2                                            | Keys               | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 3                                            | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 4                                            | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 5                                            | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
+| `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json) |
+| `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)       |

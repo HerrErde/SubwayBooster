@@ -41,5 +41,5 @@ result_data = [
     if data["icon"] or data["shortcut"]
 ]
 
-with open("stuff.json", "w") as output_file:
-    json.dump(result_data, output_file, indent=4)
+with open("icon_shortcut.json", "w") as output_file:
+    json.dump(result_data, output_file, indent=2)
