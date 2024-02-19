@@ -245,60 +245,60 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S79": {
-        "id": "collection_season_S79",
+      "collection_season_S80": {
+        "id": "collection_season_S80",
         "items": [
           {
-            "id": "taina.default",
+            "id": "ez.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "flamingo",
+            "id": "jazz",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "eddy.default",
+            "id": "ez.JiveOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "alfie.default",
+            "id": "moira.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "ox.default",
+            "id": "moira.thetouristOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "tiger.default",
+            "id": "jia.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "rat.default",
+            "id": "frutti.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "rabbit.default",
+            "id": "jiYeong.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "festiveFrank.default",
-            "type": 2,
+            "id": "roller",
+            "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }

@@ -1,5 +1,5 @@
 | Name | Id |
-|---- | -- |
+| ---- | --- |
 | Hoverboard | ``default`` |
 | Starboard | ``starboard`` |
 | Superhero | ``superhero`` |
@@ -27,7 +27,6 @@
 | Kick-Off | ``kickOff`` |
 | Chicky | ``chicky`` |
 | Outback | ``outback`` |
-| Fortune | None |
 | Cherry | ``cherry`` |
 | Kitty | ``kitty`` |
 | Flamingo | ``flamingo`` |
@@ -194,6 +193,6 @@
 | Electro Shock | ``electroshock`` |
 | Bada-Bomb | ``badabomb`` |
 | Roaring Heart | ``roaringheart`` |
-| Confetti Crush | ``confetticrush`` |
-| Red Velvet | ``redvelvet`` |
 | Lunar Scroll | ``lunarscroll`` |
+| Red  Velvet | ``redvelvet`` |
+| Confetti Crush | ``confetticrush`` |

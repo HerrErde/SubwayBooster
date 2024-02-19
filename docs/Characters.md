@@ -1,5 +1,5 @@
 | Name | Id |
-|---- | -- |
+| ---- | --- |
 | Jake | ``jake`` |
 | Tricky | ``tricky`` |
 | Fresh | ``fresh`` |
@@ -177,5 +177,7 @@
 | Clockwork Johnny | ``clockworkJohnny`` |
 | Skye | ``skye`` |
 | Thunder | ``thunder`` |
-| Azura | ``dragonyear`` |
-| Dragon | ``azura`` |
+| Azura | ``azura`` |
+| Dragon | ``stella`` |
+| Stella | ``astra`` |
+| Astra | ``dragonyear`` |

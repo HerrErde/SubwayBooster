@@ -2245,6 +2245,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "celestialOutfit"
             }
           ]
         }
@@ -2319,9 +2322,9 @@
           ]
         }
       },
-      "dragonyear": {
+      "azura": {
         "value": {
-          "id": "dragonyear",
+          "id": "azura",
           "ownedOutfits": [
             {
               "value": "default"
@@ -2329,9 +2332,29 @@
           ]
         }
       },
-      "azura": {
+      "stella": {
         "value": {
-          "id": "azura",
+          "id": "stella",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "astra": {
+        "value": {
+          "id": "astra",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "dragonyear": {
+        "value": {
+          "id": "dragonyear",
           "ownedOutfits": [
             {
               "value": "default"

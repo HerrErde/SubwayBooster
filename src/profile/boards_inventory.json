@@ -2164,16 +2164,6 @@
           }
         }
       },
-      "confetticrush": {
-        "value": {
-          "id": "confetticrush",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
       "lunarscroll": {
         "value": {
           "id": "lunarscroll",
@@ -2189,6 +2179,48 @@
           "id": "redvelvet",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "confetticrush": {
+        "value": {
+          "id": "confetticrush",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "astrotune": {
+        "value": {
+          "id": "astrotune",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "interstellar": {
+        "value": {
+          "id": "interstellar",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "lowrider": {
               "value": true
             }
           }
