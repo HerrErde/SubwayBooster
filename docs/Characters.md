@@ -178,6 +178,6 @@
 | Skye | ``skye`` |
 | Thunder | ``thunder`` |
 | Azura | ``azura`` |
-| Dragon | ``stella`` |
-| Stella | ``astra`` |
-| Astra | ``dragonyear`` |
+| Dragon | ``dragonyear`` |
+| Stella | ``stella`` |
+| Astra | ``astra`` |

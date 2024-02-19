@@ -29,6 +29,7 @@ def download_asset(session, asset):
 def download_assets(assets):
     with ThreadPoolExecutor() as executor, requests.Session() as session:
         executor.map(download_asset, [session] * len(assets), assets)
+        executor.shutdown(wait=True)  # Wait for all threads to finish
 
 
 download_assets(get_release())
