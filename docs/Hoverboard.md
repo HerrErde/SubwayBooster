@@ -196,3 +196,5 @@
 | Lunar Scroll | ``lunarscroll`` |
 | Red  Velvet | ``redvelvet`` |
 | Confetti Crush | ``confetticrush`` |
+| Astro Tune | ``astrotune`` |
+| Interstellar | None |

@@ -1913,6 +1913,9 @@
             },
             {
               "value": "moonbunOutfit"
+            },
+            {
+              "value": "eggstravaganzaOutfit"
             }
           ]
         }
@@ -1996,6 +1999,9 @@
             },
             {
               "value": "thetouristOutfit"
+            },
+            {
+              "value": "theholiOutfit"
             }
           ]
         }
@@ -2332,6 +2338,16 @@
           ]
         }
       },
+      "dragonyear": {
+        "value": {
+          "id": "dragonyear",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "stella": {
         "value": {
           "id": "stella",
@@ -2352,9 +2368,29 @@
           ]
         }
       },
-      "dragonyear": {
+      "meggan": {
         "value": {
-          "id": "dragonyear",
+          "id": "meggan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "lucky": {
+        "value": {
+          "id": "lucky",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "redpanda": {
+        "value": {
+          "id": "redpanda",
           "ownedOutfits": [
             {
               "value": "default"

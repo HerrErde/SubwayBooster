@@ -2210,6 +2210,55 @@
           }
         }
       },
+      "meggabite": {
+        "value": {
+          "id": "meggabite",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "shamrockshebang": {
+        "value": {
+          "id": "shamrockshebang",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "fastandfestive": {
+        "value": {
+          "id": "fastandfestive",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "radiantrider": {
+        "value": {
+          "id": "radiantrider",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "interstellar": {
         "value": {
           "id": "interstellar",
@@ -2221,6 +2270,22 @@
               "value": true
             },
             "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "jak": {
+        "value": {
+          "id": "jak",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }

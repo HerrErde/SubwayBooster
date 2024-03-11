@@ -245,59 +245,59 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S80": {
-        "id": "collection_season_S80",
+      "collection_season_S81": {
+        "id": "collection_season_S81",
         "items": [
           {
-            "id": "ez.default",
+            "id": "meggan.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "jazz",
+            "id": "bunny",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "ez.JiveOutfit",
+            "id": "george.moonbunOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "moira.default",
+            "id": "buddyBear",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "lee.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "moira.thetouristOutfit",
+            "id": "rabbot.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "jia.default",
+            "id": "bonnie.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "frutti.default",
+            "id": "freya.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "jiYeong.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "roller",
+            "id": "chicky",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
