@@ -170,3 +170,55 @@
 - Added Characters Thursday, outatimeJake
 - Added Outfit botanicalHorrorOutfit (scarlett)
 - Added Boards flamingdoll, backtothefuture
+
+### v1.3.1
+
+- add Todo
+- update score multiplier
+- update calender
+- add scripts & update info
+- fix not running error
+- user_settings & tutorial
+- Added Characters musician, jiYeong
+- Added Outfit stanOutfit (alexandre)
+- Added Boards kdillac, retroorange, neoseoul, energy
+
+### v1.3.2
+
+- Update upgrades.json
+- Added Characters vivienne, lawrence
+- Added Outfit sneakyblindersOutfit (alia)
+- Added Boards fauxpunx, sharpeed
+
+### v1.3.3
+
+- Added Characters clockworkJohnny, captainFlash
+- Added Outfit jingleOutfit (bobTheBlob)
+- Added Boards winduprocket, snowdown, flashjet
+
+### v1.3.4
+
+- Added Characters skye, thunder
+- Added Boards skyrocket, electroshock
+
+### v1.3.5
+
+- Added Characters dragonyear, azura
+- Added Outfit cupidOutfit (alfie)
+- Added Boards roaringheart, badabomb, redvelvet, lunarscroll, confetticrush
+
+### v1.3.6
+
+- rename / move files
+- add list generator
+- Added Characters astra, stella
+- Added Outfit celestialOutfit (jiYeong)
+- Added Boards interstellar, astrotune
+
+### v1.3.7
+
+- Characters.md & setup.py
+- Added Characters lucky, meggan, redpanda
+- Added Outfit eggstravaganzaOutfit (george)
+- Added Outfit theholiOutfit (moira)
+- Added Boards shamrockshebang, meggabite, jak, fastandfestive, radiantrider

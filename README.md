@@ -20,13 +20,13 @@
 
 ## Announcement
 
-You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/Boards/.. amount
+You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/.. amount, also with Characters and Boards picker
 
 ## Features
 
 - Every [**Character**](https://subwaysurf.fandom.com/wiki/Characters) and their **Outfits**
 - Every [**Hoverboard**](https://subwaysurf.fandom.com/wiki/Hoverboard) with every **Special Ability**
-- **All Upgrades**
+- **Max Level Upgrades**
 - **Double Coins**
 - **Endless Token Boost**
 - _basicly_ **Unlimited Coins**
@@ -39,21 +39,23 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - All **Collections**
 - All **Trophies**
 - All **Achievements**
+- All **Quests**
 
 ### Info
 
-The files of the SubwaySurfers App are now encrypted, not changing the way to add new names for the Characters/Outfits/Boards.
-Because it is still possible to modify the SubwaySurfers files by just replacing the original SubwaySurfers files with the modified ones.
-
-If you want to extract your own set of Characters or Boards, you can achieve this by downloading the app, renaming it to `.zip`, \
-and then extracting the files `characters.json` and `boards.json` from the folder `assets/tower/gamedata/`. \
-This folder contains the necessary data, allowing you to set all characters or boards along with their outfits and Special Abilities.
+The save files in SubwaySurf are now encrypted, which doesn't change the way how to modify the pre-generated files, like new Characters/Outfits/Boards.
+By just replacing your encrypted SubwaySurf save files with the unencrypted modified ones, it will modify to the new Values.
 
 ### How do I use it?
 
-To modify the SubwaySurfers files, you'll need a file explorer and the latest release from [this link](https://github.com/HerrErde/SubwayBooster/releases/latest). Once you've downloaded the release, unpack the Zip file and extract it into the same folder. In the extracted files, you'll find the **Android** folder. Copy this folder to the **Internal Storage** of your Android device.
+To modify the SubwaySurfers files, you'll need a file explorer and the latest [release](https://github.com/HerrErde/SubwayBooster/releases/latest). \
+Once you've downloaded the release, simply unpack the Zip file and extract its contents into the same folder (This process may vary depending on the file explorer you're using).
+In the extracted files, you'll have the **Android** folder. Copy this folder to the **Internal **Storage** (which has its own **Android** folder) of your Android device. (You'll need to have full access to your Android/data folder for this step).
 
-If you know what you're doing, you can edit the individual files and then copy them into the `com.kiloo.subwaysurf` folder. Just make sure to be careful and understand the changes you're making.
+If you need help join the [Discord Server](https://discord.gg/NAXbNwKK2V)
+
+If you know how to, you can edit the individual files and then copy them into the `com.kiloo.subwaysurf` folder. \
+Just make sure to know to understand which changes you're making.
 
 ---
 

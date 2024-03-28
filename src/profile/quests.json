@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "data": {
+    "lastSaved": "0001-01-01T00:00:00Z",
+    "timeSlot": "season_S81",
+    "progressPoints": 999999,
+    "questStates": {
+      "daily": {
+        "globalTimeslotId": "season_S81",
+        "id": "daily",
+        "titleKey": "ui.quests.section_daily",
+        "type": 1,
+        "questSet": {
+          "endTime": "9999-12-31T00:00:00Z",
+          "questObjectives": [
+            {
+              "shortcut": "WorldTour",
+              "icon": "$event_coin",
+              "difficulty": 0,
+              "goal": 2000,
+              "targetFiller": 0,
+              "currentProgress": 2000,
+              "claimed": true,
+              "target": 0,
+              "condition": 0,
+              "completionKey": "daily"
+            },
+            {
+              "seasonPoints": 5,
+              "shortcut": "MainMenu",
+              "icon": "icon_sneaker",
+              "difficulty": 0,
+              "goal": 2,
+              "targetFiller": 0,
+              "currentProgress": 2,
+              "claimed": true,
+              "target": 22,
+              "condition": 0,
+              "completionKey": "daily"
+            },
+            {
+              "seasonPoints": 15,
+              "shortcut": "MainMenu",
+              "icon": "hoverboard",
+              "difficulty": 0,
+              "goal": 6,
+              "targetFiller": 0,
+              "currentProgress": 6,
+              "claimed": true,
+              "target": 30,
+              "condition": 0,
+              "completionKey": "daily"
+            },
+            {
+              "seasonPoints": 10,
+              "shortcut": "Shop",
+              "icon": "minimysterybox",
+              "difficulty": 0,
+              "goal": 2,
+              "targetFiller": 0,
+              "currentProgress": 2,
+              "claimed": true,
+              "target": 41,
+              "condition": 0,
+              "completionKey": "daily"
+            },
+            {
+              "seasonPoints": 10,
+              "shortcut": "MainMenu",
+              "icon": "icon_coin",
+              "difficulty": 0,
+              "goal": 750,
+              "targetFiller": 0,
+              "currentProgress": 750,
+              "claimed": true,
+              "target": 16,
+              "condition": 0,
+              "completionKey": "daily"
+            },
+            {
+              "seasonPoints": 15,
+              "shortcut": "MainMenu",
+              "icon": "icon_key_02",
+              "difficulty": 0,
+              "goal": 3,
+              "targetFiller": 0,
+              "currentProgress": 3,
+              "claimed": true,
+              "target": 31,
+              "condition": 0,
+              "completionKey": "daily"
+            },
+            {
+              "seasonPoints": 10,
+              "shortcut": "WorldTour",
+              "icon": "icon_dailychallenge",
+              "difficulty": 0,
+              "goal": 2,
+              "targetFiller": 0,
+              "currentProgress": 2,
+              "claimed": true,
+              "target": 43,
+              "condition": 0,
+              "completionKey": "daily"
+            }
+          ],
+          "type": 0
+        },
+        "currentSetIndex": 5,
+        "refreshSetCost": {
+          "costKeys": [
+            2,
+            3,
+            5
+          ],
+          "adWatch": true
+        },
+        "maxPaidRefresh": 3,
+        "seenLatestChanges": true
+      },
+      "seasonal": {
+        "globalTimeslotId": "season_S81",
+        "id": "seasonal",
+        "titleKey": "ui.quests.section_seasonal",
+        "type": 2,
+        "questSet": {
+          "startTime": "0001-01-01T00:00:00Z",
+          "endTime": "9999-12-31T00:00:00Z",
+          "questObjectives": [
+            {
+              "seasonPoints": 150,
+              "shortcut": "TopRun",
+              "icon": "icon_medal_gold",
+              "difficulty": 0,
+              "goal": 1,
+              "targetFiller": 0,
+              "currentProgress": 1,
+              "claimed": true,
+              "target": 48,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 100,
+              "shortcut": "MainMenu",
+              "icon": "jetpack",
+              "difficulty": 0,
+              "goal": 3500,
+              "targetFiller": 0,
+              "currentProgress": 3500,
+              "claimed": true,
+              "target": 16,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 200,
+              "shortcut": "WorldTour",
+              "icon": "icon_sneaker",
+              "difficulty": 0,
+              "goal": 100,
+              "targetFiller": 0,
+              "currentProgress": 100,
+              "claimed": true,
+              "target": 44,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 150,
+              "shortcut": "MainMenu",
+              "icon": "headstart",
+              "difficulty": 0,
+              "goal": 30,
+              "targetFiller": 0,
+              "currentProgress": 30,
+              "claimed": true,
+              "target": 29,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 100,
+              "shortcut": "MainMenu",
+              "icon": "icon_video",
+              "difficulty": 0,
+              "goal": 30,
+              "targetFiller": 0,
+              "currentProgress": 30,
+              "claimed": true,
+              "target": 47,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 300,
+              "shortcut": "Offers",
+              "icon": "$event_coin",
+              "difficulty": 0,
+              "goal": 40000,
+              "targetFiller": 0,
+              "currentProgress": 40000,
+              "claimed": true,
+              "target": 33,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 250,
+              "shortcut": "WorldTour",
+              "icon": "icon_elitechallenge",
+              "difficulty": 0,
+              "goal": 8,
+              "targetFiller": 0,
+              "currentProgress": 8,
+              "claimed": true,
+              "target": 46,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 100,
+              "shortcut": "MainMenu",
+              "icon": "hoverboard",
+              "difficulty": 0,
+              "goal": 100,
+              "targetFiller": 0,
+              "currentProgress": 100,
+              "claimed": true,
+              "target": 30,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 100,
+              "shortcut": "MainMenu",
+              "icon": "icon_sneaker",
+              "difficulty": 0,
+              "goal": 200,
+              "targetFiller": 0,
+              "currentProgress": 200,
+              "claimed": true,
+              "target": 22,
+              "condition": 0,
+              "completionKey": "seasonal"
+            },
+            {
+              "seasonPoints": 200,
+              "shortcut": "MainMenu",
+              "icon": "icon_coin",
+              "difficulty": 0,
+              "goal": 75000,
+              "targetFiller": 0,
+              "currentProgress": 75000,
+              "claimed": true,
+              "target": 16,
+              "condition": 0,
+              "completionKey": "seasonal"
+            }
+          ],
+          "type": 0
+        },
+        "currentSetIndex": 2,
+        "seenLatestChanges": true
+      }
+    },
+    "poolPointers": {
+      "quest_pool_1": 2,
+      "quest_pool_3": 2,
+      "quest_pool_7": 2,
+      "quest_pool_2": 4,
+      "quest_pool_4": 2
+    },
+    "rewards": [
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Hoverboards",
+              "value": 1,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 500,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 500
+            }
+          }
+        ],
+        "pointsToUnlock": 40,
+        "state": 10
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "HeadStarts",
+              "value": 1,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "ScoreBoosters",
+              "value": 1,
+              "claimed": true
+            }
+          }
+        ],
+        "pointsToUnlock": 150,
+        "state": 10,
+        "index": 1
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Hoverboards",
+              "value": 3,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 300,
+              "claimed": true
+            }
+          }
+        ],
+        "pointsToUnlock": 250,
+        "state": 10,
+        "index": 2,
+        "groupId": 1
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "ScoreBoosters",
+              "value": 5,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 1000,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 1000
+            }
+          }
+        ],
+        "pointsToUnlock": 500,
+        "state": 10,
+        "index": 3,
+        "groupId": 1
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "SeasonHuntToken",
+              "value": 10,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 2000,
+              "claimed": true
+            }
+          }
+        ],
+        "pointsToUnlock": 750,
+        "state": 10,
+        "index": 4,
+        "groupId": 1
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "HeadStarts",
+              "value": 5,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 1000,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 1000
+            }
+          }
+        ],
+        "pointsToUnlock": 1000,
+        "state": 10,
+        "index": 5,
+        "groupId": 2
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "SeasonHuntToken",
+              "value": 15,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 1500,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 1500
+            }
+          }
+        ],
+        "pointsToUnlock": 1500,
+        "state": 10,
+        "index": 6,
+        "groupId": 2
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "SeasonHuntToken",
+              "value": 20,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 1500,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 1500
+            }
+          }
+        ],
+        "pointsToUnlock": 2000,
+        "state": 10,
+        "index": 7,
+        "groupId": 2
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Hoverboards",
+              "value": 5,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 2000,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 2000
+            }
+          }
+        ],
+        "pointsToUnlock": 2500,
+        "state": 10,
+        "index": 8,
+        "groupId": 3
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "SeasonHuntToken",
+              "value": 20,
+              "claimed": true
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 2500,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 2500
+            }
+          }
+        ],
+        "pointsToUnlock": 3000,
+        "state": 10,
+        "index": 9,
+        "groupId": 3
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 3000,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 3000
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Keys",
+              "value": 5,
+              "claimed": true
+            }
+          }
+        ],
+        "pointsToUnlock": 3500,
+        "state": 10,
+        "index": 10,
+        "groupId": 4
+      },
+      {
+        "rewardWithFallback": [
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "EventCoins",
+              "value": 5000,
+              "claimed": true
+            },
+            "fallbackReward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 5000
+            }
+          },
+          {
+            "reward": {
+              "type": "Currency",
+              "id": "Keys",
+              "value": 10,
+              "claimed": true
+            }
+          }
+        ],
+        "pointsToUnlock": 4000,
+        "state": 10,
+        "index": 11,
+        "groupId": 4
+      }
+    ],
+    "sunsetPeriod": 907200,
+    "lastSeenGroupId": 1,
+    "lastSeenProgressPoints": 999999
+  }
+}
