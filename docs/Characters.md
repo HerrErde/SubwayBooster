@@ -181,3 +181,9 @@
 | Dragon | ``dragonyear`` |
 | Stella | ``stella`` |
 | Astra | ``astra`` |
+| Lucky | ``lucky`` |
+| Meggan | ``meggan`` |
+| Red Panda | ``redpanda`` |
+| Hamza | None |
+| Faiza | None |
+| Teabot | ``faiza`` |

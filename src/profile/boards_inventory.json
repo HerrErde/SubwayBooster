@@ -2210,14 +2210,14 @@
           }
         }
       },
-      "meggabite": {
+      "interstellar": {
         "value": {
-          "id": "meggabite",
+          "id": "interstellar",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "highSpeed": {
+            "glider": {
               "value": true
             },
             "lowrider": {
@@ -2234,6 +2234,22 @@
               "value": true
             },
             "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "meggabite": {
+        "value": {
+          "id": "meggabite",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "lowrider": {
               "value": true
             }
           }
@@ -2259,22 +2275,6 @@
           }
         }
       },
-      "interstellar": {
-        "value": {
-          "id": "interstellar",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "glider": {
-              "value": true
-            },
-            "lowrider": {
-              "value": true
-            }
-          }
-        }
-      },
       "jak": {
         "value": {
           "id": "jak",
@@ -2286,6 +2286,35 @@
               "value": true
             },
             "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "delivroom": {
+        "value": {
+          "id": "delivroom",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "teatimer": {
+        "value": {
+          "id": "teatimer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
               "value": true
             }
           }

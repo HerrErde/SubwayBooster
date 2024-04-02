@@ -197,4 +197,11 @@
 | Red  Velvet | ``redvelvet`` |
 | Confetti Crush | ``confetticrush`` |
 | Astro Tune | ``astrotune`` |
-| Interstellar | None |
+| Interstellar | ``interstellar`` |
+| Shamrock Shebang | ``shamrockshebang`` |
+| Megga Bite | ``meggabite`` |
+| Fast and Festive | ``fastandfestive`` |
+| Radiant Rider | ``radiantrider`` |
+| Jak | ``jak`` |
+| Tea Timer | None |
+| Deli Vroom | None |

@@ -1867,6 +1867,9 @@
             },
             {
               "value": "worldCupOutfit"
+            },
+            {
+              "value": "holidayOutfit"
             }
           ]
         }
@@ -2368,16 +2371,6 @@
           ]
         }
       },
-      "meggan": {
-        "value": {
-          "id": "meggan",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
       "lucky": {
         "value": {
           "id": "lucky",
@@ -2388,9 +2381,49 @@
           ]
         }
       },
+      "meggan": {
+        "value": {
+          "id": "meggan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "redpanda": {
         "value": {
           "id": "redpanda",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "teabot": {
+        "value": {
+          "id": "teabot",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "hamza": {
+        "value": {
+          "id": "hamza",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "faiza": {
+        "value": {
+          "id": "faiza",
           "ownedOutfits": [
             {
               "value": "default"

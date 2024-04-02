@@ -245,59 +245,59 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S81": {
-        "id": "collection_season_S81",
+      "collection_season_S82": {
+        "id": "collection_season_S82",
         "items": [
           {
-            "id": "meggan.default",
+            "id": "faiza.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "bunny",
+            "id": "delivroom",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "george.moonbunOutfit",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "buddyBear",
+            "id": "teatimer",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "lee.default",
+            "id": "spraybot.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "rabbot.default",
+            "id": "morgan.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "bonnie.default",
+            "id": "mei.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "freya.default",
+            "id": "taha.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "chicky",
+            "id": "smokingSlime",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "beelzebook",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
