@@ -51,11 +51,14 @@ jobs:
           python script/zip.py
 
       - name: Upload Data
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: '${{steps.version.outputs.version}}'
           body: '${{steps.version.outputs.changelog}}'
-          files: SubwayBooster.zip
+          files: |
+            SubwayBooster.zip
+            temp/data/characters_inventory.json
+            temp/data/boards_inventory.json
 
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}

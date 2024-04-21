@@ -2,31 +2,30 @@ import os
 import json
 
 input_dir = "src/profile"
-output_dir = "temp"
+output_dir = "temp/data"
 
 os.makedirs(output_dir, exist_ok=True)
 
-# Get a list of all JSON files in the input folder
-json_files = [f for f in os.listdir(input_dir)]
-
 
 def convert_json(input_file, output_file):
-    with open(input_file, "r") as input_file:
-        data = json.load(input_file)
+    try:
+        with open(input_file, "r") as input_file:
+            data = json.load(input_file)
 
-    # Remove spaces from the "data" field
-    data_content = json.dumps(data["data"]).replace(" ", "")
+        if "data" in data:
+            data_content = json.dumps(data["data"]).replace(" ", "")
+            new_data = {"version": data["version"], "data": data_content}
 
-    # Create a new JSON object with the modified "data" field
-    new_data = {"version": data["version"], "data": data_content}
+            with open(output_file, "w") as output:
+                json.dump(new_data, output, indent=2)
+                print(f"File '{output_file}' created successfully.")
+        else:
+            print(f"Error: No 'data' field found in '{input_file}'")
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Error processing '{input_file}': {e}")
 
-    # Save the new JSON object to the output file
-    with open(output_file, "w") as output:
-        json.dump(new_data, output, indent=2)
-        print(f"File '{output_file}' created successfully.")
 
-
-for json_file in json_files:
+for json_file in os.listdir(input_dir):
     input_file_path = os.path.join(input_dir, json_file)
     output_file_path = os.path.join(output_dir, json_file)
 

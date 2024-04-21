@@ -32,5 +32,5 @@ def generate(links_file, data_file, output_file):
         md_file.write(content)
 
 
-generate("characters_links.json", "characters_data.json", "docs/Characters.md")
-generate("boards_links.json", "boards_data.json", "docs/Hoverboard.md")
+generate("temp/input/characters_links.json", "temp/input/characters_data.json", "docs/Characters.md")
+generate("temp/input/boards_links.json", "temp/input/boards_data.json", "docs/Hoverboard.md")

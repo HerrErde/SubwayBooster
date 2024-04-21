@@ -1,6 +1,6 @@
 import json
 
-with open("calendar_data.json", "r") as calendar_data_file:
+with open("temp/input/calendar_data.json", "r") as calendar_data_file:
     calendar_data = json.load(calendar_data_file)
     calendar_id = calendar_data.get("id")
 

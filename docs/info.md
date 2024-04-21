@@ -49,4 +49,5 @@ You can get a list of the available icon and shortcuts list <a href="stuff.json"
 | 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
 | `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json) |
 | `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](src/profile/upgrades.json)       |
-| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+| `token_multiplier_low.expirationValue`       | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](src/profile/upgrades.json)       |

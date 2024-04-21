@@ -2,7 +2,7 @@ import zipfile
 import os
 
 
-def zip_folder(folder_path="temp", output_zip="SubwayBooster.zip"):
+def zip_folder(folder_path="temp/data", output_zip="SubwayBooster.zip"):
     with zipfile.ZipFile(output_zip, "w", zipfile.ZIP_DEFLATED) as zipf:
         # Define the root directory within the ZIP archive
         root_directory = "Android/data/com.kiloo.subwaysurf/files/"

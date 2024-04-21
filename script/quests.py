@@ -1,7 +1,7 @@
 import json
 
 quests_file = "src/profile/quests.json"
-collections_file = "collections_data.json"
+collections_file = "temp/input/collections_data.json"
 
 
 def update_quests(season):

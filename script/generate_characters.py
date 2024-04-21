@@ -1,7 +1,7 @@
 import json
 
 # Read the input file
-with open("characters_data.json") as f:
+with open("temp/input/characters_data.json") as f:
     data = json.load(f)
 
 # Process the data
