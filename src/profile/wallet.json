@@ -11,18 +11,13 @@
       "5": { "value": 2100000000 },
       "6": { "value": 2100000000 }
     },
-    "20": { "value": 0 },
-    "21": { "value": 0 },
-    "22": { "value": 0 },
-    "23": { "value": 0 },
-    "24": { "value": 0 },
     "lootboxQueue": { "unopenedLootboxes": { "0": [], "2": [] } },
     "currencyAllowedInRun": { "5": true, "4": true },
     "lootBoxesOpened": {
-      "mini_mystery_box": 3,
-      "mystery_box": 7,
-      "token_box": 16,
-      "super_mystery_box": 5
+      "mini_mystery_box": 0,
+      "mystery_box": 0,
+      "token_box": 0,
+      "super_mystery_box": 0
     },
     "ownedOnlyBuyOnceProducts": ["coin_doubler", "multiplier_pack"]
   }

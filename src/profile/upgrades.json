@@ -45,7 +45,7 @@
           "subType": 3,
           "value": 5
         },
-        "expirationValue": 99999999999999,
+        "expirationValue": 999999999999999,
         "expirationType": 1
       },
       "token_multiplier_low": {
@@ -55,7 +55,7 @@
           "subType": 2,
           "value": 2
         },
-        "expirationValue": 99999999999999,
+        "expirationValue": 999999999999999,
         "expirationType": 1
       }
     },
