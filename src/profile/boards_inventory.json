@@ -2291,6 +2291,22 @@
           }
         }
       },
+      "teatimer": {
+        "value": {
+          "id": "teatimer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
       "delivroom": {
         "value": {
           "id": "delivroom",
@@ -2304,9 +2320,9 @@
           }
         }
       },
-      "teatimer": {
+      "mayomania": {
         "value": {
-          "id": "teatimer",
+          "id": "mayomania",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -2314,7 +2330,46 @@
             "highSpeed": {
               "value": true
             },
-            "glider": {
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "jellyboard": {
+        "value": {
+          "id": "jellyboard",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "koinobori": {
+        "value": {
+          "id": "koinobori",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "yellowsub": {
+        "value": {
+          "id": "yellowsub",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
               "value": true
             }
           }

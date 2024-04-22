@@ -1405,6 +1405,9 @@
             },
             {
               "value": "visualkeiOutfit"
+            },
+            {
+              "value": "seasideOutfit"
             }
           ]
         }
@@ -1763,6 +1766,9 @@
             },
             {
               "value": "tentaqueenOutfit"
+            },
+            {
+              "value": "subexplorerOutfit"
             }
           ]
         }
@@ -2401,16 +2407,6 @@
           ]
         }
       },
-      "teabot": {
-        "value": {
-          "id": "teabot",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
       "hamza": {
         "value": {
           "id": "hamza",
@@ -2424,6 +2420,36 @@
       "faiza": {
         "value": {
           "id": "faiza",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "teabot": {
+        "value": {
+          "id": "teabot",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "electra": {
+        "value": {
+          "id": "electra",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "finn": {
+        "value": {
+          "id": "finn",
           "ownedOutfits": [
             {
               "value": "default"

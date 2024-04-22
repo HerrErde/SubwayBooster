@@ -194,7 +194,7 @@
 | Bada-Bomb | ``badabomb`` |
 | Roaring Heart | ``roaringheart`` |
 | Lunar Scroll | ``lunarscroll`` |
-| Red  Velvet | ``redvelvet`` |
+| Red Velvet | ``redvelvet`` |
 | Confetti Crush | ``confetticrush`` |
 | Astro Tune | ``astrotune`` |
 | Interstellar | ``interstellar`` |
@@ -203,5 +203,9 @@
 | Fast and Festive | ``fastandfestive`` |
 | Radiant Rider | ``radiantrider`` |
 | Jak | ``jak`` |
-| Tea Timer | None |
-| Deli Vroom | None |
+| Tea Timer | ``teatimer`` |
+| Deli Vroom | ``delivroom`` |
+| Jelly | None |
+| Yellow Sub | None |
+| Koinobori | None |
+| Mayo Mania | None |

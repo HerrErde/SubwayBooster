@@ -245,60 +245,60 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S82": {
-        "id": "collection_season_S82",
+      "collection_season_S83": {
+        "id": "collection_season_S83",
         "items": [
           {
-            "id": "faiza.default",
+            "id": "rain.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "delivroom",
+            "id": "jellyboard",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "teatimer",
+            "id": "koral.tentaqueenOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "ray",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "spraybot.default",
+            "id": "brody.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "morgan.default",
+            "id": "darryl.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "mei.default",
+            "id": "noel.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "taha.default",
+            "id": "izzy.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "smokingSlime",
-            "type": 3,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "beelzebook",
-            "type": 3,
+            "id": "koral.default",
+            "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }

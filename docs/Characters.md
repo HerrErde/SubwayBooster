@@ -184,6 +184,8 @@
 | Lucky | ``lucky`` |
 | Meggan | ``meggan`` |
 | Red Panda | ``redpanda`` |
-| Hamza | None |
-| Faiza | None |
-| Teabot | ``faiza`` |
+| Hamza | ``hamza`` |
+| Faiza | ``faiza`` |
+| Teabot | ``teabot`` |
+| Electra | None |
+| Finn | None |
