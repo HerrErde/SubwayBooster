@@ -5,7 +5,7 @@
 <p>
 There are Limits to how much value you can add.<br>
 The limit for the <code style="background-color: lightblue;">wallet.json</code> is the 32-bit integer wich is <code style="color: red;">2,147,483,647</code>.
-That's why everything is only <code style="color: red;">2100000000</code>, the reason is if the number is where too high and the value would go over the limit, the value goes into minus. That way there are about a hundred million coins/keys/.. buffer that you can collect before this happens.
+That's why everything is only <code style="color: red;">2100000000</code>, the reason is, if the number is at the limit and only + 1 would happen the whole number would turn over and the value goes into minus (With which you cant do anything). That way there are about a hundred million coins/keys/.. buffer that you can collect before this happens.
 </p>
 
 <p>
@@ -25,14 +25,15 @@ On the bottom left of the <code>Download APK</code> page, you can see the apk up
 ## Creating weird stuff
 
 <p>
-When finding out what the best number for the <code>expirationValue</code> in <code style="background-color: lightblue;">upgrades.json</code> is,<br>
-I found out that when the set number is too high (the first try was 64-bit) and the same Token Boost widget duplicates itself multiple times under each other (which got really laggy).
+When finding out what the best highest number for the <code>expirationValue</code> in <code style="background-color: lightblue;">upgrades.json</code> is,<br>
+I found out that when the number is set too high (the first try was 64-bit) and the Token Boost widget duplicates itself multiple times under each other (which got really laggy).
+So the highest number is <code>99999999999999</code>.
 </p>
 
 <p>
 When editing <code>shortcut</code> or <code>icon</code> values in any file, they will stay and the values dont reset.
-Which means you can Link any button to any (avalialbil) page or you can set all icons to specific icons.
-You can get a list of the available icon and shortcuts list <a href="stuff.json">here</a>.
+This means you can Link any button to any (available) page or you can set all icons to specific icons.
+You can get a list of the available icons and shortcuts list <a href="stuff.json">here</a>.
 </p>
 
 ## Value Ids
@@ -50,4 +51,4 @@ You can get a list of the available icon and shortcuts list <a href="stuff.json"
 | `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json) |
 | `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](src/profile/upgrades.json)       |
 | `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](src/profile/upgrades.json)       |
-| `token_multiplier_low.expirationValue`       | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+| `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)       |

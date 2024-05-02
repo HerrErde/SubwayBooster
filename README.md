@@ -20,7 +20,7 @@
 
 ## Announcement
 
-You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/.. amount, also with Characters and Boards picker
+You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/.. amounts, also with Characters and Boards picker
 
 ## Features
 
@@ -29,10 +29,10 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - **Max Level Upgrades**
 - **Double Coins**
 - **Endless Token Boost**
-- _basicly_ **Unlimited Coins**
-- _basicly_ **Unlimited Keys**
-- _basicly_ **Unlimited Boosters**
-- _basicly_ **Unlimited Hoverboards**
+- _basically_ **Unlimited Coins**
+- _basically_ **Unlimited Keys**
+- _basically_ **Unlimited Boosts**
+- _basically_ **Unlimited Hoverboards**
 - Complete **Season**
 - Top of **Highscore**
 - **30 of 30 Missions/Score Multipliers**
@@ -50,7 +50,8 @@ By just replacing your encrypted SubwaySurf save files with the unencrypted modi
 
 To modify the SubwaySurfers files, you'll need a file explorer and the latest [release](https://github.com/HerrErde/SubwayBooster/releases/latest). \
 Once you've downloaded the release, simply unpack the Zip file and extract its contents into the same folder (This process may vary depending on the file explorer you're using).
-In the extracted files, you'll have the **Android** folder. Copy this folder to the **Internal **Storage** (which has its own **Android** folder) of your Android device. (You'll need to have full access to your Android/data folder for this step).
+In the extracted files, you'll have the **Android** folder. Copy this folder to the **Internal **Storage** (which has its own **Android** folder) of your Android device.
+(You'll need to have full access to your Android/data folder for this step).
 
 If you need help join the [Discord Server](https://discord.gg/NAXbNwKK2V)
 
