@@ -187,5 +187,9 @@
 | Hamza | ``hamza`` |
 | Faiza | ``faiza`` |
 | Teabot | ``teabot`` |
-| Electra | None |
-| Finn | None |
+| Electra | ``electra`` |
+| Finn | ``finn`` |
+| Hammy Bee | None |
+| Ballerina Tricky | None |
+| Pixel Jake | None |
+| Guard King | None |

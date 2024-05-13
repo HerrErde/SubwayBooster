@@ -2320,22 +2320,6 @@
           }
         }
       },
-      "mayomania": {
-        "value": {
-          "id": "mayomania",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            },
-            "superJump": {
-              "value": true
-            }
-          }
-        }
-      },
       "jellyboard": {
         "value": {
           "id": "jellyboard",
@@ -2344,16 +2328,6 @@
               "value": true
             },
             "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
-      "koinobori": {
-        "value": {
-          "id": "koinobori",
-          "ownedUpgrades": {
-            "default": {
               "value": true
             }
           }
@@ -2370,6 +2344,84 @@
               "value": true
             },
             "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "koinobori": {
+        "value": {
+          "id": "koinobori",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "mayomania": {
+        "value": {
+          "id": "mayomania",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "alarmon": {
+        "value": {
+          "id": "alarmon",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "streetgrace": {
+        "value": {
+          "id": "streetgrace",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "pixelhoverboard": {
+        "value": {
+          "id": "pixelhoverboard",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "birthday2024": {
+        "value": {
+          "id": "birthday2024",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }

@@ -204,8 +204,8 @@
 | Radiant Rider | ``radiantrider`` |
 | Jak | ``jak`` |
 | Tea Timer | ``teatimer`` |
-| Deli Vroom | ``delivroom`` |
-| Jelly | None |
-| Yellow Sub | None |
-| Koinobori | None |
-| Mayo Mania | None |
+| Deli-Vroom | ``delivroom`` |
+| Jelly Board | ``jellyboard`` |
+| Yellow Sub | ``yellowsub`` |
+| Koinobori | ``koinobori`` |
+| Mayo Mania | ``mayomania`` |

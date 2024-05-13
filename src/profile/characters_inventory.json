@@ -2456,6 +2456,46 @@
             }
           ]
         }
+      },
+      "pixeljake": {
+        "value": {
+          "id": "pixeljake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ballerinatricky": {
+        "value": {
+          "id": "ballerinatricky",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "guardking": {
+        "value": {
+          "id": "guardking",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "hammybee": {
+        "value": {
+          "id": "hammybee",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
       }
     }
   }
