@@ -14,7 +14,10 @@ def convert_json(input_file, output_file):
 
         if "data" in data:
             data_content = json.dumps(data["data"]).replace(" ", "")
-            new_data = {"version": data["version"], "data": data_content}
+            new_data = {"data": data_content}
+
+            if "version" in data:
+                new_data["version"] = data["version"]
 
             with open(output_file, "w") as output:
                 json.dump(new_data, output, indent=2)

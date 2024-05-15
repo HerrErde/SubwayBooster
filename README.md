@@ -40,6 +40,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - All **Trophies**
 - All **Achievements**
 - All **Quests**
+- All **Player Profiles**/**Frames**/**Backgrounds**
 
 ### Info
 

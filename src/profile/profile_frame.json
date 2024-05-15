@@ -1,0 +1,17 @@
+{
+  "lastSaved": "0001-01-01T00:00:00Z",
+  "patchVersion": 1,
+  "data": {
+    "selected": "default_frame",
+    "owned": {
+      "default_frame": {
+        "id": "default_frame",
+        "isSeen": true
+      },
+      "birthday2024_frame": {
+        "id": "birthday2024_frame",
+        "isSeen": true
+      }
+    }
+  }
+}

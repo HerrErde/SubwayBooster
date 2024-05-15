@@ -22,6 +22,7 @@ jobs:
         run: |
           python script/generate_characters.py
           python script/generate_boards.py
+          python script/playerprofile.py
           python script/collection.py
           python script/calender.py
           python script/quests.py

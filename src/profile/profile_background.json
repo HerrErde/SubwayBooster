@@ -1,0 +1,13 @@
+{
+  "lastSaved": "0001-01-01T00:00:00Z",
+  "patchVersion": 1,
+  "data": {
+    "selected": "default_frame",
+    "owned": {
+      "default_background": {
+        "id": "default_background",
+        "isSeen": true
+      }
+    }
+  }
+}
