@@ -40,7 +40,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - All **Trophies**
 - All **Achievements**
 - All **Quests**
-- All **Player Profiles**/**Frames**/**Backgrounds**
+- All **Player Profiles**/**Frames**/**Backgrounds** | **Destinations**
 
 ### Info
 
@@ -63,5 +63,5 @@ Just make sure to know to understand which changes you're making.
 
 Docs Info [docs/info.md](docs/info.md)
 
-[Hoverboard.md](docs/Hoverboard.md) \
-[Characters.md](docs/Characters.md)
+[Characters.md](docs/Characters.md) \
+[Hoverboard.md](docs/Hoverboard.md)

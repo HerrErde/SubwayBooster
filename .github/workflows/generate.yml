@@ -23,6 +23,7 @@ jobs:
           python script/generate_characters.py
           python script/generate_boards.py
           python script/playerprofile.py
+          python script/userstats.py
           python script/collection.py
           python script/calender.py
           python script/quests.py
@@ -50,6 +51,7 @@ jobs:
       - name: Convert & Zip
         run: |
           python script/convert.py
+          python script/encrypt.py
           python script/zip.py
 
       - name: Upload Data

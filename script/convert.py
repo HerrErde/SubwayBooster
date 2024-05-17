@@ -16,11 +16,14 @@ def convert_json(input_file, output_file):
             data_content = json.dumps(data["data"]).replace(" ", "")
             new_data = {"data": data_content}
 
+            new_data = {}
             if "version" in data:
                 new_data["version"] = data["version"]
 
-            with open(output_file, "w") as output:
-                json.dump(new_data, output, indent=2)
+            new_data["data"] = data_content
+
+            with open(output_file, "w") as outfile:
+                json.dump(new_data, outfile, indent=2)
                 print(f"File '{output_file}' created successfully.")
         else:
             print(f"Error: No 'data' field found in '{input_file}'")
