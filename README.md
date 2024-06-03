@@ -20,7 +20,12 @@
 
 ## Announcement
 
-You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/.. amounts, also with Characters and Boards picker
+From the update 3.29.1 the SubwaySurf app encrypts the files in the assets/tower/gamedata/ folder, which is the source of all the new characters, hoverboards and others. \
+So there will be no new Updates until someone is able to decrypt them.
+
+## Generator
+
+You can use [subway_gen](https://subway.herrerde.xyz) to customize your own SubwaySurf files, with different Coin/Keys/.. amounts, also with Characters and Boards picker.
 
 ## Features
 
