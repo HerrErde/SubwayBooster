@@ -40,18 +40,18 @@ You can get a list of the available icons and shortcuts list <a href="stuff.json
 
 | Id                                           | Name               | Default Value       | File                                                         |
 | -------------------------------------------- | ------------------ | ------------------- | ------------------------------------------------------------ |
-| `highscore`                                  | Highscore          | 2147483647          | [Android/.../user_stats.json](src/profile/user_stats.json)   |
-| `currentScore`                               | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](src/profile/top_run.json)         |
-| 1                                            | Coins              | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 2                                            | Keys               | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 3                                            | Shop Boards        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 4                                            | Shop Headstart     | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 5                                            | Shop Score Booster | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](src/profile/wallet.json)           |
-| `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](src/profile/season_hunt.json) |
-| `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](src/profile/upgrades.json)       |
-| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](src/profile/upgrades.json)       |
-| `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](src/profile/upgrades.json)       |
+| `highscore`                                  | Highscore          | 2147483647          | [Android/.../user_stats.json](../src/profile/user_stats.json)   |
+| `currentScore`                               | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](../src/profile/top_run.json)         |
+| 1                                            | Coins              | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 2                                            | Keys               | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 3                                            | Shop Boards        | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 4                                            | Shop Headstart     | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 5                                            | Shop Score Booster | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](../src/profile/season_hunt.json) |
+| `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
+| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
+| `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](.src/profile/upgrades.json)       |
 
 ## Forced encryption
 
@@ -62,12 +62,22 @@ Because they dont want anyone to edit the save files, now the file requires a fo
 But wich weirdly dosnt affect the new  <code style="background-color: lightgray;">profile_portrait.json</code> <code style="background-color: lightgray;">profile_frame.json</code>  or <code style="background-color: lightgray;">profile_background.json</code> files
 </p>
 
-(From right to left)
+(Inside the Player Profile from right to left)
 
 | Nmae    | Place | Default Value | File                                                       |
 | ------- | ----- | ------------- | ---------------------------------------------------------- |
-| Champ   | 102   | 2147483647    | [Android/.../user_stats.json](src/profile/user_stats.json) |
-| Diamond | 103   | 2147483647    | [Android/.../user_stats.json](src/profile/user_stats.json) |
-| Gold    | 104   | 2147483647    | [Android/.../user_stats.json](src/profile/user_stats.json) |
-| Silver  | 105   | 2147483647    | [Android/.../user_stats.json](src/profile/user_stats.json) |
-| Bronze  | 106   | 2147483647    | [Android/.../user_stats.json](src/profile/user_stats.json) |
+| Champ   | 102   | 2147483647    | [Android/.../user_stats.json](../src/profile/user_stats.json) |
+| Diamond | 103   | 2147483647    | [Android/.../user_stats.json](../src/profile/user_stats.json) |
+| Gold    | 104   | 2147483647    | [Android/.../user_stats.json](../src/profile/user_stats.json) |
+| Silver  | 105   | 2147483647    | [Android/.../user_stats.json](../src/profile/user_stats.json) |
+| Bronze  | 106   | 2147483647    | [Android/.../user_stats.json](./.src/profile/user_stats.json) |
+
+
+
+## Assets encrypted/compiled
+
+<p>
+Since the 3.29.1 update, the json files in the <code>assets/tower/gamedata</code> directory of the APK are now encrypted. \
+It seems like they are in some form compiled. This change prevents me from updating SubwayBooster, as it is no longer possible to read the necessary files. /
+Therefore, SubwayBooster will remain at version 1.4.0 until it is possible to decrypt or decompile the files and access the data again.
+</p>
