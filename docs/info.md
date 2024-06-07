@@ -77,7 +77,7 @@ But wich weirdly dosnt affect the new  <code style="background-color: lightgray;
 ## Assets encrypted/compiled
 
 <p>
-Since the 3.29.1 update, the json files in the <code>assets/tower/gamedata</code> directory of the APK are now encrypted. \
-It seems like they are in some form compiled. This change prevents me from updating SubwayBooster, as it is no longer possible to read the necessary files. /
+Since the 3.29.1 update, the json files in the <code>assets/tower/gamedata</code> directory of the APK are now encrypted. <br>
+It seems like they are in some form compiled. This change prevents me from updating SubwayBooster, as it is no longer possible to read the necessary files.<br>
 Therefore, SubwayBooster will remain at version 1.4.0 until it is possible to decrypt or decompile the files and access the data again.
 </p>
