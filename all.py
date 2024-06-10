@@ -23,7 +23,7 @@ scripts = [
     ["script/generate_characters.py"],
     ["script/generate_boards.py"],
     ["script/playerprofile.py"],
-    ["script/script/userstats"],
+    ["script/userstats.py"],
     ["script/collection.py"],
     ["script/calender.py"],
     ["script/quests.py"],
