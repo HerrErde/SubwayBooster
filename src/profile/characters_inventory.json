@@ -1782,6 +1782,9 @@
             },
             {
               "value": "heartbreakerOutfit"
+            },
+            {
+              "value": "blossomqueenOutfit"
             }
           ]
         }
@@ -2457,9 +2460,9 @@
           ]
         }
       },
-      "pixeljake": {
+      "hammybee": {
         "value": {
-          "id": "pixeljake",
+          "id": "hammybee",
           "ownedOutfits": [
             {
               "value": "default"
@@ -2477,6 +2480,16 @@
           ]
         }
       },
+      "pixeljake": {
+        "value": {
+          "id": "pixeljake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "guardking": {
         "value": {
           "id": "guardking",
@@ -2487,9 +2500,19 @@
           ]
         }
       },
-      "hammybee": {
+      "riley": {
         "value": {
-          "id": "hammybee",
+          "id": "riley",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "lily": {
+        "value": {
+          "id": "lily",
           "ownedOutfits": [
             {
               "value": "default"

@@ -1,6 +1,5 @@
 {
-  "lastSaved": "0001-01-01T00:00:00Z",
-  "patchVersion": 1,
+  "version": 1,
   "data": {
     "selected": "default_frame",
     "owned": {

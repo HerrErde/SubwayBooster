@@ -189,7 +189,9 @@
 | Teabot | ``teabot`` |
 | Electra | ``electra`` |
 | Finn | ``finn`` |
-| Hammy Bee | None |
-| Ballerina Tricky | None |
-| Pixel Jake | None |
-| Guard King | None |
+| Hammy Bee | ``hammybee`` |
+| Ballerina Tricky | ``ballerinatricky`` |
+| Pixel Jake | ``pixeljake`` |
+| Guard King | ``guardking`` |
+| Riley | ``riley`` |
+| Lily | ``lily`` |

@@ -1,63 +1,70 @@
 {
-  "lastSaved": "0001-01-01T00:00:00Z",
-  "patchVersion": 1,
+  "version": 1,
   "data": {
     "selected": "jake_portrait",
     "owned": {
-      "jake_portrait": {
-        "id": "jake_portrait",
-        "isSeen": true
-      },
-      "tricky_portrait": {
-        "id": "tricky_portrait",
-        "isSeen": true
-      },
-      "fresh_portrait": {
-        "id": "fresh_portrait",
-        "isSeen": true
-      },
-      "spike_portrait": {
-        "id": "spike_portrait",
-        "isSeen": true
-      },
-      "yutani_portrait": {
-        "id": "yutani_portrait",
-        "isSeen": true
-      },
-      "tagbot_portrait": {
-        "id": "tagbot_portrait",
-        "isSeen": true
-      },
-      "king_portrait": {
-        "id": "king_portrait",
-        "isSeen": true
-      },
-      "ella_portrait": {
-        "id": "ella_portrait",
-        "isSeen": true
-      },
-      "dino_portrait": {
-        "id": "dino_portrait",
-        "isSeen": true
-      },
-      "facebook_portrait": {
-        "id": "facebook_portrait",
-        "isSeen": true
-      },
-      "boombot_portrait": {
-        "id": "boombot_portrait",
+      "alexandre_stanoutfit_portrait": {
+        "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
       },
       "ballerinatricky_portrait": {
         "id": "ballerinatricky_portrait",
         "isSeen": true
       },
-      "pixeljake_portrait": {
-        "id": "pixeljake_portrait",
+      "boombot_portrait": {
+        "id": "boombot_portrait",
+        "isSeen": true
+      },
+      "dino_portrait": {
+        "id": "dino_portrait",
+        "isSeen": true
+      },
+      "ella_portrait": {
+        "id": "ella_portrait",
+        "isSeen": true
+      },
+      "facebook_portrait": {
+        "id": "facebook_portrait",
+        "isSeen": true
+      },
+      "fresh_portrait": {
+        "id": "fresh_portrait",
         "isSeen": true
       },
       "hammybee_portrait": {
         "id": "hammybee_portrait",
+        "isSeen": true
+      },
+      "jake_portrait": {
+        "id": "jake_portrait",
+        "isSeen": true
+      },
+      "king_portrait": {
+        "id": "king_portrait",
+        "isSeen": true
+      },
+      "lily_default_portrait": {
+        "id": "lily_default_portrait",
+        "isSeen": true
+      },
+      "pixeljake_portrait": {
+        "id": "pixeljake_portrait",
+        "isSeen": true
+      },
+      "spike_portrait": {
+        "id": "spike_portrait",
+        "isSeen": true
+      },
+      "tagbot_portrait": {
+        "id": "tagbot_portrait",
+        "isSeen": true
+      },
+      "tricky_portrait": {
+        "id": "tricky_portrait",
+        "isSeen": true
+      },
+      "yutani_portrait": {
+        "id": "yutani_portrait",
         "isSeen": true
       }
     }

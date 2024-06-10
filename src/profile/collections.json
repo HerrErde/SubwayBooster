@@ -245,59 +245,59 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S84": {
-        "id": "collection_season_S84",
+      "collection_season_S85": {
+        "id": "collection_season_S85",
         "items": [
           {
-            "id": "ballerinatricky.default",
+            "id": "astra.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "streetgrace",
+            "id": "sunnysailor",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "clockworkJohnny.default",
+            "id": "prideFrank.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "pixelhoverboard",
+            "id": "rocknriley",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "fernando.default",
+            "id": "prideYutani.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "fernando.superscoutOutfit",
+            "id": "prideTricky.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "superSurfer",
-            "type": 3,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "spraybot.default",
+            "id": "callum.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "bobTheBlob.default",
+            "id": "jiYeong.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "cleo.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"

@@ -209,3 +209,10 @@
 | Yellow Sub | ``yellowsub`` |
 | Koinobori | ``koinobori`` |
 | Mayo Mania | ``mayomania`` |
+| Pixel Hoverboard | ``pixelhoverboard`` |
+| Street Grace | ``streetgrace`` |
+| 12th Birthday | ``birthday2024`` |
+| Alarm On | ``alarmon`` |
+| Laser Flip | ``laserflip`` |
+| Rock n' Riley | ``sunnysailor`` |
+| Sunny Sailor | ``rocknriley`` |

@@ -2375,17 +2375,14 @@
           }
         }
       },
-      "alarmon": {
+      "pixelhoverboard": {
         "value": {
-          "id": "alarmon",
+          "id": "pixelhoverboard",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "highSpeed": {
-              "value": true
-            },
-            "glider": {
+            "lowrider": {
               "value": true
             }
           }
@@ -2404,24 +2401,69 @@
           }
         }
       },
-      "pixelhoverboard": {
-        "value": {
-          "id": "pixelhoverboard",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "lowrider": {
-              "value": true
-            }
-          }
-        }
-      },
       "birthday2024": {
         "value": {
           "id": "birthday2024",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "alarmon": {
+        "value": {
+          "id": "alarmon",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "laserflip": {
+        "value": {
+          "id": "laserflip",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sunnysailor": {
+        "value": {
+          "id": "sunnysailor",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "rocknriley": {
+        "value": {
+          "id": "rocknriley",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }
