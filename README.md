@@ -20,8 +20,7 @@
 
 ## Announcement
 
-From the update 3.29.1 the SubwaySurf app encrypts the files in the assets/tower/gamedata/ folder, which is the source of all the new characters, hoverboards and others. \
-So there will be no new Updates until someone is able to decrypt them.
+-
 
 ## Generator
 
