@@ -10,6 +10,10 @@
       "default_frame": {
         "id": "default_frame",
         "isSeen": true
+      },
+      "hollywood_frame": {
+        "id": "hollywood_frame",
+        "isSeen": true
       }
     }
   }

@@ -216,3 +216,7 @@
 | Laser Flip | ``laserflip`` |
 | Rock n' Riley | ``sunnysailor`` |
 | Sunny Sailor | ``rocknriley`` |
+| Glarx 3000 | None |
+| Standing Ovation | None |
+| Sporty Summer | None |
+| Risky Ride | None |

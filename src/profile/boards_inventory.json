@@ -2468,6 +2468,55 @@
             }
           }
         }
+      },
+      "sportysummer": {
+        "value": {
+          "id": "sportysummer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "riskyride": {
+        "value": {
+          "id": "riskyride",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "standingovation": {
+        "value": {
+          "id": "standingovation",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "glarx3000": {
+        "value": {
+          "id": "glarx3000",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }

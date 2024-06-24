@@ -2296,6 +2296,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "hollywoodglamOutfit"
             }
           ]
         }
@@ -2513,6 +2516,36 @@
       "lily": {
         "value": {
           "id": "lily",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "glorgalax": {
+        "value": {
+          "id": "glorgalax",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ventura": {
+        "value": {
+          "id": "ventura",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "rudyrascal": {
+        "value": {
+          "id": "rudyrascal",
           "ownedOutfits": [
             {
               "value": "default"

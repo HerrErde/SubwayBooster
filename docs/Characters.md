@@ -195,3 +195,6 @@
 | Guard King | ``guardking`` |
 | Riley | ``riley`` |
 | Lily | ``lily`` |
+| Glorglax | None |
+| Ventura | None |
+| Rudy Rascal | None |
