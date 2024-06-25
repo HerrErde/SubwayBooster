@@ -54,7 +54,6 @@ jobs:
       - name: Convert & Zip
         run: |
           python script/convert.py
-          python script/encrypt.py
           python script/zip.py
 
       - name: Upload Data

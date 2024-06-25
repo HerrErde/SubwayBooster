@@ -29,7 +29,6 @@ scripts = [
     ["script/quests.py"],
     ["script/update.py"],
     ["script/convert.py"],
-    ["script/encrypt.py"],
     ["script/zip.py"],
 ]
 
