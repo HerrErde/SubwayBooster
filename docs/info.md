@@ -9,10 +9,11 @@ That's why everything is only <code style="color: red;">2100000000</code>, the r
 </p>
 
 <p>
-To set the Highscore you actually have to edit two files with the same number (but they can also be different).<br>
-<code style="background-color: lightblue;">user_stats.json</code> is the local highscore which you can see next to the crown over the "What's News?" button.<br>
+To set the Highscore you actually have to edit two files with the same number (but they also can be different).<br>
+<code style="background-color: lightblue;">user_stats.json</code> is the local highscore which you can see next to the crown over the "What's New?" button.<br>
 <code style="background-color: lightblue;">top_run.json</code> is the score viewable in the "Top Run" list (on opening the leaderboard).<br>
-The <code style="background-color: lightblue;">user_stats.json</code> file has the 32-bit integer limit which is <code style="color: red;">2,147,483,647</code> (don't know why they changed it) and the <code style="background-color: lightblue;">top_run.json</code> has the 64-bit integer limit which is <code style="color: red;">9,223,372,036,854,775,807</code>, but it is hard to even reach this number, so it is set.
+Both files <code style="background-color: lightblue;">user_stats.json</code> have the 32-bit integer limit which is <code style="color: red;">2,147,483,647</code>.
+The <code style="background-color: lightblue;">top_run.json</code> had until 3.29.0 has had the 64-bit integer limit which is <code style="color: red;">9,223,372,036,854,775,807</code>, was changed to the 32-bit limit.
 </p>
 
 ## Play old SubwaySurfers app versions
@@ -38,20 +39,20 @@ You can get a list of the available icons and shortcuts list <a href="stuff.json
 
 ## Value Ids
 
-| Id                                           | Name               | Default Value       | File                                                            |
-| -------------------------------------------- | ------------------ | ------------------- | --------------------------------------------------------------- |
-| `highscore`                                  | Highscore          | 2147483647          | [Android/.../user_stats.json](../src/profile/user_stats.json)   |
-| `currentScore`                               | CurrentScore       | 9223372036854775807 | [Android/.../top_run.json](../src/profile/top_run.json)         |
-| 1                                            | Coins              | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
-| 2                                            | Keys               | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
-| 3                                            | Shop Boards        | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
-| 4                                            | Shop Headstart     | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
-| 5                                            | Shop Score Booster | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
-| 6                                            | Event Coins        | 2100000000          | [Android/.../wallet.json](../src/profile/wallet.json)           |
-| `collectedTokens`                            | Season Tokens      | 2                   | [Android/.../season_hunt.json](../src/profile/season_hunt.json) |
-| `doubleCoins`                                | Double Coins       | 2                   | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
-| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999     | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
-| `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999      | [Android/.../upgrades.json](.src/profile/upgrades.json)         |
+| Id                                           | Name               | Default Value   | File                                                            |
+| -------------------------------------------- | ------------------ | --------------- | --------------------------------------------------------------- |
+| `highscore`                                  | Highscore          | 2147483647      | [Android/.../user_stats.json](../src/profile/user_stats.json)   |
+| `currentScore`                               | CurrentScore       | 2147483647      | [Android/.../top_run.json](../src/profile/top_run.json)         |
+| 1                                            | Coins              | 2100000000      | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 2                                            | Keys               | 2100000000      | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 3                                            | Shop Boards        | 2100000000      | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 4                                            | Shop Headstart     | 2100000000      | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 5                                            | Shop Score Booster | 2100000000      | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| 6                                            | Event Coins        | 2100000000      | [Android/.../wallet.json](../src/profile/wallet.json)           |
+| `collectedTokens`                            | Season Tokens      | 2               | [Android/.../season_hunt.json](../src/profile/season_hunt.json) |
+| `doubleCoins`                                | Double Coins       | 2               | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
+| `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999 | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
+| `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999  | [Android/.../upgrades.json](.src/profile/upgrades.json)         |
 
 ## Forced encryption
 
@@ -86,4 +87,14 @@ Therefore, SubwayBooster will remain at version 1.4.0 until it is possible to de
 Apparently Sybo still dosnt encrypt the save files of the IOS version, nor the assets files.
 If that changes in the future, we will have to see.
 Until then SubwayBooster will use the IOS version of the game and extract the assets files, which have the same format.
+</p>
+
+
+## File Version
+
+<p>
+All files have a <code>version</code> key.
+Some save files might not work and get corrupted if their version doesn't match what's needed by the app.
+The weird thing is that not all files are like this and will still work.
+But it is still something to check for.
 </p>

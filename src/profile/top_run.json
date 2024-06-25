@@ -3,7 +3,7 @@
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
     "currentCountry": null,
-    "currentScore": 9223372036854775807,
+    "currentScore": 2147483647,
     "unsubmittedScore": {}
   }
 }

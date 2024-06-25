@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
     "lastIAPDate": "0001-01-01T00:00:00Z",
@@ -13,8 +13,6 @@
       "105": 2147483647,
       "106": 2147483647
     },
-    "lastBootstrapTimes": [],
-    "lastReviveWithAdsDateTime": {},
     "worldDestinationVisited": {
       "amsterdam": 1,
       "arabia": 1,
