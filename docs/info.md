@@ -54,14 +54,6 @@ You can get a list of the available icons and shortcuts list <a href="stuff.json
 | `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999 | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
 | `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999  | [Android/.../upgrades.json](.src/profile/upgrades.json)         |
 
-## Forced encryption
-
-<p>
-In the newest update 3.29.0 comes the Player Profile with the Portrait, Frame and Background.
-They also added some stats of Characters Hoverboards, Achievements, Destinations and Top Run Badges.<br>
-Because they dont want anyone to edit the save files, now the file requires a forced pre encrypton, to be even loaded, so no normal unencrypted json and from the game again being reincrypted. But Right now it only affects the file <code style="background-color: red;">user_stats.json</code>.
-But wich weirdly dosnt affect the new  <code style="background-color: lightgray;">profile_portrait.json</code> <code style="background-color: lightgray;">profile_frame.json</code>  or <code style="background-color: lightgray;">profile_background.json</code> files
-</p>
 
 (Inside the Player Profile from right to left)
 
