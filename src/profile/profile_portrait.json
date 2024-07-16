@@ -35,6 +35,10 @@
         "id": "hammybee_portrait",
         "isSeen": true
       },
+      "helene_illustration_portrait": {
+        "id": "helene_illustration_portrait",
+        "isSeen": true
+      },
       "jake_portrait": {
         "id": "jake_portrait",
         "isSeen": true
@@ -53,6 +57,10 @@
       },
       "spike_portrait": {
         "id": "spike_portrait",
+        "isSeen": true
+      },
+      "spraycan_graffiti_portrait": {
+        "id": "spraycan_graffiti_portrait",
         "isSeen": true
       },
       "tagbot_portrait": {

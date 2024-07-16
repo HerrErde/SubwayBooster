@@ -14,6 +14,10 @@
       "hollywood_frame": {
         "id": "hollywood_frame",
         "isSeen": true
+      },
+      "summer_frame": {
+        "id": "summer_frame",
+        "isSeen": true
       }
     }
   }

@@ -215,8 +215,8 @@
 | Alarm On | ``alarmon`` |
 | Laser Flip | ``laserflip`` |
 | Rock n' Riley | ``sunnysailor`` |
-| Sunny Sailor | ``rocknriley`` |
-| Glarx 3000 | None |
-| Standing Ovation | None |
-| Sporty Summer | None |
-| Risky Ride | None |
+| Sunny Sailor | ``standingovation`` |
+| Standing Ovation | ``riskyride`` |
+| Risky Ride | ``glarx3000`` |
+| Glarx 3000 | ``sportysummer`` |
+| Sporty Summer | ``arrow`` |

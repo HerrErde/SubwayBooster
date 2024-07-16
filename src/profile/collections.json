@@ -245,59 +245,59 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S86": {
-        "id": "collection_season_S86",
+      "collection_season_S87": {
+        "id": "collection_season_S87",
         "items": [
           {
-            "id": "vivienne.default",
+            "id": "taina.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "vivienne.hollywoodglamOutfit",
+            "id": "taina.judokaOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "standingovation.default",
+            "id": "arrow.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "kdillac.default",
+            "id": "heavymetal.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "lana.default",
+            "id": "noon.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "alicia.default",
+            "id": "monkbot.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "soul.default",
+            "id": "hasina.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "salma.default",
+            "id": "aina.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "freya.default",
+            "id": "harumi.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"

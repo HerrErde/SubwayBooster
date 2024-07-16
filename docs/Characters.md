@@ -195,6 +195,8 @@
 | Guard King | ``guardking`` |
 | Riley | ``riley`` |
 | Lily | ``lily`` |
-| Glorglax | None |
-| Ventura | None |
-| Rudy Rascal | None |
+| Glorgalax | ``glorgalax`` |
+| Ventura | ``ventura`` |
+| Rudy Rascal | ``rudyrascal`` |
+| Hélène | ``helene`` |
+| Leo | ``leo`` |

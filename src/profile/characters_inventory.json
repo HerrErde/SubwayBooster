@@ -1840,6 +1840,9 @@
             },
             {
               "value": "partyBusinessOutfit"
+            },
+            {
+              "value": "summerOutfit"
             }
           ]
         }
@@ -2203,6 +2206,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "judokaOutfit"
             }
           ]
         }
@@ -2546,6 +2552,26 @@
       "rudyrascal": {
         "value": {
           "id": "rudyrascal",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "helene": {
+        "value": {
+          "id": "helene",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "leo": {
+        "value": {
+          "id": "leo",
           "ownedOutfits": [
             {
               "value": "default"

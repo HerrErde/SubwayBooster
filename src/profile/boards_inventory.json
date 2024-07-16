@@ -2456,22 +2456,9 @@
           }
         }
       },
-      "rocknriley": {
+      "standingovation": {
         "value": {
-          "id": "rocknriley",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sportysummer": {
-        "value": {
-          "id": "sportysummer",
+          "id": "standingovation",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -2495,9 +2482,22 @@
           }
         }
       },
-      "standingovation": {
+      "glarx3000": {
         "value": {
-          "id": "standingovation",
+          "id": "glarx3000",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sportysummer": {
+        "value": {
+          "id": "sportysummer",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -2505,11 +2505,56 @@
           }
         }
       },
-      "glarx3000": {
+      "arrow": {
         "value": {
-          "id": "glarx3000",
+          "id": "arrow",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "rocknriley": {
+        "value": {
+          "id": "rocknriley",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "heavymetal": {
+        "value": {
+          "id": "heavymetal",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "champ": {
+        "value": {
+          "id": "champ",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
               "value": true
             },
             "glider": {
