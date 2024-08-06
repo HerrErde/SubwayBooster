@@ -2505,32 +2505,6 @@
           }
         }
       },
-      "arrow": {
-        "value": {
-          "id": "arrow",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
-      "rocknriley": {
-        "value": {
-          "id": "rocknriley",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
       "heavymetal": {
         "value": {
           "id": "heavymetal",
@@ -2555,6 +2529,77 @@
               "value": true
             },
             "doubleJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "arrow": {
+        "value": {
+          "id": "arrow",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "brasswhizz": {
+        "value": {
+          "id": "brasswhizz",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "rocknriley": {
+        "value": {
+          "id": "rocknriley",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "turbostump": {
+        "value": {
+          "id": "turbostump",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "raggedyrunner": {
+        "value": {
+          "id": "raggedyrunner",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
               "value": true
             },
             "glider": {

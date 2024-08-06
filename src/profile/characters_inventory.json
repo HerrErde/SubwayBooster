@@ -1431,6 +1431,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "swampMysteryOutfit"
             }
           ]
         }
@@ -1915,6 +1918,9 @@
             },
             {
               "value": "spellcasterOutfit"
+            },
+            {
+              "value": "witchcapOutfit"
             }
           ]
         }
@@ -2572,6 +2578,26 @@
       "leo": {
         "value": {
           "id": "leo",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "pins": {
+        "value": {
+          "id": "pins",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ozzy": {
+        "value": {
+          "id": "ozzy",
           "ownedOutfits": [
             {
               "value": "default"

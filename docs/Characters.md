@@ -200,3 +200,5 @@
 | Rudy Rascal | ``rudyrascal`` |
 | Hélène | ``helene`` |
 | Leo | ``leo`` |
+| Pins | ``pins`` |
+| Ozzy | ``ozzy`` |

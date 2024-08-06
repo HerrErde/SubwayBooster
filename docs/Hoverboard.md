@@ -219,4 +219,10 @@
 | Standing Ovation | ``riskyride`` |
 | Risky Ride | ``glarx3000`` |
 | Glarx 3000 | ``sportysummer`` |
-| Sporty Summer | ``arrow`` |
+| Sporty Summer | ``heavymetal`` |
+| Heavy Metal | ``champ`` |
+| Champ | ``arrow`` |
+| Arrow | ``brasswhizz`` |
+| Raggedy Runner | None |
+| Turbo Stump | None |
+| Brass Whizz | None |

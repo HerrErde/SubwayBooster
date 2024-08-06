@@ -15,6 +15,10 @@
         "id": "boombot_portrait",
         "isSeen": true
       },
+      "boombox_graffiti_portrait": {
+        "id": "boombox_graffiti_portrait",
+        "isSeen": true
+      },
       "dino_portrait": {
         "id": "dino_portrait",
         "isSeen": true
@@ -49,6 +53,10 @@
       },
       "lily_default_portrait": {
         "id": "lily_default_portrait",
+        "isSeen": true
+      },
+      "pins_illustration_portrait": {
+        "id": "pins_illustration_portrait",
         "isSeen": true
       },
       "pixeljake_portrait": {
