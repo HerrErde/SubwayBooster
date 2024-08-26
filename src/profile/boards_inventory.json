@@ -2440,6 +2440,19 @@
           }
         }
       },
+      "rocknriley": {
+        "value": {
+          "id": "rocknriley",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
       "sunnysailor": {
         "value": {
           "id": "sunnysailor",
@@ -2550,30 +2563,17 @@
           }
         }
       },
-      "brasswhizz": {
+      "raggedyrunner": {
         "value": {
-          "id": "brasswhizz",
+          "id": "raggedyrunner",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "doubleJump": {
+            "superJump": {
               "value": true
             },
             "glider": {
-              "value": true
-            }
-          }
-        }
-      },
-      "rocknriley": {
-        "value": {
-          "id": "rocknriley",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
               "value": true
             }
           }
@@ -2592,17 +2592,69 @@
           }
         }
       },
-      "raggedyrunner": {
+      "brasswhizz": {
         "value": {
-          "id": "raggedyrunner",
+          "id": "brasswhizz",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "superJump": {
+            "doubleJump": {
               "value": true
             },
             "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "cookexpress": {
+        "value": {
+          "id": "cookexpress",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "veggievelocity": {
+        "value": {
+          "id": "veggievelocity",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "mooncake": {
+        "value": {
+          "id": "mooncake",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "chopchopboard": {
+        "value": {
+          "id": "chopchopboard",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }

@@ -214,15 +214,19 @@
 | 12th Birthday | ``birthday2024`` |
 | Alarm On | ``alarmon`` |
 | Laser Flip | ``laserflip`` |
-| Rock n' Riley | ``sunnysailor`` |
-| Sunny Sailor | ``standingovation`` |
-| Standing Ovation | ``riskyride`` |
-| Risky Ride | ``glarx3000`` |
-| Glarx 3000 | ``sportysummer`` |
-| Sporty Summer | ``heavymetal`` |
-| Heavy Metal | ``champ`` |
-| Champ | ``arrow`` |
-| Arrow | ``brasswhizz`` |
-| Raggedy Runner | None |
-| Turbo Stump | None |
-| Brass Whizz | None |
+| Rock n' Riley | ``rocknriley`` |
+| Sunny Sailor | ``sunnysailor`` |
+| Standing Ovation | ``standingovation`` |
+| Risky Ride | ``riskyride`` |
+| Glarx 3000 | ``glarx3000`` |
+| Sporty Summer | ``sportysummer`` |
+| Heavy Metal | ``heavymetal`` |
+| Champ | ``champ`` |
+| Arrow | ``arrow`` |
+| Raggedy Runner | ``raggedyrunner`` |
+| Turbo Stump | ``turbostump`` |
+| Brass Whizz | ``brasswhizz`` |
+| Chop-Chop | None |
+| Cook-Express | None |
+| Moon Cake | None |
+| Veggie Velocity | None |

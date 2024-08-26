@@ -7,6 +7,10 @@
         "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
       },
+      "audrey_illustration_portrait": {
+        "id": "audrey_illustration_portrait",
+        "isSeen": true
+      },
       "ballerinatricky_portrait": {
         "id": "ballerinatricky_portrait",
         "isSeen": true
@@ -17,6 +21,10 @@
       },
       "boombox_graffiti_portrait": {
         "id": "boombox_graffiti_portrait",
+        "isSeen": true
+      },
+      "burger_graffiti_portrait": {
+        "id": "burger_graffiti_portrait",
         "isSeen": true
       },
       "dino_portrait": {
