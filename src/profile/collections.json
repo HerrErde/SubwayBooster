@@ -245,60 +245,60 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S89": {
-        "id": "collection_season_S89",
+      "collection_season_S90": {
+        "id": "collection_season_S90",
         "items": [
           {
-            "id": "noel.default",
+            "id": "zihao.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "noel.bigblueOutfit",
+            "id": "zihao.vanillastrawberryOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "chopchopboard.default",
+            "id": "catalyst.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "cookexpress.default",
+            "id": "flashofflavor.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "stella.default",
+            "id": "riley.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "kim.default",
+            "id": "faiza.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "redpanda.default",
+            "id": "lily.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "hammybee.default",
+            "id": "hamza.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "liu.default",
-            "type": 2,
+            "id": "mayomania.default",
+            "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }

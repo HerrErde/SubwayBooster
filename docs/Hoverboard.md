@@ -226,7 +226,10 @@
 | Raggedy Runner | ``raggedyrunner`` |
 | Turbo Stump | ``turbostump`` |
 | Brass Whizz | ``brasswhizz`` |
-| Chop-Chop | None |
-| Cook-Express | None |
-| Moon Cake | None |
-| Veggie Velocity | None |
+| Chop-Chop Board | ``chopchopboard`` |
+| Cook-Express | ``cookexpress`` |
+| Moon Cake | ``mooncake`` |
+| Veggie Velocity | ``veggievelocity`` |
+| Couch Surfer | ``couchSurfer`` |
+| Catalyst | ``catalyst`` |
+| Flash of Flavor | ``flashofflavor`` |

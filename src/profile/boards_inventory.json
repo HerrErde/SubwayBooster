@@ -2608,6 +2608,16 @@
           }
         }
       },
+      "chopchopboard": {
+        "value": {
+          "id": "chopchopboard",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "cookexpress": {
         "value": {
           "id": "cookexpress",
@@ -2619,6 +2629,16 @@
               "value": true
             },
             "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "mooncake": {
+        "value": {
+          "id": "mooncake",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
@@ -2640,9 +2660,25 @@
           }
         }
       },
-      "mooncake": {
+      "couchSurfer": {
         "value": {
-          "id": "mooncake",
+          "id": "couchSurfer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "catalyst": {
+        "value": {
+          "id": "catalyst",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -2650,9 +2686,9 @@
           }
         }
       },
-      "chopchopboard": {
+      "flashofflavor": {
         "value": {
-          "id": "chopchopboard",
+          "id": "flashofflavor",
           "ownedUpgrades": {
             "default": {
               "value": true
