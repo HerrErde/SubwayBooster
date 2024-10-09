@@ -233,3 +233,7 @@
 | Couch Surfer | ``couchSurfer`` |
 | Catalyst | ``catalyst`` |
 | Flash of Flavor | ``flashofflavor`` |
+| Fear Tractor | None |
+| Sci-Fly | None |
+| Skeletuna | None |
+| Pitch Dark | None |

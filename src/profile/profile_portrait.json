@@ -87,6 +87,14 @@
         "id": "burger_graffiti_portrait",
         "isSeen": true
       },
+      "kedi_illustration_portrait": {
+        "id": "kedi_illustration_portrait",
+        "isSeen": true
+      },
+      "ruhi_illustration_portrait": {
+        "id": "ruhi_illustration_portrait",
+        "isSeen": true
+      },
       "alexandre_stanoutfit_portrait": {
         "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
@@ -95,16 +103,32 @@
         "id": "vivienne_hollywoodglamoutfit_portrait",
         "isSeen": true
       },
+      "bobtheblob_graffiti_portrait": {
+        "id": "bobtheblob_graffiti_portrait",
+        "isSeen": true
+      },
+      "bobtheblob_illustration_portrait": {
+        "id": "bobtheblob_illustration_portrait",
+        "isSeen": true
+      },
+      "bobtheblob_jingleoutfit_illustration_portrait": {
+        "id": "bobtheblob_jingleoutfit_illustration_portrait",
+        "isSeen": true
+      },
+      "bobtheblob_slimeoutfit_illustration_portrait": {
+        "id": "bobtheblob_slimeoutfit_illustration_portrait",
+        "isSeen": true
+      },
       "facebook_portrait": {
         "id": "facebook_portrait",
         "isSeen": true
       },
-      "kedi_illustration_portrait": {
-        "id": "kedi_illustration_portrait",
+      "frank_illustration_portrait": {
+        "id": "frank_illustration_portrait",
         "isSeen": true
       },
-      "ruhi_illustration_portrait": {
-        "id": "ruhi_illustration_portrait",
+      "thursday_lilimpoutfit_illustration_portrait": {
+        "id": "thursday_lilimpoutfit_illustration_portrait",
         "isSeen": true
       }
     }

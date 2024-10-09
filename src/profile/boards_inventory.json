@@ -2695,6 +2695,61 @@
             }
           }
         }
+      },
+      "feartractor": {
+        "value": {
+          "id": "feartractor",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "pitchdark": {
+        "value": {
+          "id": "pitchdark",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "scifly": {
+        "value": {
+          "id": "scifly",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "skeletuna": {
+        "value": {
+          "id": "skeletuna",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }
