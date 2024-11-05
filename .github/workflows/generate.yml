@@ -31,6 +31,7 @@ jobs:
           python script/calender.py
           python script/quests.py
           python script/mailbox.py
+          python script/achievements.py
 
       - name: increase version
         run: python script/update.py
