@@ -110,6 +110,8 @@
 | Qin | ``qin`` |
 | Hou | ``hou`` |
 | Zayn | ``zayn`` |
+| Darryl | ``darryl`` |
+| Lana | ``lana`` |
 | Bonnie | ``bonnie`` |
 | Buzz | ``buzz`` |
 | Trym | ``trym`` |
@@ -204,5 +206,7 @@
 | Billy Bean | ``billybean`` |
 | Ruhi | ``ruhi`` |
 | Kedi | ``kedi`` |
-| Dr. Flyman | None |
-| Pumpkin Pete | None |
+| Dr. Flyman | ``drflyman`` |
+| Pumpkin Pete | ``pumpkinpete`` |
+| Ginger | None |
+| Logan | None |

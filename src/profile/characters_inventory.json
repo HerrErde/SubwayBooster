@@ -1592,6 +1592,32 @@
           ]
         }
       },
+      "darryl": {
+        "value": {
+          "id": "darryl",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "gonzoOutfit"
+            }
+          ]
+        }
+      },
+      "lana": {
+        "value": {
+          "id": "lana",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "nordicOutfit"
+            }
+          ]
+        }
+      },
       "bonnie": {
         "value": {
           "id": "bonnie",
@@ -2155,6 +2181,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "trailmixOutfit"
             }
           ]
         }
@@ -2181,6 +2210,9 @@
             },
             {
               "value": "cupidOutfit"
+            },
+            {
+              "value": "backyardtrollOutfit"
             }
           ]
         }
@@ -2637,19 +2669,6 @@
           ]
         }
       },
-      "darryl": {
-        "value": {
-          "id": "darryl",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            },
-            {
-              "value": "gonzoOutfit"
-            }
-          ]
-        }
-      },
       "drflyman": {
         "value": {
           "id": "drflyman",
@@ -2660,22 +2679,29 @@
           ]
         }
       },
-      "lana": {
+      "pumpkinpete": {
         "value": {
-          "id": "lana",
+          "id": "pumpkinpete",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "nordicOutfit"
             }
           ]
         }
       },
-      "pumpkinpete": {
+      "ginger": {
         "value": {
-          "id": "pumpkinpete",
+          "id": "ginger",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "logan": {
+        "value": {
+          "id": "logan",
           "ownedOutfits": [
             {
               "value": "default"

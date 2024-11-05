@@ -245,60 +245,60 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S91": {
-        "id": "collection_season_S91",
+      "collection_season_S92": {
+        "id": "collection_season_S92",
         "items": [
           {
-            "id": "glorgalax.default",
+            "id": "catrine.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "lawrence.default",
+            "id": "catrine.trailmixOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "scifly.default",
+            "id": "fallspeed.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "feartractor.default",
+            "id": "pathfinder.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "pixeljake.default",
+            "id": "skye.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "pins.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "manny.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "bobTheBlob.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "pitchdark.default",
+            "id": "dangerdasher.default",
             "type": 3,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "leo.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "rudyrascal.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "alia.default",
+            "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }
