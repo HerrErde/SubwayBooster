@@ -64,7 +64,7 @@ def main():
     for file in files:
         # Load user_stats.json to get the initial "data" value
         try:
-            with open(f"temp/data/{file}", "r") as f:
+            with open(f"temp/data/{file}", "r", encoding="utf-8") as f:
                 user_stats = json.load(f)
         except FileNotFoundError:
             print(f"Error: File {file} not found.")

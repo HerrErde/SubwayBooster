@@ -9,7 +9,7 @@ os.makedirs(output_dir, exist_ok=True)
 
 def convert_json(input_file, output_file):
     try:
-        with open(input_file, "r") as input_file:
+        with open(input_file, "r", encoding="utf-8") as input_file:
             data = json.load(input_file)
 
         if "data" in data:

@@ -23,7 +23,7 @@ def find_icon_and_shortcut(data, filename):
 
 
 for file_path in glob.glob(os.path.join(directory, "*.json")):
-    with open(file_path, "r") as json_file:
+    with open(file_path, "r", encoding="utf-8") as json_file:
         filename = os.path.basename(file_path)
         data = json.load(json_file)
         file_data[filename] = {"icon": set(), "shortcut": set()}

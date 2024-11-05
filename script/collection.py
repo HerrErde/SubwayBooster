@@ -1,7 +1,7 @@
 import json
 
 # Read data from collections_data.json
-with open("temp/input/collections_data.json", "r") as data_file:
+with open("temp/input/collections_data.json", "r", encoding="utf-8") as data_file:
     collections_data = json.load(data_file)
 
 # Create a dictionary to store the transformed data

@@ -12,7 +12,7 @@ try:
             world_visited = data["data"].get("worldDestinationVisited", {})
 
             # Read entry names from cities_data.json
-            with open(input_data_path, "r") as input_data_file:
+            with open(input_data_path, "r", encoding="utf-8") as input_data_file:
                 cities_data = json.load(input_data_file)
                 entry_names = cities_data.get("cities", [])
 

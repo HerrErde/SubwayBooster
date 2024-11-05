@@ -2,10 +2,10 @@ import json
 
 
 def generate(links_file, data_file, output_file):
-    with open(links_file, "r") as links_json:
+    with open(links_file, "r", encoding="utf-8") as links_json:
         links_data = json.load(links_json)
 
-    with open(data_file, "r") as data_json:
+    with open(data_file, "r", encoding="utf-8") as data_json:
         data = json.load(data_json)
 
     # remove "removed" items

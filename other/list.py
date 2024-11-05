@@ -10,7 +10,7 @@ session = requests.Session()
 for url, file_name in urls:
     completed_names = set()
     try:
-        with open(file_name, "r") as f:
+        with open(file_name, "r", encoding="utf-8") as f:
             for line in f:
                 if line.startswith("- [x]"):
                     completed_names.add(line[5:].strip())

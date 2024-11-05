@@ -10,7 +10,7 @@ try:
             data = json.load(file)
 
             # Read entry names from mailbox_data.json
-            with open(mailbox_data_path, "r") as mailbox_data_file:
+            with open(mailbox_data_path, "r", encoding="utf-8") as mailbox_data_file:
                 mailbox_data = json.load(mailbox_data_file)
                 entry_names = mailbox_data.get("entries", [])
 

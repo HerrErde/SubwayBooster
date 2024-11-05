@@ -8,7 +8,7 @@ background_file_path = "src/profile/profile_background.json"
 
 def portrait():
     try:
-        with open(playerprofile_data_path, "r") as data_file:
+        with open(playerprofile_data_path, "r", encoding="utf-8") as data_file:
             try:
                 data = json.load(data_file)  # Load data from playerprofile_data.json
 
@@ -45,7 +45,7 @@ def portrait():
 
 def frame():
     try:
-        with open(playerprofile_data_path, "r") as data_file:
+        with open(playerprofile_data_path, "r", encoding="utf-8") as data_file:
             try:
                 data = json.load(data_file)  # Load data from playerprofile_data.json
 
@@ -82,7 +82,7 @@ def frame():
 
 def background():
     try:
-        with open(playerprofile_data_path, "r") as data_file:
+        with open(playerprofile_data_path, "r", encoding="utf-8") as data_file:
             try:
                 data = json.load(data_file)  # Load data from playerprofile_data.json
 

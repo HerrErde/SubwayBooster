@@ -6,7 +6,7 @@ def convert(input_file_name):
     output_file_name = input_file_name.replace(".json", "-gen.json")
 
     try:
-        with open(input_file_name, "r") as input_file:
+        with open(input_file_name, "r", encoding="utf-8") as input_file:
             data = json.load(input_file)
     except (FileNotFoundError, json.JSONDecodeError) as e:
         print(f"Error processing '{input_file_name}': {e}")

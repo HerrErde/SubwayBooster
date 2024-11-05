@@ -22,7 +22,7 @@ def get_version():
 
 def update_season():
     try:
-        with open(collections_file, "r") as file:
+        with open(collections_file, "r", encoding="utf-8") as file:
             data = json.load(file)
             time_slot = data.get("timeSlot", "")
             season = int(time_slot.split("_S")[1])
