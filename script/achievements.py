@@ -8,7 +8,7 @@ achievements_list = {}
 
 
 new_data = {
-    "version": 3,
+    "version": 2,
     "data": {
         "lastSaved": "0001-01-01T00:00:00Z",
         "patchVersion": 5,
@@ -24,8 +24,6 @@ for achievement in data:
     achievements_list[achievements_id] = {
         "id": achievements_id,
         "goals": tier_goals,
-        "currentTier": 4,
-        "highestProgress": 0,
         "claimState": [True, True, True, True],
     }
 
