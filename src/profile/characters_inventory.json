@@ -1865,6 +1865,9 @@
             },
             {
               "value": "frostyOutfit"
+            },
+            {
+              "value": "hideandsheepOutfit"
             }
           ]
         }
@@ -2689,6 +2692,16 @@
           ]
         }
       },
+      "logan": {
+        "value": {
+          "id": "logan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "ginger": {
         "value": {
           "id": "ginger",
@@ -2699,9 +2712,29 @@
           ]
         }
       },
-      "logan": {
+      "leif": {
         "value": {
-          "id": "logan",
+          "id": "leif",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "sindri": {
+        "value": {
+          "id": "sindri",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "demi": {
+        "value": {
+          "id": "demi",
           "ownedOutfits": [
             {
               "value": "default"

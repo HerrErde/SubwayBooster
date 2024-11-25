@@ -15,6 +15,10 @@
         "id": "tricky_portrait",
         "isSeen": true
       },
+      "fresh_illustration_portrait": {
+        "id": "fresh_illustration_portrait",
+        "isSeen": true
+      },
       "fresh_portrait": {
         "id": "fresh_portrait",
         "isSeen": true
@@ -137,6 +141,10 @@
       },
       "facebook_portrait": {
         "id": "facebook_portrait",
+        "isSeen": true
+      },
+      "sindri_illustration_portrait": {
+        "id": "sindri_illustration_portrait",
         "isSeen": true
       }
     }

@@ -1,37 +1,468 @@
 {
-  "version": 1,
+  "version": 3,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
-    "patchVersion": 0,
-    "achievements": [
-      { "type": "TrophySet1", "progress": 0, "tier": 4 },
-      { "type": "TrophySet2", "progress": 0, "tier": 4 },
-      { "type": "CoinsFromFriends", "progress": 30000, "tier": 4 },
-      { "type": "OwnCharacters", "progress": 100, "tier": 4 },
-      { "type": "CompleteMissions", "progress": 300, "tier": 4 },
-      { "type": "CompleteDailyInRow", "progress": 100, "tier": 4 },
-      { "type": "OwnBoards", "progress": 100, "tier": 4 },
-      { "type": "TopRunMedal", "progress": 100, "tier": 4 },
-      { "type": "PickupPowerups", "progress": 50000, "tier": 4 },
-      { "type": "OwnOutfits", "progress": 100, "tier": 4 },
-      { "type": "ScoreNoCoinsSingleRun", "progress": 297290, "tier": 4 },
-      { "type": "MissionsSingleRun", "progress": 100, "tier": 4 },
-      { "type": "TopRunRank1", "progress": 100, "tier": 4 },
-      { "type": "SneakersActive", "progress": 240, "tier": 4 },
-      { "type": "PickupCoinsSingleRun", "progress": 2012, "tier": 4 },
-      { "type": "PickupKeys", "progress": 2, "tier": 4 },
-      { "type": "OpenMysteryBoxes", "progress": 1003, "tier": 4 },
-      { "type": "ScoreNoDodgeSingleRun", "progress": 80, "tier": 4 },
-      { "type": "WordysComplete", "progress": 0, "tier": 4 },
-      { "type": "WordysCompleteSingleEvent", "progress": 100, "tier": 4 },
-      { "type": "Jackpots", "progress": 100, "tier": 4 },
-      { "type": "OpenSuperMysteryBoxes", "progress": 200, "tier": 4 },
-      { "type": "TopRunRank0", "progress": 100, "tier": 4 },
-      { "type": "ScoreSingleLane", "progress": 365618, "tier": 4 },
-      { "type": "WatchAdForKeys", "progress": 0, "tier": 4 },
-      { "type": "DailyChallengeClaim", "progress": 8, "tier": 4 },
-      { "type": "DailyChallengeComplete", "progress": 0, "tier": 4 },
-      { "type": "TopRunChampion", "progress": 100, "tier": 4 }
-    ]
+    "patchVersion": 5,
+    "achievementEntries": {
+      "achievement_01": {
+        "id": "achievement_01",
+        "goals": [
+          4,
+          8,
+          12,
+          16
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_02": {
+        "id": "achievement_02",
+        "goals": [
+          4,
+          8,
+          12,
+          16
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_03": {
+        "id": "achievement_03",
+        "goals": [
+          500,
+          2000,
+          10000,
+          30000
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_04": {
+        "id": "achievement_04",
+        "goals": [
+          2,
+          12,
+          30,
+          60
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_05": {
+        "id": "achievement_05",
+        "goals": [
+          7,
+          50,
+          210,
+          300
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_06": {
+        "id": "achievement_06",
+        "goals": [
+          5,
+          21,
+          42,
+          60
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_07": {
+        "id": "achievement_07",
+        "goals": [
+          5,
+          14,
+          34,
+          70
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_08": {
+        "id": "achievement_08",
+        "goals": [
+          3,
+          14,
+          21,
+          36
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_09": {
+        "id": "achievement_09",
+        "goals": [
+          100,
+          1300,
+          6300,
+          16300
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_10": {
+        "id": "achievement_10",
+        "goals": [
+          5,
+          16,
+          32,
+          80
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_11": {
+        "id": "achievement_11",
+        "goals": [
+          50000,
+          130000,
+          250000,
+          500000
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_12": {
+        "id": "achievement_12",
+        "goals": [
+          2,
+          3,
+          6,
+          9
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_13": {
+        "id": "achievement_13",
+        "goals": [
+          1,
+          3,
+          8,
+          24
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_14": {
+        "id": "achievement_14",
+        "goals": [
+          60,
+          180,
+          360,
+          600
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_16": {
+        "id": "achievement_16",
+        "goals": [
+          10,
+          35,
+          85,
+          185
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_17": {
+        "id": "achievement_17",
+        "goals": [
+          20,
+          180,
+          500,
+          1500
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_18": {
+        "id": "achievement_18",
+        "goals": [
+          60000,
+          200000,
+          500000,
+          1000000
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_19": {
+        "id": "achievement_19",
+        "goals": [
+          8,
+          24,
+          48,
+          88
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_20": {
+        "id": "achievement_20",
+        "goals": [
+          2,
+          6,
+          12,
+          22
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_21": {
+        "id": "achievement_21",
+        "goals": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_22": {
+        "id": "achievement_22",
+        "goals": [
+          10,
+          90,
+          250,
+          450
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_23": {
+        "id": "achievement_23",
+        "goals": [
+          1,
+          5,
+          10,
+          15
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_24": {
+        "id": "achievement_24",
+        "goals": [
+          45000,
+          135000,
+          315000,
+          565000
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_25": {
+        "id": "achievement_25",
+        "goals": [
+          3,
+          17,
+          47,
+          97
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_26": {
+        "id": "achievement_26",
+        "goals": [
+          50,
+          200,
+          650,
+          1550
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_27": {
+        "id": "achievement_27",
+        "goals": [
+          7,
+          21,
+          51,
+          141
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      "achievement_28": {
+        "id": "achievement_28",
+        "goals": [
+          7,
+          14,
+          30,
+          90
+        ],
+        "currentTier": 4,
+        "highestProgress": 0,
+        "claimState": [
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    }
   }
 }

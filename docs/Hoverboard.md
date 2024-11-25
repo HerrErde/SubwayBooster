@@ -237,6 +237,6 @@
 | Sci-Fly | ``scifly`` |
 | Skeletuna | ``skeletuna`` |
 | Pitch Dark | ``pitchdark`` |
-| Fox Trail | None |
-| Fall Speed | None |
-| Pathfinder | None |
+| Fox Trail | ``foxtrail`` |
+| Fall Speed | ``fallspeed`` |
+| Pathfinder | ``pathfinder`` |

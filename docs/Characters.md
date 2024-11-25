@@ -208,5 +208,8 @@
 | Kedi | ``kedi`` |
 | Dr. Flyman | ``drflyman`` |
 | Pumpkin Pete | ``pumpkinpete`` |
-| Ginger | None |
-| Logan | None |
+| Logan | ``logan`` |
+| Ginger | ``ginger`` |
+| Leif | ``leif`` |
+| Sindri | ``sindri`` |
+| Demi Lovato | ``demi`` |

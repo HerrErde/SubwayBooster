@@ -245,60 +245,60 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S92": {
-        "id": "collection_season_S92",
+      "collection_season_S93": {
+        "id": "collection_season_S93",
         "items": [
           {
-            "id": "catrine.default",
+            "id": "jack.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "catrine.trailmixOutfit",
+            "id": "jack.businessOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "fallspeed.default",
+            "id": "icicle.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "pathfinder.default",
+            "id": "suitcasesaga.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "skye.default",
+            "id": "bjarki.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "dangerdasher.default",
+            "id": "bjarki.fisherOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "clementine.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "jia.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "cozycruiser.default",
             "type": 3,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "leo.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "rudyrascal.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "alia.default",
-            "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }
