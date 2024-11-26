@@ -58,10 +58,10 @@ By just replacing your encrypted SubwaySurf save files with the unencrypted modi
 
 To modify the SubwaySurfers files, you'll need a file explorer and the latest [release](https://github.com/HerrErde/SubwayBooster/releases/latest). \
 Once you've downloaded the release, simply unpack the Zip file and extract its contents into the same folder (This process may vary depending on the file explorer you're using).
-In the extracted files, you'll have the **Android** folder. Copy this folder to the **Internal Storage** (which has its own **Android** folder) of your Android device.
-(You'll need to have full root access to your Android/data folder for this step).
+In the extracted files, you'll find the **profile** folder. Copy this folder to the Android/data/com.kiloo.subwaysurf directory in your device's Internal Storage, replacing all, or just some, of the files as needed.
+(You must have full root access to your Android/data folder to perform this step.)
 
-Non root you can use [Shizuku](https://shizuku.rikka.app) follow the steps and use the app ZArchiver.
+For non-root you can use [Shizuku](https://shizuku.rikka.app) follow the steps and use the app ZArchiver.
 
 If you need help join the [Discord Server](https://discord.gg/NAXbNwKK2V)
 
