@@ -51,10 +51,6 @@
         "id": "boombot_portrait",
         "isSeen": true
       },
-      "hammybee_portrait": {
-        "id": "hammybee_portrait",
-        "isSeen": true
-      },
       "pixeljake_portrait": {
         "id": "pixeljake_portrait",
         "isSeen": true
@@ -127,6 +123,10 @@
         "id": "bobtheblob_slimeoutfit_illustration_portrait",
         "isSeen": true
       },
+      "hammybee_portrait": {
+        "id": "hammybee_portrait",
+        "isSeen": true
+      },
       "ginger_illustration_portrait": {
         "id": "ginger_illustration_portrait",
         "isSeen": true
@@ -143,8 +143,16 @@
         "id": "facebook_portrait",
         "isSeen": true
       },
+      "grandjuke_illustration_portrait": {
+        "id": "grandjuke_illustration_portrait",
+        "isSeen": true
+      },
       "sindri_illustration_portrait": {
         "id": "sindri_illustration_portrait",
+        "isSeen": true
+      },
+      "snowy_illustration_portrait": {
+        "id": "snowy_illustration_portrait",
         "isSeen": true
       }
     }

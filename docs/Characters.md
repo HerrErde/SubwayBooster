@@ -212,4 +212,6 @@
 | Ginger | ``ginger`` |
 | Leif | ``leif`` |
 | Sindri | ``sindri`` |
-| Demi Lovato | ``demi`` |
+| Demi Lovato | ``snowy`` |
+| Snowy | ``grandjuke`` |
+| Grand Juke | ``demi`` |

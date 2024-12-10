@@ -2034,22 +2034,6 @@
           }
         }
       },
-      "energy": {
-        "value": {
-          "id": "energy",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "teleport": {
-              "value": true
-            },
-            "superJump": {
-              "value": true
-            }
-          }
-        }
-      },
       "sharpeed": {
         "value": {
           "id": "sharpeed",
@@ -2824,6 +2808,71 @@
           "id": "suitcasesaga",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "jingledingle": {
+        "value": {
+          "id": "jingledingle",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "shinysurprise": {
+        "value": {
+          "id": "shinysurprise",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "gadgetforce": {
+        "value": {
+          "id": "gadgetforce",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "icecool": {
+        "value": {
+          "id": "icecool",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "energy": {
+        "value": {
+          "id": "energy",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "teleport": {
+              "value": true
+            },
+            "superJump": {
               "value": true
             }
           }

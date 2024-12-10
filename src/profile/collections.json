@@ -245,60 +245,60 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S93": {
-        "id": "collection_season_S93",
+      "collection_season_S94": {
+        "id": "collection_season_S94",
         "items": [
           {
-            "id": "jack.default",
+            "id": "elfJake.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "jack.businessOutfit",
+            "id": "festiveFresh.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "icicle.default",
+            "id": "jingledingle.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "suitcasesaga.default",
+            "id": "gadgetforce.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "bjarki.default",
+            "id": "festiveYutani.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "bjarki.fisherOutfit",
+            "id": "festiveFrank.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "clementine.default",
+            "id": "malik.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "jia.default",
+            "id": "malik.penguinOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "cozycruiser.default",
-            "type": 3,
+            "id": "audrey.default",
+            "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }

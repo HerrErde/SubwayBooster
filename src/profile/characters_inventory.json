@@ -1878,6 +1878,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "wrapperOutfit"
             }
           ]
         }
@@ -2338,6 +2341,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "snowballerOutfit"
             }
           ]
         }
@@ -2725,6 +2731,26 @@
       "sindri": {
         "value": {
           "id": "sindri",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "snowy": {
+        "value": {
+          "id": "snowy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "grandjuke": {
+        "value": {
+          "id": "grandjuke",
           "ownedOutfits": [
             {
               "value": "default"

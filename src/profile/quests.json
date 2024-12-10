@@ -2,11 +2,11 @@
   "version": 1,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
-    "timeSlot": "season_S93",
+    "timeSlot": "season_S94",
     "progressPoints": 999999,
     "questStates": {
       "daily": {
-        "globalTimeslotId": "season_S93",
+        "globalTimeslotId": "season_S94",
         "id": "daily",
         "titleKey": "ui.quests.section_daily",
         "type": 1,
@@ -119,7 +119,7 @@
         "seenLatestChanges": true
       },
       "seasonal": {
-        "globalTimeslotId": "season_S93",
+        "globalTimeslotId": "season_S94",
         "id": "seasonal",
         "titleKey": "ui.quests.section_seasonal",
         "type": 2,

@@ -183,60 +183,67 @@
 | K-Dillac | ``kdillac`` |
 | Retro Orange | ``retroorange`` |
 | Neo-Seoul | ``neoseoul`` |
-| Superstar Board | ``energy`` |
-| Sharpeed | ``sharpeed`` |
-| Fauxpunx | ``fauxpunx`` |
-| Wind-Up Rocket | ``winduprocket`` |
-| Flash Jet | ``flashjet`` |
-| Snow Down | ``snowdown`` |
-| Skyrocket | ``skyrocket`` |
-| Electro Shock | ``electroshock`` |
-| Bada-Bomb | ``badabomb`` |
-| Roaring Heart | ``roaringheart`` |
-| Lunar Scroll | ``lunarscroll`` |
-| Red Velvet | ``redvelvet`` |
-| Confetti Crush | ``confetticrush`` |
-| Astro Tune | ``astrotune`` |
-| Interstellar | ``interstellar`` |
-| Shamrock Shebang | ``shamrockshebang`` |
-| Megga Bite | ``meggabite`` |
-| Fast and Festive | ``fastandfestive`` |
-| Radiant Rider | ``radiantrider`` |
-| Jak | ``jak`` |
-| Tea Timer | ``teatimer`` |
-| Deli-Vroom | ``delivroom`` |
-| Jelly Board | ``jellyboard`` |
-| Yellow Sub | ``yellowsub`` |
-| Koinobori | ``koinobori`` |
-| Mayo Mania | ``mayomania`` |
-| Pixel Hoverboard | ``pixelhoverboard`` |
-| Street Grace | ``streetgrace`` |
-| 12th Birthday | ``birthday2024`` |
-| Alarm On | ``alarmon`` |
-| Laser Flip | ``laserflip`` |
-| Rock n' Riley | ``rocknriley`` |
-| Sunny Sailor | ``sunnysailor`` |
-| Standing Ovation | ``standingovation`` |
-| Risky Ride | ``riskyride`` |
-| Glarx 3000 | ``glarx3000`` |
-| Sporty Summer | ``sportysummer`` |
-| Heavy Metal | ``heavymetal`` |
-| Champ | ``champ`` |
-| Arrow | ``arrow`` |
-| Raggedy Runner | ``raggedyrunner`` |
-| Turbo Stump | ``turbostump`` |
-| Brass Whizz | ``brasswhizz`` |
-| Chop-Chop Board | ``chopchopboard`` |
-| Cook-Express | ``cookexpress`` |
-| Moon Cake | ``mooncake`` |
-| Veggie Velocity | ``veggievelocity`` |
-| Couch Surfer | ``couchSurfer`` |
-| Catalyst | ``catalyst`` |
-| Flash of Flavor | ``flashofflavor`` |
-| Fear Tractor | ``feartractor`` |
-| Sci-Fly | ``scifly`` |
-| Skeletuna | ``skeletuna`` |
-| Pitch Dark | ``pitchdark`` |
-| Fox Trail | ``foxtrail`` |
-| Fall Speed | ``fallspeed`` |
-| Pathfinder | ``pathfinder`` |
+| J Balvin | ``sharpeed`` |
+| Sharpeed | ``fauxpunx`` |
+| Fauxpunx | ``winduprocket`` |
+| Wind-Up Rocket | ``flashjet`` |
+| Flash Jet | ``snowdown`` |
+| Snow Down | ``skyrocket`` |
+| Skyrocket | ``electroshock`` |
+| Electro Shock | ``badabomb`` |
+| Bada-Bomb | ``roaringheart`` |
+| Roaring Heart | ``lunarscroll`` |
+| Lunar Scroll | ``redvelvet`` |
+| Red Velvet | ``confetticrush`` |
+| Confetti Crush | ``astrotune`` |
+| Astro Tune | ``interstellar`` |
+| Interstellar | ``shamrockshebang`` |
+| Shamrock Shebang | ``meggabite`` |
+| Megga Bite | ``fastandfestive`` |
+| Fast and Festive | ``radiantrider`` |
+| Radiant Rider | ``jak`` |
+| Jak | ``teatimer`` |
+| Tea Timer | ``delivroom`` |
+| Deli-Vroom | ``jellyboard`` |
+| Jelly Board | ``yellowsub`` |
+| Yellow Sub | ``koinobori`` |
+| Koinobori | ``mayomania`` |
+| Mayo Mania | ``pixelhoverboard`` |
+| Pixel Hoverboard | ``streetgrace`` |
+| Street Grace | ``birthday2024`` |
+| 12th Birthday | ``alarmon`` |
+| Alarm On | ``laserflip`` |
+| Laser Flip | ``rocknriley`` |
+| Rock n' Riley | ``sunnysailor`` |
+| Sunny Sailor | ``standingovation`` |
+| Standing Ovation | ``riskyride`` |
+| Risky Ride | ``glarx3000`` |
+| Glarx 3000 | ``sportysummer`` |
+| Sporty Summer | ``heavymetal`` |
+| Heavy Metal | ``champ`` |
+| Champ | ``arrow`` |
+| Arrow | ``raggedyrunner`` |
+| Raggedy Runner | ``turbostump`` |
+| Turbo Stump | ``brasswhizz`` |
+| Brass Whizz | ``chopchopboard`` |
+| Chop-Chop Board | ``cookexpress`` |
+| Cook-Express | ``mooncake`` |
+| Moon Cake | ``veggievelocity`` |
+| Veggie Velocity | ``couchSurfer`` |
+| Couch Surfer | ``catalyst`` |
+| Catalyst | ``flashofflavor`` |
+| Flash of Flavor | ``feartractor`` |
+| Fear Tractor | ``scifly`` |
+| Sci-Fly | ``skeletuna`` |
+| Skeletuna | ``pitchdark`` |
+| Pitch Dark | ``foxtrail`` |
+| Fox Trail | ``fallspeed`` |
+| Fall Speed | ``pathfinder`` |
+| Pathfinder | ``cozycruiser`` |
+| Cozy Cruiser | ``icicle`` |
+| Icicle | ``suitcasesaga`` |
+| Suitcase Saga | ``jingledingle`` |
+| Jingle Dingle | ``shinysurprise`` |
+| Shiny Surprise | ``gadgetforce`` |
+| Gadget Force | ``icecool`` |
+| Ice Cool | ``energy`` |
