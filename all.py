@@ -25,6 +25,7 @@ scripts = [
     ["script/playerprofile.py"],
     ["script/userstats.py"],
     ["script/collection.py"],
+    ["script/challenges.py"],
     ["script/calender.py"],
     ["script/achievements.py"],
     ["script/quests.py"],
