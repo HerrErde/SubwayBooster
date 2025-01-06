@@ -2877,6 +2877,45 @@
             }
           }
         }
+      },
+      "hyperviper": {
+        "value": {
+          "id": "hyperviper",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "lantern": {
+        "value": {
+          "id": "lantern",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "override": {
+        "value": {
+          "id": "override",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }

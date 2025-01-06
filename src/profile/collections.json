@@ -245,35 +245,47 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S94": {
-        "id": "collection_season_S94",
+      "collection_season_S95": {
+        "id": "collection_season_S95",
         "items": [
           {
-            "id": "elfJake.default",
+            "id": "thunder.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "festiveFresh.default",
+            "id": "skye.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "jingledingle.default",
+            "id": "lantern.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "gadgetforce.default",
-            "type": 3,
+            "id": "sun.default",
+            "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "festiveYutani.default",
+            "id": "sun.rogueOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "tiger.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "0001-01-01T00:00:00Z"
+          },
+          {
+            "id": "ox.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
@@ -285,20 +297,8 @@
             "lastUpdate": "0001-01-01T00:00:00Z"
           },
           {
-            "id": "malik.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "malik.penguinOutfit",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
-          },
-          {
-            "id": "audrey.default",
-            "type": 2,
+            "id": "fireDragon.default",
+            "type": 3,
             "claimed": true,
             "lastUpdate": "0001-01-01T00:00:00Z"
           }

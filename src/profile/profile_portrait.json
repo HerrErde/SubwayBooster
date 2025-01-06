@@ -139,12 +139,20 @@
         "id": "vivienne_hollywoodglamoutfit_portrait",
         "isSeen": true
       },
+      "akira_illustration_portrait": {
+        "id": "akira_illustration_portrait",
+        "isSeen": true
+      },
       "facebook_portrait": {
         "id": "facebook_portrait",
         "isSeen": true
       },
       "grandjuke_illustration_portrait": {
         "id": "grandjuke_illustration_portrait",
+        "isSeen": true
+      },
+      "noodlebox_graffiti_portrait": {
+        "id": "noodlebox_graffiti_portrait",
         "isSeen": true
       },
       "sindri_illustration_portrait": {

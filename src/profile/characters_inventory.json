@@ -1756,6 +1756,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "nightriderOutfit"
             }
           ]
         }
@@ -2084,6 +2087,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "goldencrushOutfit"
             }
           ]
         }
@@ -2751,6 +2757,26 @@
       "grandjuke": {
         "value": {
           "id": "grandjuke",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "snake": {
+        "value": {
+          "id": "snake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "tangyuan": {
+        "value": {
+          "id": "tangyuan",
           "ownedOutfits": [
             {
               "value": "default"
