@@ -2034,22 +2034,6 @@
           }
         }
       },
-      "alarmon": {
-        "value": {
-          "id": "alarmon",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            },
-            "glider": {
-              "value": true
-            }
-          }
-        }
-      },
       "sharpeed": {
         "value": {
           "id": "sharpeed",
@@ -2411,14 +2395,14 @@
           }
         }
       },
-      "lantern": {
+      "alarmon": {
         "value": {
-          "id": "lantern",
+          "id": "alarmon",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "doubleJump": {
+            "highSpeed": {
               "value": true
             },
             "glider": {
@@ -2889,29 +2873,6 @@
               "value": true
             },
             "superJump": {
-              "value": true
-            }
-          }
-        }
-      },
-      "hyperviper": {
-        "value": {
-          "id": "hyperviper",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
-      "override": {
-        "value": {
-          "id": "override",
-          "ownedUpgrades": {
-            "default": {
               "value": true
             }
           }
