@@ -161,7 +161,7 @@
 | Zuper Zapper | ``zuperzapper`` |
 | Ho Ho Hoverboard | ``hohohoverboard`` |
 | Snow Cloud | ``snowCloud`` |
-| Wrapped | ``xmas2022`` |
+| Wrapper | ``xmas2022`` |
 | Carp Diem | ``carpdiem`` |
 | Ghastly Glider | ``ghastlyglider`` |
 | Fan-Tastic | ``fanTastic`` |

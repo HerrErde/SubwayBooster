@@ -212,6 +212,8 @@
 | Ginger | ``ginger`` |
 | Leif | ``leif`` |
 | Sindri | ``sindri`` |
-| Demi Lovato | ``snowy`` |
-| Snowy | ``grandjuke`` |
-| Grand Juke | ``demi`` |
+| Demi Lovato | ``demi`` |
+| Snowy | ``snowy`` |
+| Grand Juke | ``grandjuke`` |
+| Snake | ``snake`` |
+| Tang Yuan | ``tangyuan`` |
