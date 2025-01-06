@@ -6,95 +6,68 @@
       "outfit": "default"
     },
     "owned": {
-      "jake": {
+      "elfJake": {
         "value": {
-          "id": "jake",
+          "id": "elfJake",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "darkOutfit"
-            },
-            {
-              "value": "starOutfit"
             }
           ]
         }
       },
-      "tricky": {
+      "ballerinatricky": {
         "value": {
-          "id": "tricky",
+          "id": "ballerinatricky",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "heartOutfit"
-            },
-            {
-              "value": "camoOutfit"
             }
           ]
         }
       },
-      "fresh": {
+      "elfFresh": {
         "value": {
-          "id": "fresh",
+          "id": "elfFresh",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "funkOutfit"
-            },
-            {
-              "value": "sportOutfit"
             }
           ]
         }
       },
-      "yutani": {
+      "elfYutani": {
         "value": {
-          "id": "yutani",
+          "id": "elfYutani",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "gadgetOutfit"
             }
           ]
         }
       },
-      "spike": {
+      "festiveSpike": {
         "value": {
-          "id": "spike",
+          "id": "festiveSpike",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "rockOutfit"
-            },
-            {
-              "value": "punkOutfit"
             }
           ]
         }
       },
-      "frank": {
+      "festiveFrank": {
         "value": {
-          "id": "frank",
+          "id": "festiveFrank",
           "ownedOutfits": [
             {
               "value": "default"
             },
             {
-              "value": "clownOutfit"
+              "value": "anubisOutfit"
             },
             {
-              "value": "tigerOutfit"
+              "value": "fortuneOutfit"
             }
           ]
         }
@@ -115,18 +88,12 @@
           ]
         }
       },
-      "king": {
+      "guardking": {
         "value": {
-          "id": "king",
+          "id": "guardking",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "countOutfit"
-            },
-            {
-              "value": "royalOutfit"
             }
           ]
         }
@@ -1132,15 +1099,15 @@
           ]
         }
       },
-      "rin": {
+      "catrine": {
         "value": {
-          "id": "rin",
+          "id": "catrine",
           "ownedOutfits": [
             {
               "value": "default"
             },
             {
-              "value": "lunarOutfit"
+              "value": "trailmixOutfit"
             }
           ]
         }
@@ -1484,9 +1451,9 @@
           ]
         }
       },
-      "festiveSpike": {
+      "prideSpike": {
         "value": {
-          "id": "festiveSpike",
+          "id": "prideSpike",
           "ownedOutfits": [
             {
               "value": "default"
@@ -1494,18 +1461,12 @@
           ]
         }
       },
-      "festiveFrank": {
+      "prideFrank": {
         "value": {
-          "id": "festiveFrank",
+          "id": "prideFrank",
           "ownedOutfits": [
             {
               "value": "default"
-            },
-            {
-              "value": "anubisOutfit"
-            },
-            {
-              "value": "fortuneOutfit"
             }
           ]
         }
@@ -1697,22 +1658,34 @@
           ]
         }
       },
-      "prideSpike": {
+      "spike": {
         "value": {
-          "id": "prideSpike",
+          "id": "spike",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "rockOutfit"
+            },
+            {
+              "value": "punkOutfit"
             }
           ]
         }
       },
-      "prideFrank": {
+      "frank": {
         "value": {
-          "id": "prideFrank",
+          "id": "frank",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "clownOutfit"
+            },
+            {
+              "value": "tigerOutfit"
             }
           ]
         }
@@ -1756,6 +1729,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "nightriderOutfit"
             }
           ]
         }
@@ -2084,6 +2060,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "goldencrushOutfit"
             }
           ]
         }
@@ -2101,9 +2080,9 @@
           ]
         }
       },
-      "elfJake": {
+      "pixeljake": {
         "value": {
-          "id": "elfJake",
+          "id": "pixeljake",
           "ownedOutfits": [
             {
               "value": "default"
@@ -2111,22 +2090,31 @@
           ]
         }
       },
-      "elfFresh": {
+      "fresh": {
         "value": {
-          "id": "elfFresh",
+          "id": "fresh",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "funkOutfit"
+            },
+            {
+              "value": "sportOutfit"
             }
           ]
         }
       },
-      "elfYutani": {
+      "yutani": {
         "value": {
-          "id": "elfYutani",
+          "id": "yutani",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "gadgetOutfit"
             }
           ]
         }
@@ -2181,15 +2169,15 @@
           ]
         }
       },
-      "catrine": {
+      "rin": {
         "value": {
-          "id": "catrine",
+          "id": "rin",
           "ownedOutfits": [
             {
               "value": "default"
             },
             {
-              "value": "trailmixOutfit"
+              "value": "lunarOutfit"
             }
           ]
         }
@@ -2518,32 +2506,50 @@
           ]
         }
       },
-      "pixeljake": {
+      "jake": {
         "value": {
-          "id": "pixeljake",
+          "id": "jake",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "darkOutfit"
+            },
+            {
+              "value": "starOutfit"
             }
           ]
         }
       },
-      "ballerinatricky": {
+      "tricky": {
         "value": {
-          "id": "ballerinatricky",
+          "id": "tricky",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "heartOutfit"
+            },
+            {
+              "value": "camoOutfit"
             }
           ]
         }
       },
-      "guardking": {
+      "king": {
         "value": {
-          "id": "guardking",
+          "id": "king",
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "countOutfit"
+            },
+            {
+              "value": "royalOutfit"
             }
           ]
         }
@@ -2738,6 +2744,16 @@
           ]
         }
       },
+      "demi": {
+        "value": {
+          "id": "demi",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "snowy": {
         "value": {
           "id": "snowy",
@@ -2758,9 +2774,19 @@
           ]
         }
       },
-      "demi": {
+      "snake": {
         "value": {
-          "id": "demi",
+          "id": "snake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "tangyuan": {
+        "value": {
+          "id": "tangyuan",
           "ownedOutfits": [
             {
               "value": "default"

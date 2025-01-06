@@ -1,13 +1,13 @@
 | Name | Id |
 | ---- | --- |
-| Jake | ``jake`` |
-| Tricky | ``tricky`` |
-| Fresh | ``fresh`` |
-| Yutani | ``yutani`` |
-| Spike | ``spike`` |
-| Frank | ``frank`` |
+| Jake | ``elfJake`` |
+| Tricky | ``ballerinatricky`` |
+| Fresh | ``elfFresh`` |
+| Yutani | ``elfYutani`` |
+| Spike | ``festiveSpike`` |
+| Frank | ``festiveFrank`` |
 | Ella | ``ella`` |
-| King | ``king`` |
+| King | ``guardking`` |
 | Ninja | ``ninja`` |
 | Lucy | ``lucy`` |
 | Tasha | ``tasha`` |
@@ -73,7 +73,7 @@
 | Miss Maia | ``missMaia`` |
 | Hugo | ``hugo`` |
 | Rabbot | ``rabbot`` |
-| Rin | ``rin`` |
+| Rin | ``catrine`` |
 | Kareem | ``kareem`` |
 | Ace | ``ace`` |
 | Mei | ``mei`` |
@@ -101,8 +101,8 @@
 | Festive Jake | ``festiveJake`` |
 | Festive Tricky | ``festiveTricky`` |
 | Festive Yutani | ``festiveYutani`` |
-| Festive Spike | ``festiveSpike`` |
-| Festive Frank | ``festiveFrank`` |
+| Festive Spike | ``prideSpike`` |
+| Festive Frank | ``prideFrank`` |
 | Frankette | ``frankette`` |
 | Spacebot | ``spacebot`` |
 | Rat | ``rat`` |
@@ -119,8 +119,8 @@
 | Pride Tricky | ``prideTricky`` |
 | Pride Fresh | ``prideFresh`` |
 | Pride Yutani | ``prideYutani`` |
-| Pride Spike | ``prideSpike`` |
-| Pride Frank | ``prideFrank`` |
+| Pride Spike | ``spike`` |
+| Pride Frank | ``frank`` |
 | Pridebot | ``prideBot`` |
 | Alexandre | ``alexandre`` |
 | Parkour Rin | ``parkourRin`` |
@@ -151,15 +151,15 @@
 | Fantasma | ``fantasma`` |
 | Song Yi | ``songYi`` |
 | Super Runner Fernando | ``fernando`` |
-| Elf Jake | ``elfJake`` |
-| Elf Fresh | ``elfFresh`` |
-| Elf Yutani | ``elfYutani`` |
+| Elf Jake | ``pixeljake`` |
+| Elf Fresh | ``fresh`` |
+| Elf Yutani | ``yutani`` |
 | Rabbit | ``rabbit`` |
 | Soul | ``soul`` |
 | Tutti | ``tutti`` |
 | Frutti | ``frutti`` |
 | Spraybot | ``spraybot`` |
-| Catrine | ``catrine`` |
+| Catrine | ``rin`` |
 | Rain | ``rain`` |
 | Alfie | ``alfie`` |
 | Bruno | ``bruno`` |
@@ -190,9 +190,9 @@
 | Finn | ``finn`` |
 | Electra | ``electra`` |
 | Hammy-Bee | ``hammybee`` |
-| Pixel Jake | ``pixeljake`` |
-| Ballerina Tricky | ``ballerinatricky`` |
-| Guard King | ``guardking`` |
+| Pixel Jake | ``jake`` |
+| Ballerina Tricky | ``tricky`` |
+| Guard King | ``king`` |
 | Riley | ``riley`` |
 | Lily | ``lily`` |
 | Rudy Rascal | ``rudyrascal`` |
@@ -212,6 +212,8 @@
 | Ginger | ``ginger`` |
 | Leif | ``leif`` |
 | Sindri | ``sindri`` |
-| Demi Lovato | ``snowy`` |
-| Snowy | ``grandjuke`` |
-| Grand Juke | ``demi`` |
+| Demi Lovato | ``demi`` |
+| Snowy | ``snowy`` |
+| Grand Juke | ``grandjuke`` |
+| Snake | ``snake`` |
+| Tang Yuan | ``tangyuan`` |
