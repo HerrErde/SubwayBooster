@@ -48,6 +48,31 @@ def challenge():
 
             rewardStates.append(state)
 
+            part_req = challenge.get("participationRequirement", {})
+
+            # Check if 'participationRequirement' is a dictionary and if it has a 'data' key
+            if isinstance(part_req, dict):
+                part_data = part_req.get("data", [])[0]
+                operator = part_req.get("operator")
+                part_data_meta = part_data.get("meta", [])
+
+                participation = {
+                    "type": part_data.get("type"),
+                    "operator": part_data.get("operator"),
+                    "value": part_data.get("value"),
+                    "meta": part_data_meta,
+                }
+
+            partreq = {
+                "data": [participation],
+                "operator": operator,
+            }
+
+            requirements = {
+                "access": challenge["accessRequirement"],
+                "participation": partreq,
+            }
+
         challengeStates[challenge_id] = {
             "challengeId": challenge_id,
             "challengeType": challenge["headerTitleKey"],
@@ -64,7 +89,7 @@ def challenge():
             "rewardStates": rewardStates,
             "rewardUnlockOffset": challenge["rewardUnlockOffset"],
             "matchmakingId": challenge["matchmakingId"],
-            "requirements": challenge["accessRequirement"],
+            "requirements": requirements,
             "kind": kind_mapping.get(challenge["kind"]),
             "targetCity": challenge["targetCity"],
             "markAsSeen": True,

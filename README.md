@@ -48,6 +48,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - All **Achievements**
 - All **Quests**
 - All **Player Profiles**/**Frames**/**Backgrounds** | **Destinations**
+- All **Challenge Events** (Current/Upcomming)
 
 ### Info
 
