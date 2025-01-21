@@ -15,7 +15,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download Files
+      - name: Set vars
+        id: var
+        run: |
+          packageId="com.kiloo.subwaysurf" >> $GITHUB_OUTPUT
+          echo version=$(curl -s "https://gplayapi.herrerde.xyz/api/apps/$packageId" | jq -r '.version' | tr '.' '-') >> $GITHUB_OUTPUT
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.1.0
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install
         run: pip install -r requirements.txt
 
       - name: Download Files
