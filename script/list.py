@@ -8,8 +8,7 @@ def generate(links_file, data_file, output_file):
     with open(data_file, "r", encoding="utf-8") as data_json:
         data = json.load(data_json)
 
-    # remove "removed" items
-    links_data = [link for link in links_data if not link.get("removed", False)]
+    links_data = [link for link in links_data]
 
     # markdown content
     content = "| Name | Id |\n| ---- | --- |\n"
@@ -28,7 +27,7 @@ def generate(links_file, data_file, output_file):
         if name and data_id:
             content += f"| {name} | {data_id} |\n"
 
-    with open(output_file, "w") as md_file:
+    with open(output_file, "w", encoding="utf-8") as md_file:
         md_file.write(content)
 
 
