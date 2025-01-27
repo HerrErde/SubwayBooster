@@ -1781,16 +1781,6 @@
           }
         }
       },
-      "xmas2022": {
-        "value": {
-          "id": "xmas2022",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
       "carpdiem": {
         "value": {
           "id": "carpdiem",
@@ -2862,22 +2852,6 @@
           }
         }
       },
-      "energy": {
-        "value": {
-          "id": "energy",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "teleport": {
-              "value": true
-            },
-            "superJump": {
-              "value": true
-            }
-          }
-        }
-      },
       "hyperviper": {
         "value": {
           "id": "hyperviper",
@@ -2910,6 +2884,71 @@
       "override": {
         "value": {
           "id": "override",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "deardart": {
+        "value": {
+          "id": "deardart",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "energy": {
+        "value": {
+          "id": "energy",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "teleport": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "freshlove": {
+        "value": {
+          "id": "freshlove",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "heartstopper": {
+        "value": {
+          "id": "heartstopper",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "xmas2022": {
+        "value": {
+          "id": "xmas2022",
           "ownedUpgrades": {
             "default": {
               "value": true

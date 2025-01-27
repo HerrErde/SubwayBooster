@@ -2784,9 +2784,39 @@
           ]
         }
       },
+      "valentina": {
+        "value": {
+          "id": "valentina",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "kaleo": {
+        "value": {
+          "id": "kaleo",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "demi": {
         "value": {
           "id": "demi",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "kaleoKissKissOutfit": {
+        "value": {
+          "id": "kaleoKissKissOutfit",
           "ownedOutfits": [
             {
               "value": "default"
