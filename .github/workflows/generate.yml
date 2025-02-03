@@ -45,6 +45,7 @@ jobs:
           python script/quests.py
           python script/mailbox.py
           python script/achievements.py
+          python script/chainoffers.py
 
       - name: increase version
         run: python script/update.py

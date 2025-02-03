@@ -54,6 +54,7 @@ def get_scripts(version, onlydownload, nodownload):
         ["script/calender.py"],
         ["script/achievements.py"],
         ["script/quests.py"],
+        ["script/chainoffers.py"],
         ["script/update.py"],
         ["script/convert.py"],
         ["script/zip.py"],
