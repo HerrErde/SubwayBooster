@@ -19,7 +19,8 @@ jobs:
         id: var
         run: |
           packageId="com.kiloo.subwaysurf" >> $GITHUB_OUTPUT
-          echo version=$(curl -s "https://gplayapi.herrerde.xyz/api/apps/$packageId" | jq -r '.version' | tr '.' '-') >> $GITHUB_OUTPUT
+          version=$(curl -s "https://gplayapi.herrerde.xyz/api/apps/$packageId" | jq -r '.version' | awk -F '.' '{print $1 "-" $2 "-0"}')
+          echo version=$version >> $GITHUB_OUTPUT
 
       - name: Setup Python
         uses: actions/setup-python@v5.1.0

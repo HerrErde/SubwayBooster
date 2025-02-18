@@ -10,8 +10,15 @@ collections_file = "temp/input/collections_data.json"
 def get_version():
     try:
         response = requests.get(gplayapi_url)
-        response.raise_for_status()  # Raise an exception for unsuccessful status codes
-        return response.json()["version"]
+        response.raise_for_status()
+        version = response.json().get("version")
+        if version:
+            parts = version.split(".")
+            major, minor = parts[:2]  # Extract major and minor version
+            version = f"{major}.{minor}.0"
+            return version.replace(".", "-")
+
+        return None
     except requests.RequestException as e:
         print(f"Error retrieving app version: {e}")
         return None
