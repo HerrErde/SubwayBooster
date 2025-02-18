@@ -212,10 +212,12 @@
 | Ginger | ``ginger`` |
 | Leif | ``leif`` |
 | Sindri | ``sindri`` |
-| Demi Lovato | ``snowy`` |
-| Snowy | ``grandjuke`` |
-| Grand Juke | ``snake`` |
-| Snake | ``tangyuan`` |
-| Tang Yuan | ``valentina`` |
-| Valentina | ``kaleo`` |
-| Kaleo | ``demi`` |
+| Demi Lovato | ``demi`` |
+| Snowy | ``snowy`` |
+| Grand Juke | ``grandjuke`` |
+| Snake | ``snake`` |
+| Tang Yuan | ``tangyuan`` |
+| Valentina | ``valentina`` |
+| Kaleo | ``kaleo`` |
+| Rebeca Roar | ``rebecaroar`` |
+| Gabriel | ``gabriel`` |

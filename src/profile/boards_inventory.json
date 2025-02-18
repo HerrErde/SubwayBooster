@@ -243,9 +243,9 @@
           }
         }
       },
-      "sakarSurfSpray": {
+      "ray": {
         "value": {
-          "id": "sakarSurfSpray",
+          "id": "ray",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -256,16 +256,6 @@
       "sakarCrew": {
         "value": {
           "id": "sakarCrew",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarCrewCrush": {
-        "value": {
-          "id": "sakarCrewCrush",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -670,16 +660,6 @@
       "chameleon": {
         "value": {
           "id": "chameleon",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "ray": {
-        "value": {
-          "id": "ray",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -1781,6 +1761,16 @@
           }
         }
       },
+      "xmas2022": {
+        "value": {
+          "id": "xmas2022",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "carpdiem": {
         "value": {
           "id": "carpdiem",
@@ -1999,6 +1989,22 @@
           "id": "kdillac",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "energy": {
+        "value": {
+          "id": "energy",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "teleport": {
+              "value": true
+            },
+            "superJump": {
               "value": true
             }
           }
@@ -2891,32 +2897,6 @@
           }
         }
       },
-      "deardart": {
-        "value": {
-          "id": "deardart",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "energy": {
-        "value": {
-          "id": "energy",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "teleport": {
-              "value": true
-            },
-            "superJump": {
-              "value": true
-            }
-          }
-        }
-      },
       "freshlove": {
         "value": {
           "id": "freshlove",
@@ -2946,9 +2926,68 @@
           }
         }
       },
-      "xmas2022": {
+      "deardart": {
         "value": {
-          "id": "xmas2022",
+          "id": "deardart",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "arara": {
+        "value": {
+          "id": "arara",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "moongazer": {
+        "value": {
+          "id": "moongazer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "roarsome": {
+        "value": {
+          "id": "roarsome",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarCrewCrush": {
+        "value": {
+          "id": "sakarCrewCrush",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarSurfSpray": {
+        "value": {
+          "id": "sakarSurfSpray",
           "ownedUpgrades": {
             "default": {
               "value": true

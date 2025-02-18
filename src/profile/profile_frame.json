@@ -18,6 +18,14 @@
       "hollywood_frame": {
         "id": "hollywood_frame",
         "isSeen": true
+      },
+      "lava_frame": {
+        "id": "lava_frame",
+        "isSeen": true
+      },
+      "plant_frame": {
+        "id": "plant_frame",
+        "isSeen": true
       }
     }
   }

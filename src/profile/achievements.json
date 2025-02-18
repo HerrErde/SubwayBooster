@@ -6,6 +6,8 @@
     "achievementEntries": {
       "achievement_01": {
         "id": "achievement_01",
+        "progress": 16,
+        "highestProgress": 16,
         "goals": [
           4,
           8,
@@ -21,6 +23,8 @@
       },
       "achievement_02": {
         "id": "achievement_02",
+        "progress": 16,
+        "highestProgress": 16,
         "goals": [
           4,
           8,
@@ -36,6 +40,8 @@
       },
       "achievement_03": {
         "id": "achievement_03",
+        "progress": 30000,
+        "highestProgress": 30000,
         "goals": [
           500,
           2000,
@@ -51,6 +57,8 @@
       },
       "achievement_04": {
         "id": "achievement_04",
+        "progress": 60,
+        "highestProgress": 60,
         "goals": [
           2,
           12,
@@ -66,6 +74,8 @@
       },
       "achievement_05": {
         "id": "achievement_05",
+        "progress": 300,
+        "highestProgress": 300,
         "goals": [
           7,
           50,
@@ -81,6 +91,8 @@
       },
       "achievement_06": {
         "id": "achievement_06",
+        "progress": 60,
+        "highestProgress": 60,
         "goals": [
           5,
           21,
@@ -96,6 +108,8 @@
       },
       "achievement_07": {
         "id": "achievement_07",
+        "progress": 70,
+        "highestProgress": 70,
         "goals": [
           5,
           14,
@@ -111,6 +125,8 @@
       },
       "achievement_08": {
         "id": "achievement_08",
+        "progress": 36,
+        "highestProgress": 36,
         "goals": [
           3,
           14,
@@ -126,6 +142,8 @@
       },
       "achievement_09": {
         "id": "achievement_09",
+        "progress": 16300,
+        "highestProgress": 16300,
         "goals": [
           100,
           1300,
@@ -141,6 +159,8 @@
       },
       "achievement_10": {
         "id": "achievement_10",
+        "progress": 80,
+        "highestProgress": 80,
         "goals": [
           5,
           16,
@@ -156,6 +176,8 @@
       },
       "achievement_11": {
         "id": "achievement_11",
+        "progress": 500000,
+        "highestProgress": 500000,
         "goals": [
           50000,
           130000,
@@ -171,6 +193,8 @@
       },
       "achievement_12": {
         "id": "achievement_12",
+        "progress": 9,
+        "highestProgress": 9,
         "goals": [
           2,
           3,
@@ -186,6 +210,8 @@
       },
       "achievement_13": {
         "id": "achievement_13",
+        "progress": 24,
+        "highestProgress": 24,
         "goals": [
           1,
           3,
@@ -201,6 +227,8 @@
       },
       "achievement_14": {
         "id": "achievement_14",
+        "progress": 600,
+        "highestProgress": 600,
         "goals": [
           60,
           180,
@@ -216,6 +244,8 @@
       },
       "achievement_16": {
         "id": "achievement_16",
+        "progress": 185,
+        "highestProgress": 185,
         "goals": [
           10,
           35,
@@ -231,6 +261,8 @@
       },
       "achievement_17": {
         "id": "achievement_17",
+        "progress": 1500,
+        "highestProgress": 1500,
         "goals": [
           20,
           180,
@@ -246,6 +278,8 @@
       },
       "achievement_18": {
         "id": "achievement_18",
+        "progress": 1000000,
+        "highestProgress": 1000000,
         "goals": [
           60000,
           200000,
@@ -261,6 +295,8 @@
       },
       "achievement_19": {
         "id": "achievement_19",
+        "progress": 88,
+        "highestProgress": 88,
         "goals": [
           8,
           24,
@@ -276,6 +312,8 @@
       },
       "achievement_20": {
         "id": "achievement_20",
+        "progress": 22,
+        "highestProgress": 22,
         "goals": [
           2,
           6,
@@ -291,6 +329,8 @@
       },
       "achievement_21": {
         "id": "achievement_21",
+        "progress": 4,
+        "highestProgress": 4,
         "goals": [
           1,
           2,
@@ -306,6 +346,8 @@
       },
       "achievement_22": {
         "id": "achievement_22",
+        "progress": 450,
+        "highestProgress": 450,
         "goals": [
           10,
           90,
@@ -321,6 +363,8 @@
       },
       "achievement_23": {
         "id": "achievement_23",
+        "progress": 15,
+        "highestProgress": 15,
         "goals": [
           1,
           5,
@@ -336,6 +380,8 @@
       },
       "achievement_24": {
         "id": "achievement_24",
+        "progress": 565000,
+        "highestProgress": 565000,
         "goals": [
           45000,
           135000,
@@ -351,6 +397,8 @@
       },
       "achievement_25": {
         "id": "achievement_25",
+        "progress": 97,
+        "highestProgress": 97,
         "goals": [
           3,
           17,
@@ -366,6 +414,8 @@
       },
       "achievement_26": {
         "id": "achievement_26",
+        "progress": 1550,
+        "highestProgress": 1550,
         "goals": [
           50,
           200,
@@ -381,6 +431,8 @@
       },
       "achievement_27": {
         "id": "achievement_27",
+        "progress": 141,
+        "highestProgress": 141,
         "goals": [
           7,
           21,
@@ -396,6 +448,8 @@
       },
       "achievement_28": {
         "id": "achievement_28",
+        "progress": 90,
+        "highestProgress": 90,
         "goals": [
           7,
           14,
