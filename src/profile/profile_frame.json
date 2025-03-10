@@ -11,20 +11,20 @@
         "id": "summer_frame",
         "isSeen": true
       },
-      "birthday2024_frame": {
-        "id": "birthday2024_frame",
+      "plant_frame": {
+        "id": "plant_frame",
         "isSeen": true
       },
-      "hollywood_frame": {
-        "id": "hollywood_frame",
+      "birthday2024_frame": {
+        "id": "birthday2024_frame",
         "isSeen": true
       },
       "lava_frame": {
         "id": "lava_frame",
         "isSeen": true
       },
-      "plant_frame": {
-        "id": "plant_frame",
+      "hollywood_frame": {
+        "id": "hollywood_frame",
         "isSeen": true
       }
     }

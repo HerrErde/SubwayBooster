@@ -2834,6 +2834,36 @@
           ]
         }
       },
+      "rocky": {
+        "value": {
+          "id": "rocky",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "rani": {
+        "value": {
+          "id": "rani",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "dinorange": {
+        "value": {
+          "id": "dinorange",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
@@ -2847,6 +2877,16 @@
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "stellaColorFeverOutfit": {
+        "value": {
+          "id": "stellaColorFeverOutfit",
           "ownedOutfits": [
             {
               "value": "default"

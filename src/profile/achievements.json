@@ -40,13 +40,13 @@
       },
       "achievement_03": {
         "id": "achievement_03",
-        "progress": 30000,
-        "highestProgress": 30000,
+        "progress": 20000,
+        "highestProgress": 20000,
         "goals": [
           500,
           2000,
           10000,
-          30000
+          20000
         ],
         "claimState": [
           true,
@@ -74,13 +74,13 @@
       },
       "achievement_05": {
         "id": "achievement_05",
-        "progress": 300,
-        "highestProgress": 300,
+        "progress": 240,
+        "highestProgress": 240,
         "goals": [
           7,
           50,
-          210,
-          300
+          180,
+          240
         ],
         "claimState": [
           true,
@@ -91,13 +91,13 @@
       },
       "achievement_06": {
         "id": "achievement_06",
-        "progress": 60,
-        "highestProgress": 60,
+        "progress": 42,
+        "highestProgress": 42,
         "goals": [
           5,
+          14,
           21,
-          42,
-          60
+          42
         ],
         "claimState": [
           true,
@@ -142,13 +142,13 @@
       },
       "achievement_09": {
         "id": "achievement_09",
-        "progress": 16300,
-        "highestProgress": 16300,
+        "progress": 10000,
+        "highestProgress": 10000,
         "goals": [
           100,
-          1300,
-          6300,
-          16300
+          1250,
+          5000,
+          10000
         ],
         "claimState": [
           true,
@@ -159,13 +159,13 @@
       },
       "achievement_10": {
         "id": "achievement_10",
-        "progress": 80,
-        "highestProgress": 80,
+        "progress": 60,
+        "highestProgress": 60,
         "goals": [
           5,
           16,
           32,
-          80
+          60
         ],
         "claimState": [
           true,
@@ -295,13 +295,13 @@
       },
       "achievement_19": {
         "id": "achievement_19",
-        "progress": 88,
-        "highestProgress": 88,
+        "progress": 68,
+        "highestProgress": 68,
         "goals": [
           8,
           24,
           48,
-          88
+          68
         ],
         "claimState": [
           true,
@@ -312,13 +312,13 @@
       },
       "achievement_20": {
         "id": "achievement_20",
-        "progress": 22,
-        "highestProgress": 22,
+        "progress": 18,
+        "highestProgress": 18,
         "goals": [
           2,
           6,
           12,
-          22
+          18
         ],
         "claimState": [
           true,
@@ -414,13 +414,13 @@
       },
       "achievement_26": {
         "id": "achievement_26",
-        "progress": 1550,
-        "highestProgress": 1550,
+        "progress": 800,
+        "highestProgress": 800,
         "goals": [
           50,
           200,
-          650,
-          1550
+          500,
+          800
         ],
         "claimState": [
           true,
@@ -431,13 +431,13 @@
       },
       "achievement_27": {
         "id": "achievement_27",
-        "progress": 141,
-        "highestProgress": 141,
+        "progress": 101,
+        "highestProgress": 101,
         "goals": [
           7,
           21,
-          51,
-          141
+          41,
+          101
         ],
         "claimState": [
           true,
@@ -448,13 +448,13 @@
       },
       "achievement_28": {
         "id": "achievement_28",
-        "progress": 90,
-        "highestProgress": 90,
+        "progress": 60,
+        "highestProgress": 60,
         "goals": [
           7,
           14,
           30,
-          90
+          60
         ],
         "claimState": [
           true,

@@ -221,3 +221,5 @@
 | Kaleo | ``kaleo`` |
 | Rebeca Roar | ``rebecaroar`` |
 | Gabriel | ``gabriel`` |
+| Rocky | ``rocky`` |
+| Rani | ``rani`` |

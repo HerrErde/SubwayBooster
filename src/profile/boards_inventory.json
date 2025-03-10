@@ -945,22 +945,6 @@
           }
         }
       },
-      "bassBlaster": {
-        "value": {
-          "id": "bassBlaster",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "trail": {
-              "value": true
-            },
-            "jumper": {
-              "value": true
-            }
-          }
-        }
-      },
       "yellowCab": {
         "value": {
           "id": "yellowCab",
@@ -2936,6 +2920,22 @@
           }
         }
       },
+      "roarsome": {
+        "value": {
+          "id": "roarsome",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
       "arara": {
         "value": {
           "id": "arara",
@@ -2959,17 +2959,56 @@
           }
         }
       },
-      "roarsome": {
+      "cyannote": {
         "value": {
-          "id": "roarsome",
+          "id": "cyannote",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "highSpeed": {
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "purplespin": {
+        "value": {
+          "id": "purplespin",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             },
             "superJump": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "blueriff": {
+        "value": {
+          "id": "blueriff",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "bassBlaster": {
+        "value": {
+          "id": "bassBlaster",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "trail": {
+              "value": true
+            },
+            "jumper": {
               "value": true
             }
           }

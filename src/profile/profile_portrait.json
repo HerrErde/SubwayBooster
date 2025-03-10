@@ -182,6 +182,14 @@
       "guard_pink_graffiti_portrait": {
         "id": "guard_pink_graffiti_portrait",
         "isSeen": true
+      },
+      "rocky_illustration_portrait": {
+        "id": "rocky_illustration_portrait",
+        "isSeen": true
+      },
+      "stella_graffiti_portrait": {
+        "id": "stella_graffiti_portrait",
+        "isSeen": true
       }
     }
   }
