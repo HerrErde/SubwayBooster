@@ -16,7 +16,7 @@ def get_version():
             parts = version.split(".")
             major, minor = parts[:2]  # Extract major and minor version
             version = f"{major}.{minor}.0"
-            return version.replace(".", "-")
+            return version
 
         return None
     except requests.RequestException as e:

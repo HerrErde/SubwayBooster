@@ -81,6 +81,7 @@ jobs:
             SubwayBooster.zip
             temp/data/characters_inventory.json
             temp/data/boards_inventory.json
+            temp/data/generic_challenges.json
 
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
