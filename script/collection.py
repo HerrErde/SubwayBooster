@@ -1,13 +1,11 @@
 import json
 
-# Read data from collections_data.json
+
 with open("temp/input/collections_data.json", "r", encoding="utf-8") as data_file:
     collections_data = json.load(data_file)
 
-# Create a dictionary to store the transformed data
 collections_state = {}
 
-# Transform the data from collections_data.json
 for collection in collections_data["collections"]:
     collection_id = collection["id"]
     items = []
@@ -17,6 +15,7 @@ for collection in collections_data["collections"]:
             "type": item_info["type"],
             "claimed": True,
             "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": item_info["points"],
         }
         items.append(item_data)
 
@@ -24,10 +23,9 @@ for collection in collections_data["collections"]:
         "id": collection_id,
         "items": items,
         "upgradesState": [2],
-        "claimedPoints": None,
     }
 
-# Add seasonalCollections data
+
 seasonal_collections_state = {}
 seasonal_collections_data = collections_data.get("seasonalCollections", [])
 for seasonal_collection in seasonal_collections_data:
@@ -39,6 +37,7 @@ for seasonal_collection in seasonal_collections_data:
             "type": seasonal_item["type"],
             "claimed": True,
             "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": seasonal_item["points"],
         }
         seasonal_items.append(seasonal_item_data)
 
@@ -49,26 +48,37 @@ for seasonal_collection in seasonal_collections_data:
         "claimedPoints": 0,
     }
 
-# Create the final JSON structure
+
+meterLevelClaimed = [
+    {"Claimed": True, "IsAvailable": True}
+    for _ in range(collections_data.get("meterTiers", 0))
+]
+
+full_collection_value = 0
+for collection in collections_data.get("collections", []):
+    for item_info in collection.get("items", []):
+        full_collection_value += item_info.get("points", 0)
+
+meterScore = collections_data.get("meterScore", 0)
+
+collection_value = meterScore - full_collection_value
+
+seasonal_collection_value = collection_value - 800
+
+
+for collection in seasonal_collections_state.values():
+    items = collection.get("items", [])
+    if items:
+        items[0]["points"] = seasonal_collection_value
+        break  # Stop after modifying the first 'points' key
+
+
 data = {
     "lastSaved": "0001-01-01T00:00:00Z",
+    "patchVersion": 2,
     "collectionsState": collections_state,
     "seasonalCollectionsState": seasonal_collections_state,
-    "meterLevelClaimed": [
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-        {"Claimed": True, "IsAvailable": True},
-    ],
+    "meterLevelClaimed": meterLevelClaimed,
     "viewed": True,
     "meterViewed": True,
     "lastUpdate": "0001-01-01T00:00:00Z",
@@ -76,6 +86,5 @@ data = {
 
 final_data = {"version": 1, "data": data}
 
-# Write the transformed data to collections.json
 with open("src/profile/collections.json", "w") as f:
     json.dump(final_data, f, indent=2)
