@@ -929,6 +929,22 @@
           }
         }
       },
+      "bassBlaster": {
+        "value": {
+          "id": "bassBlaster",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "trail": {
+              "value": true
+            },
+            "jumper": {
+              "value": true
+            }
+          }
+        }
+      },
       "colorCloud": {
         "value": {
           "id": "colorCloud",
@@ -2959,19 +2975,6 @@
           }
         }
       },
-      "cyannote": {
-        "value": {
-          "id": "cyannote",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "glider": {
-              "value": true
-            }
-          }
-        }
-      },
       "purplespin": {
         "value": {
           "id": "purplespin",
@@ -2988,6 +2991,19 @@
           }
         }
       },
+      "cyannote": {
+        "value": {
+          "id": "cyannote",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
       "blueriff": {
         "value": {
           "id": "blueriff",
@@ -2998,17 +3014,56 @@
           }
         }
       },
-      "bassBlaster": {
+      "eggscalibur": {
         "value": {
-          "id": "bassBlaster",
+          "id": "eggscalibur",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "trail": {
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "bloomster": {
+        "value": {
+          "id": "bloomster",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             },
-            "jumper": {
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "edinburst": {
+        "value": {
+          "id": "edinburst",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "guardboard": {
+        "value": {
+          "id": "guardboard",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }

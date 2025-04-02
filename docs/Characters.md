@@ -221,5 +221,10 @@
 | Kaleo | ``kaleo`` |
 | Rebeca Roar | ``rebecaroar`` |
 | Gabriel | ``gabriel`` |
+| Dinorange | ``dinorange`` |
 | Rocky | ``rocky`` |
 | Rani | ``rani`` |
+| Chicken Jake | ``chickenjake`` |
+| Mallard Tricky | ``mallardtricky`` |
+| Finlay | ``finlay`` |
+| Ribbon | ``ribbon`` |

@@ -2,6 +2,7 @@
   "version": 1,
   "data": {
     "lastSaved": "0001-01-01T00:00:00Z",
+    "patchVersion": 2,
     "collectionsState": {
       "collection_1": {
         "id": "collection_1",
@@ -10,25 +11,27 @@
             "id": "jake.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "jake.darkOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "starboard.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": null
+        ]
       },
       "collection_2": {
         "id": "collection_2",
@@ -37,43 +40,48 @@
             "id": "lumberjack.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "lucy.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "tagbot.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "ninja.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "frank.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 40
           },
           {
             "id": "starboard.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": null
+        ]
       },
       "collection_3": {
         "id": "collection_3",
@@ -82,37 +90,41 @@
             "id": "jake.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "tricky.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "fresh.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 50
           },
           {
             "id": "spike.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 200
           },
           {
             "id": "yutani.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 500
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": null
+        ]
       },
       "collection_4": {
         "id": "collection_4",
@@ -121,37 +133,41 @@
             "id": "jake.starOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 150
           },
           {
             "id": "tricky.camoOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 123
           },
           {
             "id": "fresh.sportOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 350
           },
           {
             "id": "yutani.gadgetOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 750
           },
           {
             "id": "windglider.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 360
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": null
+        ]
       },
       "collection_5": {
         "id": "collection_5",
@@ -160,43 +176,48 @@
             "id": "sunset.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 25
           },
           {
             "id": "tasha.cheeroutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 60
           },
           {
             "id": "frank.clownOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 70
           },
           {
             "id": "king.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 80
           },
           {
             "id": "brody.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 350
           },
           {
             "id": "ella.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 150
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": null
+        ]
       },
       "collection_6": {
         "id": "collection_6",
@@ -205,111 +226,232 @@
             "id": "daredevil.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 135
           },
           {
             "id": "ella.rastaOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 180
           },
           {
             "id": "zoe.bikerOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 170
           },
           {
             "id": "lucy.steamOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 57
           },
           {
             "id": "brody.chillOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 490
           },
           {
             "id": "missMaia.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 200
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": null
+        ]
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S98": {
-        "id": "collection_season_S98",
+      "collection_season_S99": {
+        "id": "collection_season_S99",
         "items": [
           {
-            "id": "alia.default",
+            "id": "mallardtricky.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 21960
           },
           {
-            "id": "alia.sneakyblindersOutfit",
+            "id": "meggan.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "jay.blueOutfit",
+            "id": "bonnie.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "callum.pinkpunkOutfit",
+            "id": "jamie.hatterOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "bruno.default",
+            "id": "jia.unicornOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "rocky.default",
+            "id": "george.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "alfie.backyardtrollOutfit",
+            "id": "ribbon.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "kareem.SilkOutfit",
+            "id": "clementine.hideandsheepOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           },
           {
-            "id": "cyannote.default",
+            "id": "eggscalibur.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z"
+            "lastUpdate": "0001-01-01T00:00:00Z",
+            "points": 100
           }
         ],
         "upgradesState": [
           2
-        ],
-        "claimedPoints": 0
+        ]
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

@@ -2834,6 +2834,16 @@
           ]
         }
       },
+      "dinorange": {
+        "value": {
+          "id": "dinorange",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "rocky": {
         "value": {
           "id": "rocky",
@@ -2854,9 +2864,39 @@
           ]
         }
       },
-      "dinorange": {
+      "chickenjake": {
         "value": {
-          "id": "dinorange",
+          "id": "chickenjake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "mallardtricky": {
+        "value": {
+          "id": "mallardtricky",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "finlay": {
+        "value": {
+          "id": "finlay",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ribbon": {
+        "value": {
+          "id": "ribbon",
           "ownedOutfits": [
             {
               "value": "default"
@@ -2877,6 +2917,16 @@
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "soulSirEasterOutfit": {
+        "value": {
+          "id": "soulSirEasterOutfit",
           "ownedOutfits": [
             {
               "value": "default"

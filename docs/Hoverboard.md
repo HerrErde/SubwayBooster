@@ -85,177 +85,180 @@
 | Sweetheart | ``sweetheart`` |
 | Splash | ``splash`` |
 | Renegade | ``renegade`` |
+| Bass Blaster | ``bassBlaster`` |
 | Color Cloud | ``colorCloud`` |
-| Bass Blaster | None |
-| Yellow Cab | ``rockstar`` |
-| Rockstar | ``wayfarer`` |
-| Wayfarer | ``magicCarpet`` |
-| Magic Carpet | ``rocket`` |
-| Rocket | ``scratchy`` |
-| Scratchy | ``fireDragon`` |
-| Fire Dragon | ``pixelHeart`` |
-| Pixel Heart | ``clockwork`` |
-| Clockwork | ``desertRacer`` |
-| Desert Racer | ``diablo`` |
-| Diablo | ``4thOfJuly`` |
-| 4th of July | ``naga`` |
-| Naga | ``stallion`` |
-| Stallion | ``leaf`` |
-| Leaf | ``retroWave`` |
-| Retro Wave | ``starcruiser`` |
-| Starcruiser | ``spaceship`` |
-| Spaceship | ``jazz`` |
-| Jazz | ``aero`` |
-| Aero | ``scroll`` |
-| Scroll | ``roto`` |
-| Roto | ``punk`` |
-| Punk | ``betty`` |
-| Betty | ``coral`` |
-| Coral | ``nflpaPrescott`` |
-| Prescott | ``nflpaJackson`` |
-| Jackson | ``nflpaBrady`` |
-| Brady | ``nflpaBeckham`` |
-| Beckham Jr. | ``nflpaMahomes`` |
-| Mahomes | ``nflpaBarkley`` |
-| Barkley | ``goat`` |
-| Goat | ``beelzebook`` |
-| Beelzebook | ``secretSociety`` |
-| Secret Society | ``endeavour`` |
-| Endeavour | ``discovery`` |
-| Discovery | ``crane`` |
-| Crane | ``buddyBear`` |
-| Buddy Bear | ``uprock`` |
-| Uprock | ``bunny`` |
-| Bunny | ``shuttle`` |
-| Shuttle | ``viking`` |
-| Viking | ``birthday2021`` |
-| 9th Birthday | ``bamboo`` |
-| Bamboo | ``dragonBoat`` |
-| Dragon Boat | ``paintPalette`` |
-| Paint Palette | ``parasol`` |
-| Parasol | ``sakura`` |
-| Sakura | ``beach`` |
-| Beach | ``queenofhearts`` |
-| Queen of Hearts | ``camel`` |
-| Camel | ``torito`` |
-| Torito | ``mapleLeaf`` |
-| Maple Leaf | ``beachPop`` |
-| Beach Pop | ``gingerBoom`` |
-| Ginger Boom | ``atomicTile`` |
-| Atomic Tile | ``lunarTiger`` |
-| Lunar Tiger | ``astronave`` |
-| Astronave | ``spring`` |
-| Spring | ``rollsRabbit`` |
-| Rolls Rabbit | ``crashTest`` |
-| Crash Test | ``superSurfer`` |
-| Super Surfer | ``birthday2022`` |
-| 10th Birthday | ``trickster`` |
-| Trickster | ``boombastic`` |
-| Boombastic | ``magNeatO`` |
-| Mag-Neat-O | ``ssskater`` |
-| Ssskater | ``moped`` |
-| Moped | ``aeroFish`` |
-| Aero Fish | ``smokingSlime`` |
-| Smoking Slime | ``nightlute`` |
-| Night Lute | ``zuperzapper`` |
-| Zuper Zapper | ``hohohoverboard`` |
-| Ho Ho Hoverboard | ``snowCloud`` |
-| Snow Cloud | ``xmas2022`` |
-| Wrapped | ``carpdiem`` |
-| Carp Diem | ``ghastlyglider`` |
-| Ghastly Glider | ``fanTastic`` |
-| Fan-Tastic | ``viperfish`` |
-| Viperfish | ``iscream`` |
-| I-Scream | ``tagger`` |
-| Tagger | ``dangerdasher`` |
-| Danger Dasher | ``birthday2023`` |
-| 11th Birthday | ``colourshift`` |
-| Color Shift | ``bigBoss`` |
-| Big Boss Board | ``futureWave`` |
-| Future Wave | ``jamanta`` |
-| Jamanta | ``kite`` |
-| Kite | ``sweetchili`` |
-| Sweet Chili | ``raveRider`` |
-| Rave Rider | ``flyingHorse`` |
-| Flying Horse | ``flamingdoll`` |
-| Flaming Doll | ``backtothefuture`` |
-| Back to the Future | ``kdillac`` |
-| K-Dillac | ``energy`` |
-| Superstar | ``retroorange`` |
-| Retro Orange | ``neoseoul`` |
-| Neo-Seoul | ``sharpeed`` |
-| Sharpeed | ``fauxpunx`` |
-| Fauxpunx | ``winduprocket`` |
-| Wind-Up Rocket | ``flashjet`` |
-| Flash Jet | ``snowdown`` |
-| Snow Down | ``skyrocket`` |
-| Skyrocket | ``electroshock`` |
-| Electro Shock | ``badabomb`` |
-| Bada-Bomb | ``roaringheart`` |
-| Roaring Heart | ``lunarscroll`` |
-| Lunar Scroll | ``redvelvet`` |
-| Red Velvet | ``confetticrush`` |
-| Confetti Crush | ``astrotune`` |
-| Astro Tune | ``interstellar`` |
-| Interstellar | ``shamrockshebang`` |
-| Shamrock Shebang | ``meggabite`` |
-| Megga Bite | ``fastandfestive`` |
-| Fast and Festive | ``radiantrider`` |
-| Radiant Rider | ``jak`` |
-| Jak | ``teatimer`` |
-| Tea Timer | ``delivroom`` |
-| Deli-Vroom | ``jellyboard`` |
-| Jelly Board | ``yellowsub`` |
-| Yellow Sub | ``koinobori`` |
-| Koinobori | ``mayomania`` |
-| Mayo Mania | ``pixelhoverboard`` |
-| Pixel Hoverboard | ``streetgrace`` |
-| Street Grace | ``birthday2024`` |
-| 12th Birthday | ``alarmon`` |
-| Alarm On | ``laserflip`` |
-| Laser Flip | ``rocknriley`` |
-| Rock n' Riley | ``sunnysailor`` |
-| Sunny Sailor | ``standingovation`` |
-| Standing Ovation | ``riskyride`` |
-| Risky Ride | ``glarx3000`` |
-| Glarx 3000 | ``sportysummer`` |
-| Sporty Summer | ``heavymetal`` |
-| Heavy Metal | ``champ`` |
-| Champ | ``arrow`` |
-| Arrow | ``raggedyrunner`` |
-| Raggedy Runner | ``turbostump`` |
-| Turbo Stump | ``brasswhizz`` |
-| Brass Whizz | ``chopchopboard`` |
-| Chop-Chop Board | ``cookexpress`` |
-| Cook-Express | ``mooncake`` |
-| Moon Cake | ``veggievelocity`` |
-| Veggie Velocity | ``couchSurfer`` |
-| Couch Surfer | ``catalyst`` |
-| Catalyst | ``flashofflavor`` |
-| Flash of Flavor | ``feartractor`` |
-| Fear Tractor | ``scifly`` |
-| Sci-Fly | ``skeletuna`` |
-| Skeletuna | ``pitchdark`` |
-| Pitch Dark | ``foxtrail`` |
-| Fox Trail | ``fallspeed`` |
-| Fall Speed | ``pathfinder`` |
-| Pathfinder | ``cozycruiser`` |
-| Cozy Cruiser | ``icicle`` |
-| Icicle | ``suitcasesaga`` |
-| Suitcase Saga | ``jingledingle`` |
-| Jingle Dingle | ``shinysurprise`` |
-| Shiny Surprise | ``gadgetforce`` |
-| Gadget Force | ``icecool`` |
-| Ice Cool | ``hyperviper`` |
-| Hyper Viper | ``lantern`` |
-| Lantern | ``override`` |
-| Override | ``freshlove`` |
-| Fresh Love | ``heartstopper`` |
-| Heartstopper | ``deardart`` |
-| Dear Dart | ``roarsome`` |
-| Roarsome | ``arara`` |
-| Arara Board | ``moongazer`` |
-| Moongazer | ``cyannote`` |
-| Cyan Note | ``purplespin`` |
-| Purple Spin | ``blueriff`` |
-| Blue Riff | ``bassBlaster`` |
+| Yellow Cab | ``yellowCab`` |
+| Rockstar | ``rockstar`` |
+| Wayfarer | ``wayfarer`` |
+| Magic Carpet | ``magicCarpet`` |
+| Rocket | ``rocket`` |
+| Scratchy | ``scratchy`` |
+| Fire Dragon | ``fireDragon`` |
+| Pixel Heart | ``pixelHeart`` |
+| Clockwork | ``clockwork`` |
+| Desert Racer | ``desertRacer`` |
+| Diablo | ``diablo`` |
+| 4th of July | ``4thOfJuly`` |
+| Naga | ``naga`` |
+| Stallion | ``stallion`` |
+| Leaf | ``leaf`` |
+| Retro Wave | ``retroWave`` |
+| Starcruiser | ``starcruiser`` |
+| Spaceship | ``spaceship`` |
+| Jazz | ``jazz`` |
+| Aero | ``aero`` |
+| Scroll | ``scroll`` |
+| Roto | ``roto`` |
+| Punk | ``punk`` |
+| Betty | ``betty`` |
+| Coral | ``coral`` |
+| Prescott | ``nflpaPrescott`` |
+| Jackson | ``nflpaJackson`` |
+| Brady | ``nflpaBrady`` |
+| Beckham Jr. | ``nflpaBeckham`` |
+| Mahomes | ``nflpaMahomes`` |
+| Barkley | ``nflpaBarkley`` |
+| Goat | ``goat`` |
+| Beelzebook | ``beelzebook`` |
+| Secret Society | ``secretSociety`` |
+| Endeavour | ``endeavour`` |
+| Discovery | ``discovery`` |
+| Crane | ``crane`` |
+| Buddy Bear | ``buddyBear`` |
+| Uprock | ``uprock`` |
+| Bunny | ``bunny`` |
+| Shuttle | ``shuttle`` |
+| Viking | ``viking`` |
+| 9th Birthday | ``birthday2021`` |
+| Bamboo | ``bamboo`` |
+| Dragon Boat | ``dragonBoat`` |
+| Paint Palette | ``paintPalette`` |
+| Parasol | ``parasol`` |
+| Sakura | ``sakura`` |
+| Beach | ``beach`` |
+| Queen of Hearts | ``queenofhearts`` |
+| Camel | ``camel`` |
+| Torito | ``torito`` |
+| Maple Leaf | ``mapleLeaf`` |
+| Beach Pop | ``beachPop`` |
+| Ginger Boom | ``gingerBoom`` |
+| Atomic Tile | ``atomicTile`` |
+| Lunar Tiger | ``lunarTiger`` |
+| Astronave | ``astronave`` |
+| Spring | ``spring`` |
+| Rolls Rabbit | ``rollsRabbit`` |
+| Crash Test | ``crashTest`` |
+| Super Surfer | ``superSurfer`` |
+| 10th Birthday | ``birthday2022`` |
+| Trickster | ``trickster`` |
+| Boombastic | ``boombastic`` |
+| Mag-Neat-O | ``magNeatO`` |
+| Ssskater | ``ssskater`` |
+| Moped | ``moped`` |
+| Aero Fish | ``aeroFish`` |
+| Smoking Slime | ``smokingSlime`` |
+| Night Lute | ``nightlute`` |
+| Zuper Zapper | ``zuperzapper`` |
+| Ho Ho Hoverboard | ``hohohoverboard`` |
+| Snow Cloud | ``snowCloud`` |
+| Wrapped | ``xmas2022`` |
+| Carp Diem | ``carpdiem`` |
+| Ghastly Glider | ``ghastlyglider`` |
+| Fan-tastic | ``fanTastic`` |
+| Viperfish | ``viperfish`` |
+| I-Scream | ``iscream`` |
+| Tagger | ``tagger`` |
+| Danger Dasher | ``dangerdasher`` |
+| 11th Birthday | ``birthday2023`` |
+| Color Shift | ``colourshift`` |
+| Big Boss Board | ``bigBoss`` |
+| Future Wave | ``futureWave`` |
+| Jamanta | ``jamanta`` |
+| Kite | ``kite`` |
+| Sweet Chili | ``sweetchili`` |
+| Rave Rider | ``raveRider`` |
+| Flying Horse | ``flyingHorse`` |
+| Flaming Doll | ``flamingdoll`` |
+| Back to the Future | ``backtothefuture`` |
+| K-Dillac | ``kdillac`` |
+| Superstar | ``energy`` |
+| Retro Orange | ``retroorange`` |
+| Neo-Seoul | ``neoseoul`` |
+| Sharpeed | ``sharpeed`` |
+| Fauxpunx | ``fauxpunx`` |
+| Wind-Up Rocket | ``winduprocket`` |
+| Flash Jet | ``flashjet`` |
+| Snow Down | ``snowdown`` |
+| Skyrocket | ``skyrocket`` |
+| Electro Shock | ``electroshock`` |
+| Bada-Bomb | ``badabomb`` |
+| Roaring Heart | ``roaringheart`` |
+| Lunar Scroll | ``lunarscroll`` |
+| Red Velvet | ``redvelvet`` |
+| Confetti Crush | ``confetticrush`` |
+| Astro Tune | ``astrotune`` |
+| Interstellar | ``interstellar`` |
+| Shamrock Shebang | ``shamrockshebang`` |
+| Megga Bite | ``meggabite`` |
+| Fast and Festive | ``fastandfestive`` |
+| Radiant Rider | ``radiantrider`` |
+| Jak | ``jak`` |
+| Tea Timer | ``teatimer`` |
+| Deli-Vroom | ``delivroom`` |
+| Jelly Board | ``jellyboard`` |
+| Yellow Sub | ``yellowsub`` |
+| Koinobori | ``koinobori`` |
+| Mayo Mania | ``mayomania`` |
+| Pixel Hoverboard | ``pixelhoverboard`` |
+| Street Grace | ``streetgrace`` |
+| 12th Birthday | ``birthday2024`` |
+| Alarm On | ``alarmon`` |
+| Laser Flip | ``laserflip`` |
+| Rock n' Riley | ``rocknriley`` |
+| Sunny Sailor | ``sunnysailor`` |
+| Standing Ovation | ``standingovation`` |
+| Risky Ride | ``riskyride`` |
+| Glarx 3000 | ``glarx3000`` |
+| Sporty Summer | ``sportysummer`` |
+| Heavy Metal | ``heavymetal`` |
+| Champ | ``champ`` |
+| Arrow | ``arrow`` |
+| Raggedy Runner | ``raggedyrunner`` |
+| Turbo Stump | ``turbostump`` |
+| Brass Whizz | ``brasswhizz`` |
+| Chop-Chop Board | ``chopchopboard`` |
+| Cook-Express | ``cookexpress`` |
+| Moon Cake | ``mooncake`` |
+| Veggie Velocity | ``veggievelocity`` |
+| Couch Surfer | ``couchSurfer`` |
+| Catalyst | ``catalyst`` |
+| Flash of Flavor | ``flashofflavor`` |
+| Fear Tractor | ``feartractor`` |
+| Sci-Fly | ``scifly`` |
+| Skeletuna | ``skeletuna`` |
+| Pitch Dark | ``pitchdark`` |
+| Fox Trail | ``foxtrail`` |
+| Fall Speed | ``fallspeed`` |
+| Pathfinder | ``pathfinder`` |
+| Cozy Cruiser | ``cozycruiser`` |
+| Icicle | ``icicle`` |
+| Suitcase Saga | ``suitcasesaga`` |
+| Jingle Dingle | ``jingledingle`` |
+| Shiny Surprise | ``shinysurprise`` |
+| Gadget Force | ``gadgetforce`` |
+| Ice Cool | ``icecool`` |
+| Hyper Viper | ``hyperviper`` |
+| Lantern | ``lantern`` |
+| Override | ``override`` |
+| Fresh Love | ``freshlove`` |
+| Heartstopper | ``heartstopper`` |
+| Dear Dart | ``deardart`` |
+| Roarsome | ``roarsome`` |
+| Arara Board | ``arara`` |
+| Moongazer | ``moongazer`` |
+| Purple Spin | ``purplespin`` |
+| Cyan Note | ``cyannote`` |
+| Blue Riff | ``blueriff`` |
+| Eggscalibur | ``eggscalibur`` |
+| Bloomster | ``bloomster`` |
+| Edinburst | ``edinburst`` |

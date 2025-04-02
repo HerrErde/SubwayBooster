@@ -15,12 +15,12 @@
         "id": "plant_frame",
         "isSeen": true
       },
-      "birthday2024_frame": {
-        "id": "birthday2024_frame",
-        "isSeen": true
-      },
       "lava_frame": {
         "id": "lava_frame",
+        "isSeen": true
+      },
+      "birthday2024_frame": {
+        "id": "birthday2024_frame",
         "isSeen": true
       },
       "hollywood_frame": {
