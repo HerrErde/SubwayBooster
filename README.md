@@ -49,7 +49,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - All **Quests**
 - All **Player Profiles**/**Frames**/**Backgrounds** | **Destinations**
 - All **Challenge Events** (Current/Upcomming)
-- All **Chain Offers** (removed from "Offers" tab)
+- All **Chain Offers** (removed from "Store" tab)
 
 ### Info
 
