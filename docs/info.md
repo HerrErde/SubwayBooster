@@ -54,7 +54,6 @@ You can get a list of the available icons and shortcuts list <a href="stuff.json
 | `permanent_score_multiplier.expirationValue` | Token Boost Time   | 999999999999999 | [Android/.../upgrades.json](../src/profile/upgrades.json)       |
 | `token_multiplier_low.expirationValue`       | Token Boost Time   | 99999999999999  | [Android/.../upgrades.json](.src/profile/upgrades.json)         |
 
-
 (Inside the Player Profile from right to left)
 
 | Nmae    | Place | Default Value | File                                                          |
@@ -69,8 +68,9 @@ You can get a list of the available icons and shortcuts list <a href="stuff.json
 
 <p>
 Since the 3.29.1 update, the json files in the <code>assets/tower/gamedata</code> directory of the APK are now encrypted. <br>
-It seems like they are in some form compiled. This change prevents me from updating SubwayBooster, as it is no longer possible to read the necessary files.<br>
-Therefore, SubwayBooster will remain at version 1.4.0 until it is possible to decrypt or decompile the files and access the data again.
+<s>It seems like they are in some form compiled. This change prevents me from updating SubwayBooster, as it is no longer possible to read the necessary files.<br>
+Therefore, SubwayBooster will remain at version 1.4.0 until it is possible to decrypt or decompile the files and access the data again.</s>
+See below.
 </p>
 
 ## IOS Game Version
@@ -80,7 +80,6 @@ Apparently Sybo still dosnt encrypt the save files of the IOS version, nor the a
 If that changes in the future, we will have to see.
 Until then SubwayBooster will use the IOS version of the game and extract the assets files, which have the same format.
 </p>
-
 
 ## File Version
 

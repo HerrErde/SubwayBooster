@@ -48,7 +48,7 @@ You can use [subway_gen](https://subway.herrerde.xyz) to customize your own Subw
 - All **Achievements**
 - All **Quests**
 - All **Player Profiles**/**Frames**/**Backgrounds** | **Destinations**
-- All **Challenge Events** (Current/Upcomming)
+- All **Challenge Events** (Current/Upcoming)
 - All **Chain Offers** (removed from "Store" tab)
 
 ### Info
@@ -60,7 +60,8 @@ By just replacing your encrypted SubwaySurf save files with the unencrypted modi
 
 To modify the SubwaySurfers files, you'll need a file explorer and the latest [release](https://github.com/HerrErde/SubwayBooster/releases/latest). \
 Once you've downloaded the release, simply unpack the Zip file and extract its contents into the same folder (This process may vary depending on the file explorer you're using).
-In the extracted files, you'll find the **profile** folder. Copy this folder to the Android/data/com.kiloo.subwaysurf directory in your device's Internal Storage, replacing all, or just some, of the files as needed.
+In the extracted files, you'll find the **profile** folder. \
+Copy this folder to the Android/data/com.kiloo.subwaysurf directory in your device's Internal Storage, replacing all, or just some, of the files as needed. \
 (You must have full root access to your Android/data folder to perform this step.)
 
 For non-root you can use [Shizuku](https://shizuku.rikka.app) follow the steps and use the app ZArchiver.

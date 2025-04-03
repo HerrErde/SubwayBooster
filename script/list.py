@@ -18,7 +18,7 @@ def generate(links_file, data_file, output_file):
         available = link.get("available")
 
         if available is True:
-            data_id = f"``{character.get('id', 'None')}``"
+            data_id = f"`{character.get('id', 'None')}`"
         elif available is False:
             data_id = "None"
         else:
