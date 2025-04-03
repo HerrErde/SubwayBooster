@@ -43,10 +43,10 @@ jobs:
           python script/collection.py
           python script/challenges.py
           python script/calender.py
-          python script/quests.py
-          python script/mailbox.py
           python script/achievements.py
+          python script/quests.py
           python script/chainoffers.py
+          python script/ui_seen.py
 
       - name: increase version
         run: python script/update.py

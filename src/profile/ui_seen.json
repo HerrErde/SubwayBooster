@@ -3,10 +3,13 @@
   "data": {
     "lastSaved": "1970-01-01T00:00:00Z",
     "updateAppViewLastSeen": "1970-01-01T00:00:00Z",
-    "ftuePopupsSeen": [],
+    "ftuePopupsSeen": [
+      "ftue_introduction_worldtour_pre",
+      "ftue_introduction_worldtour_post"
+    ],
     "lastSeenDailyEvent": "",
     "newSeasonPopupShownForID": null,
-    "localMailsSeen": {
+    "localMailsSeenEntries": {
       "s99_easter_edinburgh_challenges": true,
       "s99_easter_edinburgh_crossy_road_1": true,
       "s99_easter_edinburgh_crossy_road_2": true,
@@ -23,11 +26,17 @@
       "s99_easter_edinburgh_updateGame_ios": true,
       "s99_easter_edinburgh_welcome": true
     },
-    "lastSeenTooltipIds": {},
+    "lastSeenTooltipIds": {
+      "youGotMailTip": "1970-01-01T00:00:00Z"
+    },
     "popupSeenInfo": {},
     "lastSeenPopupTime": "1970-01-01T00:00:00Z",
     "promotionsSeenInfo": {},
     "challengesSeenData": {},
-    "revealedChallenges": {}
+    "revealedChallenges": {},
+    "communityEventEntries": {},
+    "gameModeSeenData": [
+      "SYBO.Components.Json.JsonDict"
+    ]
   }
 }

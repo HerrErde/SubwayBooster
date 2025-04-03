@@ -55,6 +55,7 @@ def get_scripts(version, onlydownload, nodownload):
         ["script/achievements.py"],
         ["script/quests.py"],
         ["script/chainoffers.py"],
+        ["script/ui_seen.py"],
         ["script/update.py"],
         ["script/convert.py"],
         ["script/zip.py"],
