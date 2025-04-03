@@ -1,13 +1,13 @@
 import json
 
-with open("temp/input/calendar_data.json", "r", encoding="utf-8") as calendar_data_file:
-    calendar_data = json.load(calendar_data_file)
-    calendar_id = calendar_data.get("id")
+with open("temp/input/calendar_data.json", "r", encoding="utf-8") as f:
+    calendar_data = json.load(f)
+    calendar_id = calendar_data.get("calendarId")
 
 new_data = {
     "version": 3,
     "data": {
-        "lastSaved": None,
+        "lastSaved": "1970-01-01T00:00:00Z",
         "calendarStates": {},
         "completedCalendars": {calendar_id: True},
     },
