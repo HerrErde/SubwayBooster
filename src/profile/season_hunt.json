@@ -1,7 +1,7 @@
 {
   "version": 2,
   "data": {
-    "lastSaved": "0001-01-01T00:00:00Z",
+    "lastSaved": "1970-01-01T00:00:00Z",
     "patchVersion": 0,
     "collectedTokens": 400,
     "currentTimeSlotId": "season_S99",
@@ -196,6 +196,6 @@
     "shownNewSeasonPopup": true,
     "lastUnlockedTierSeen": 31,
     "hasClaimedSeasonHuntReward": true,
-    "unlockedRewardTime": "0001-01-01T00:00:00Z"
+    "unlockedRewardTime": "1970-01-01T00:00:00Z"
   }
 }

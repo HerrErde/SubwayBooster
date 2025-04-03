@@ -56,7 +56,7 @@ try:
     }
 
     final_data = {
-        "lastSaved": "0001-01-01T00:00:00Z",
+        "lastSaved": "1970-01-01T00:00:00Z",
         "chainOffers": chainOffers,
         "completedChainOffers": [],
     }

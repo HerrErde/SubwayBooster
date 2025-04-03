@@ -10,7 +10,7 @@ achievements_list = {}
 new_data = {
     "version": 2,
     "data": {
-        "lastSaved": "0001-01-01T00:00:00Z",
+        "lastSaved": "1970-01-01T00:00:00Z",
         "patchVersion": 5,
         "achievementEntries": achievements_list,
     },

@@ -11,7 +11,7 @@ def process_collection(collections):
                     "id": item["id"],
                     "type": item["type"],
                     "claimed": True,
-                    "lastUpdate": "0001-01-01T00:00:00Z",
+                    "lastUpdate": "1970-01-01T00:00:00Z",
                     "points": item["points"],
                 }
                 for item in collection["items"]
@@ -43,14 +43,14 @@ def save_collection_data(
     collections_state, seasonal_collections_state, meter_level_claimed
 ):
     data = {
-        "lastSaved": "0001-01-01T00:00:00Z",
+        "lastSaved": "1970-01-01T00:00:00Z",
         "patchVersion": 2,
         "collectionsState": collections_state,
         "seasonalCollectionsState": seasonal_collections_state,
         "meterLevelClaimed": meter_level_claimed,
         "viewed": True,
         "meterViewed": True,
-        "lastUpdate": "0001-01-01T00:00:00Z",
+        "lastUpdate": "1970-01-01T00:00:00Z",
     }
 
     with open("src/profile/collections.json", "w", encoding="utf-8") as f:

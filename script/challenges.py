@@ -81,7 +81,7 @@ def challenge():
             "currentSetEntryTimeSlot": f"season_{challenge_id}",
             "currentScore": 2147483647,
             "highScore": 2147483647,
-            "startDate": "0001-01-01T00:00:00Z",
+            "startDate": "1970-01-01T00:00:00Z",
             # "endDate": "9999-12-31T00:00:00Z",
             "endDate": enddate,
             # "sunsetPeriodInSeconds": 604800,
@@ -97,7 +97,7 @@ def challenge():
         }
 
     data = {
-        "lastSaved": "0001-01-01T00:00:00Z",
+        "lastSaved": "1970-01-01T00:00:00Z",
         "patchVersion": 1,
         "challengeStates": challengeStates,
     }
