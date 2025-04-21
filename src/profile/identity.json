@@ -4,12 +4,12 @@
     "lastSaved": "1970-01-01T00:00:00Z",
     "patchVersion": 1,
     "profileID": "00000000-0000-0000-0000-000000000000",
-    "name": null,
-    "profilePictureUrl": null,
-    "creationDate": "1970-01-01T00:00:00Z",
-    "device": "null",
+    "device": null,
     "gameVersion": "0.0.0",
+    "previousGameVersion": "0.0.0",
+    "creationDate": "1970-01-01T00:00:00Z",
+    "profilePictureUrl": null,
     "needsToRefreshToken": false,
-    "previousGameVersion": "0.0.0"
+    "playerDataReference": { "name": "" }
   }
 }

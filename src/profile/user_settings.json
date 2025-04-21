@@ -2,6 +2,14 @@
   "version": 1,
   "data": {
     "lastSaved": "1970-01-01T00:00:00Z",
-    "remindersEnabled": false
+    "musicEnabled": true,
+    "musicVolume": 1,
+    "selectedMusicVersion": null,
+    "soundEnabled": true,
+    "soundVolume": 1,
+    "remindersEnabled": false,
+    "topRunFriendsVisible": true,
+    "arToggleState": true,
+    "VibrationMode": 0
   }
 }

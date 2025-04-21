@@ -6,9 +6,15 @@
     "tutorialCompleted": {
       "0": {
         "CompletedTime": "1970-01-01T00:00:00Z",
+        "CompletedSteps": {
+          "1001": "1970-01-01T00:00:00Z",
+          "1003": "1970-01-01T00:00:00Z",
+          "1007": "1970-01-01T00:00:00Z"
+        }
+      },
+      "-1": {
         "CompletedSteps": {}
       }
-    },
-    "isHoverboardUsed": true
+    }
   }
 }
