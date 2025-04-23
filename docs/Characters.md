@@ -228,3 +228,5 @@
 | Mallard Tricky | `mallardtricky` |
 | Finlay | `finlay` |
 | Ribbon | `ribbon` |
+| Oni Hime | `oniHime` |
+| Saru | `saru` |

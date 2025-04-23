@@ -8,30 +8,235 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": null,
+    "newSeasonPopupShownForID": "season_S100",
     "localMailsSeenEntries": {
-      "s99_easter_edinburgh_challenges": true,
-      "s99_easter_edinburgh_crossy_road_1": true,
-      "s99_easter_edinburgh_crossy_road_2": true,
-      "s99_easter_edinburgh_crossy_road_3": true,
-      "s99_easter_edinburgh_floorislava": true,
-      "s99_easter_edinburgh_next_season": true,
-      "s99_easter_edinburgh_one_run": true,
-      "s99_easter_edinburgh_plantinvasion": true,
-      "s99_easter_edinburgh_reverse_challenge": true,
-      "s99_easter_edinburgh_seasonhunt": true,
-      "s99_easter_edinburgh_trickortreat": true,
-      "s99_easter_edinburgh_updateGame_amazon": true,
-      "s99_easter_edinburgh_updateGame_android": true,
-      "s99_easter_edinburgh_updateGame_ios": true,
-      "s99_easter_edinburgh_welcome": true
+      "s100_osaka_challenges": "9999-12-31T00:00:00Z",
+      "s100_osaka_floorislava": "9999-12-31T00:00:00Z",
+      "s100_osaka_next_season": "9999-12-31T00:00:00Z",
+      "s100_osaka_one_run": "9999-12-31T00:00:00Z",
+      "s100_osaka_plantinvasion": "9999-12-31T00:00:00Z",
+      "s100_osaka_player_friends": "9999-12-31T00:00:00Z",
+      "s100_osaka_player_name_update": "9999-12-31T00:00:00Z",
+      "s100_osaka_season_challenge": "9999-12-31T00:00:00Z",
+      "s100_osaka_seasonhunt": "9999-12-31T00:00:00Z",
+      "s100_osaka_trickortreat": "9999-12-31T00:00:00Z",
+      "s100_osaka_updateGame_amazon": "9999-12-31T00:00:00Z",
+      "s100_osaka_updateGame_android": "9999-12-31T00:00:00Z",
+      "s100_osaka_updateGame_ios": "9999-12-31T00:00:00Z",
+      "s100_osaka_welcome": "9999-12-31T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
     },
     "popupSeenInfo": {},
     "lastSeenPopupTime": "1970-01-01T00:00:00Z",
-    "promotionsSeenInfo": {},
+    "promotionsSeenInfo": {
+      "welcomepack_skipAds_tickets_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_welcome_hoverboard_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S100_newStuff": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S100_crew_bonus": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "onihime_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "popstars_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "shounen_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sunny_trio_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sakura_blossom_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "party_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "prague_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "kawaii_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "ancient_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "3_offers_skip_ad_tickets": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "promo_two_bundles_keys_50_20": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "promo_two_bundles_coins_20_10": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "promo_two_bundles_keys_50_20_v2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "promo_two_bundles_skipad_tickets_40_20": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "promo_two_bundles_skipad_tickets_50_25": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "no_ads_bundle_promo_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "skipAds_tickets_pack_3_unlimited_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "skipAds_tickets_pack_2_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "skipAds_tickets_pack_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_coins_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_headstarts_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_scoreboosters_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_keys_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_rocket_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_sweetoffer_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "adOffer_seasonhunt_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "multiplier_pack_bundle_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_01": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_02": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_03": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_04": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_05": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_06": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_07": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_08": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_09": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "eco_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      }
+    },
     "challengesSeenData": {},
     "revealedChallenges": {},
     "communityEventEntries": {},

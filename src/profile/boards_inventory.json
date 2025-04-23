@@ -3069,6 +3069,19 @@
           }
         }
       },
+      "mizuDash": {
+        "value": {
+          "id": "mizuDash",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
       "sakarCrewCrush": {
         "value": {
           "id": "sakarCrewCrush",
@@ -3082,6 +3095,32 @@
       "sakarSurfSpray": {
         "value": {
           "id": "sakarSurfSpray",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "trespasser": {
+        "value": {
+          "id": "trespasser",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "zapline": {
+        "value": {
+          "id": "zapline",
           "ownedUpgrades": {
             "default": {
               "value": true

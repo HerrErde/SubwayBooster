@@ -11,21 +11,21 @@
             "id": "jake.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "jake.darkOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "starboard.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           }
         ],
@@ -40,42 +40,42 @@
             "id": "lumberjack.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "lucy.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "tagbot.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "ninja.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "frank.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 40
           },
           {
             "id": "starboard.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           }
         ],
@@ -90,35 +90,35 @@
             "id": "jake.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "tricky.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "fresh.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 50
           },
           {
             "id": "spike.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 200
           },
           {
             "id": "yutani.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 500
           }
         ],
@@ -133,35 +133,35 @@
             "id": "jake.starOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 150
           },
           {
             "id": "tricky.camoOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 123
           },
           {
             "id": "fresh.sportOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 350
           },
           {
             "id": "yutani.gadgetOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 750
           },
           {
             "id": "windglider.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 360
           }
         ],
@@ -176,42 +176,42 @@
             "id": "sunset.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 25
           },
           {
             "id": "tasha.cheeroutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 60
           },
           {
             "id": "frank.clownOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 70
           },
           {
             "id": "king.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 80
           },
           {
             "id": "brody.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 350
           },
           {
             "id": "ella.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 150
           }
         ],
@@ -226,42 +226,42 @@
             "id": "daredevil.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 135
           },
           {
             "id": "ella.rastaOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 180
           },
           {
             "id": "zoe.bikerOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 170
           },
           {
             "id": "lucy.steamOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 57
           },
           {
             "id": "brody.chillOutfit",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 490
           },
           {
             "id": "missMaia.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 200
           }
         ],
@@ -271,70 +271,70 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S99": {
-        "id": "collection_season_S99",
+      "collection_season_S100": {
+        "id": "collection_season_S100",
         "items": [
           {
-            "id": "mallardtricky.default",
+            "id": "thunderUrbanHeroOutfit.default",
             "type": 2,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 21960
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 22860
           },
           {
-            "id": "meggan.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "bonnie.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "jamie.hatterOutfit",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "jia.unicornOutfit",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "george.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "ribbon.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "clementine.hideandsheepOutfit",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "eggscalibur.default",
+            "id": "mizuDash.default",
             "type": 3,
             "claimed": true,
-            "lastUpdate": "0001-01-01T00:00:00Z",
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "waveRider.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "harumi.furyOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "audrey.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "tony.gameOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "oniHime.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "akira.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "jenny.pixelOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           }
         ],
@@ -503,10 +503,14 @@
       {
         "Claimed": true,
         "IsAvailable": true
+      },
+      {
+        "Claimed": true,
+        "IsAvailable": true
       }
     ],
     "viewed": true,
     "meterViewed": true,
-    "lastUpdate": "0001-01-01T00:00:00Z"
+    "lastUpdate": "1970-01-01T00:00:00Z"
   }
 }

@@ -2904,6 +2904,26 @@
           ]
         }
       },
+      "oniHime": {
+        "value": {
+          "id": "oniHime",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "saru": {
+        "value": {
+          "id": "saru",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
@@ -2924,6 +2944,16 @@
           ]
         }
       },
+      "saruKyaputenOutfit": {
+        "value": {
+          "id": "saruKyaputenOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "soulSirEasterOutfit": {
         "value": {
           "id": "soulSirEasterOutfit",
@@ -2937,6 +2967,16 @@
       "stellaColorFeverOutfit": {
         "value": {
           "id": "stellaColorFeverOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "thunderUrbanHeroOutfit": {
+        "value": {
+          "id": "thunderUrbanHeroOutfit",
           "ownedOutfits": [
             {
               "value": "default"

@@ -1,10 +1,10 @@
 {
   "version": 3,
   "data": {
-    "lastSaved": null,
+    "lastSaved": "1970-01-01T00:00:00Z",
     "calendarStates": {},
     "completedCalendars": {
-      "null": true
+      "s100_osaka_calendar": true
     }
   }
 }

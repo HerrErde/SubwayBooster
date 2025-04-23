@@ -23,6 +23,10 @@
         "id": "ballerinatricky_portrait",
         "isSeen": true
       },
+      "chickenjake_illustration_portrait": {
+        "id": "chickenjake_illustration_portrait",
+        "isSeen": true
+      },
       "bobtheblob_graffiti_portrait": {
         "id": "bobtheblob_graffiti_portrait",
         "isSeen": true
@@ -103,6 +107,10 @@
         "id": "sindri_illustration_portrait",
         "isSeen": true
       },
+      "meggan_graffiti_portrait": {
+        "id": "meggan_graffiti_portrait",
+        "isSeen": true
+      },
       "fresh_illustration_portrait": {
         "id": "fresh_illustration_portrait",
         "isSeen": true
@@ -171,6 +179,10 @@
         "id": "ruhi_illustration_portrait",
         "isSeen": true
       },
+      "soul_illustration_portrait": {
+        "id": "soul_illustration_portrait",
+        "isSeen": true
+      },
       "alexandre_stanoutfit_portrait": {
         "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
@@ -179,24 +191,16 @@
         "id": "vivienne_hollywoodglamoutfit_portrait",
         "isSeen": true
       },
-      "chickenjake_illustration_portrait": {
-        "id": "chickenjake_illustration_portrait",
-        "isSeen": true
-      },
-      "facebook_portrait": {
-        "id": "facebook_portrait",
+      "dog_graffiti_portrait": {
+        "id": "dog_graffiti_portrait",
         "isSeen": true
       },
       "guard_pink_graffiti_portrait": {
         "id": "guard_pink_graffiti_portrait",
         "isSeen": true
       },
-      "meggan_graffiti_portrait": {
-        "id": "meggan_graffiti_portrait",
-        "isSeen": true
-      },
-      "soul_illustration_portrait": {
-        "id": "soul_illustration_portrait",
+      "onihime_illustration_portrait": {
+        "id": "onihime_illustration_portrait",
         "isSeen": true
       },
       "stella_graffiti_portrait": {
