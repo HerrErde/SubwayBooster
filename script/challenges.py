@@ -6,7 +6,7 @@ kind_mapping = {"Daily": 1, "Meter": 2, "City": 4}
 
 def gen_enddate():
     future_date = datetime.now(timezone.utc) + timedelta(weeks=4)
-    formatted_date = future_date.strftime("%Y-%m-%dT%H:%M:%SZ")
+    formatted_date = future_date.strftime("%Y-%m-%dT%H:%M")
     return formatted_date
 
 
@@ -83,7 +83,7 @@ def challenge():
             "highScore": 2147483647,
             "startDate": "1970-01-01T00:00:00Z",
             # "endDate": "9999-12-31T00:00:00Z",
-            "endDate": enddate,
+            "endDate": f"{enddate}:00Z",
             # "sunsetPeriodInSeconds": 604800,
             # "multiplierOnStart": 1,
             "rewardStates": rewardStates,

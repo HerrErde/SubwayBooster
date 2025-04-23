@@ -53,10 +53,20 @@ def update_season_hunt(season, season_hunt_file):
 
 def update_version(data, season):
     try:
+        version = data["version"]
+        major, minor, patch = map(int, version.split("."))
+
+        patch = (patch + 1) % 10
+        minor += int(patch == 0)
+        minor %= 10
+        major += int(minor == 0 and patch == 0)
+        major = min(major, 9)
+
         app_version = get_version()
 
         data.update(
             {
+                "version": f"{major}.{minor}.{patch}",
                 "appversion": app_version,
                 "season": str(season),
             }
