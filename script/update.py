@@ -1,5 +1,6 @@
 import json
 import requests
+import sys
 
 gplayapi_url = "https://gplayapi.herrerde.xyz/api/apps/com.kiloo.subwaysurf"
 json_file = "src/version.json"
