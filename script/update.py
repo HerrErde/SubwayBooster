@@ -1,6 +1,7 @@
 import json
 import requests
 import sys
+import re
 
 gplayapi_url = "https://gplayapi.herrerde.xyz/api/apps/com.kiloo.subwaysurf"
 json_file = "src/version.json"
@@ -60,7 +61,6 @@ def update_version(data, season, app_version):
                 "season": str(season),
             }
         )
-
         return data
     except (ValueError, KeyError) as e:
         print(f"Error updating version data: {e}")
@@ -92,9 +92,13 @@ def main(version):
 
 
 if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Error: Please provide a version argument.")
+        sys.exit(1)
+
     version = sys.argv[1]
     if not re.match(r"^\d{1,2}-\d{1,2}-\d{1,2}$", version):
         print("Error: Invalid version format. Use 'X-Y-Z', e.g., '3-12-2'.")
         sys.exit(1)
 
-    main(sys.argv[1])
+    main(version)
