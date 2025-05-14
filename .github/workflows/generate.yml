@@ -30,6 +30,8 @@ jobs:
             version=$(echo "${{ github.event.inputs.version }}" | tr '.' '-')
           fi
           echo "version=$version" >> $GITHUB_OUTPUT
+          changelog=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.body' | tr '\n' '\r\n')
+          echo "changelog=$changelog" >> $GITHUB_OUTPUT
 
       - name: Setup Python
         uses: actions/setup-python@v5.1.0
@@ -60,12 +62,6 @@ jobs:
       - name: increase version
         run: python script/update.py ${{steps.var.outputs.version}}
 
-      - name: Get version
-        id: version
-        run: |
-          echo version=v$(jq -r '.appversion' src/version.json) >> $GITHUB_OUTPUT
-          echo changelog=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.body' | tr '\n' '\r\n') >> $GITHUB_OUTPUT
-
       - name: Generate List
         run: python script/list.py
 
@@ -74,7 +70,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add src/
-          git commit -am "auto update files ${{steps.version.outputs.version}}"
+          git commit -am "auto update files ${{steps.var.outputs.version}}"
           git push
 
       - name: Convert & Zip
@@ -85,8 +81,8 @@ jobs:
       - name: Upload Data
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: '${{steps.version.outputs.version}}'
-          body: '${{steps.version.outputs.changelog}}'
+          tag_name: '${{steps.var.outputs.version}}'
+          body: '${{steps.var.outputs.changelog}}'
           files: |
             SubwayBooster.zip
             temp/data/characters_inventory.json
