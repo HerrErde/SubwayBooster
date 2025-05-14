@@ -2,6 +2,10 @@ name: Update
 
 on:
   workflow_dispatch:
+    inputs:
+      version:
+        description: 'Optional version input (e.g., 1-0-0 or leave empty for latest)'
+        required: false
   repository_dispatch:
     types:
       - update_event
@@ -18,9 +22,14 @@ jobs:
       - name: Set vars
         id: var
         run: |
-          packageId="com.kiloo.subwaysurf" >> $GITHUB_OUTPUT
-          version=$(curl -s "https://gplayapi.herrerde.xyz/api/apps/$packageId" | jq -r '.version' | awk -F '.' '{print $1 "." $2 ".0"}')
-          echo version=$version >> $GITHUB_OUTPUT
+          packageId="com.kiloo.subwaysurf"
+          echo "packageId=$packageId" >> $GITHUB_OUTPUT
+          if [ -z "${{ github.event.inputs.version }}" ]; then
+            version=$(curl -s "https://gplayapi.herrerde.xyz/api/apps/$packageId" | jq -r '.version' | awk -F '.' '{print $1 "." $2 ".0"}')
+          else
+            version=$(echo "${{ github.event.inputs.version }}" | tr '.' '-')
+          fi
+          echo "version=$version" >> $GITHUB_OUTPUT
 
       - name: Setup Python
         uses: actions/setup-python@v5.1.0
