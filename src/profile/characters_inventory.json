@@ -2924,6 +2924,26 @@
           ]
         }
       },
+      "loc": {
+        "value": {
+          "id": "loc",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "stevie": {
+        "value": {
+          "id": "stevie",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
@@ -2937,6 +2957,16 @@
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "raniUrbanVibesOutfit": {
+        "value": {
+          "id": "raniUrbanVibesOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -2967,6 +2997,16 @@
       "stellaColorFeverOutfit": {
         "value": {
           "id": "stellaColorFeverOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "stevieHitchhikerOutfit": {
+        "value": {
+          "id": "stevieHitchhikerOutfit",
           "ownedOutfits": [
             {
               "value": "default"

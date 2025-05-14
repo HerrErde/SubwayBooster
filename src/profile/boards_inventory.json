@@ -3069,6 +3069,22 @@
           }
         }
       },
+      "trespasser": {
+        "value": {
+          "id": "trespasser",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
       "mizuDash": {
         "value": {
           "id": "mizuDash",
@@ -3077,6 +3093,36 @@
               "value": true
             },
             "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "zapline": {
+        "value": {
+          "id": "zapline",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "birthday2025": {
+        "value": {
+          "id": "birthday2025",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "freebird": {
+        "value": {
+          "id": "freebird",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
@@ -3102,27 +3148,30 @@
           }
         }
       },
-      "trespasser": {
+      "sevenseas": {
         "value": {
-          "id": "trespasser",
+          "id": "sevenseas",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "superJump": {
-              "value": true
-            },
-            "glider": {
+            "lowrider": {
               "value": true
             }
           }
         }
       },
-      "zapline": {
+      "youarehere": {
         "value": {
-          "id": "zapline",
+          "id": "youarehere",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }

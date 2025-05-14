@@ -271,67 +271,67 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S100": {
-        "id": "collection_season_S100",
+      "collection_season_S101": {
+        "id": "collection_season_S101",
         "items": [
           {
-            "id": "thunderUrbanHeroOutfit.default",
+            "id": "raniUrbanVibesOutfit.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 22860
+            "points": 23760
           },
           {
-            "id": "mizuDash.default",
+            "id": "sevenseas.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "waveRider.default",
+            "id": "mayomania.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "harumi.furyOutfit",
+            "id": "hammybee.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "audrey.default",
+            "id": "scifly.default",
+            "type": 3,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "drflyman.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "tony.gameOutfit",
+            "id": "loc.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "oniHime.default",
+            "id": "moira.thetouristOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "akira.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "jenny.pixelOutfit",
+            "id": "tutti.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
@@ -344,6 +344,10 @@
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

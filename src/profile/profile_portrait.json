@@ -75,6 +75,10 @@
         "id": "ventura_default_portrait",
         "isSeen": true
       },
+      "tricky_graffiti_portrait": {
+        "id": "tricky_graffiti_portrait",
+        "isSeen": true
+      },
       "tricky_portrait": {
         "id": "tricky_portrait",
         "isSeen": true
@@ -205,6 +209,10 @@
       },
       "stella_graffiti_portrait": {
         "id": "stella_graffiti_portrait",
+        "isSeen": true
+      },
+      "stevie_hitchhikeroutfit_illustration_portrait": {
+        "id": "stevie_hitchhikeroutfit_illustration_portrait",
         "isSeen": true
       }
     }

@@ -230,3 +230,5 @@
 | Ribbon | `ribbon` |
 | Oni Hime | `oniHime` |
 | Saru | `saru` |
+| LOC | `loc` |
+| Stevie | `stevie` |

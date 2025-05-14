@@ -263,3 +263,6 @@
 | Bloomster | `bloomster` |
 | Edinburst | `edinburst` |
 | Guard Board | `guardboard` |
+| Trespasser | `trespasser` |
+| Mizu Dash | `mizuDash` |
+| Zapline | `zapline` |

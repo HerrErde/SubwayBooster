@@ -26,6 +26,10 @@
       "hollywood_frame": {
         "id": "hollywood_frame",
         "isSeen": true
+      },
+      "club_frame": {
+        "id": "club_frame",
+        "isSeen": true
       }
     }
   }

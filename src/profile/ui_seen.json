@@ -8,22 +8,25 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S100",
+    "newSeasonPopupShownForID": "season_S101",
     "localMailsSeenEntries": {
-      "s100_osaka_challenges": "9999-12-31T00:00:00Z",
-      "s100_osaka_floorislava": "9999-12-31T00:00:00Z",
-      "s100_osaka_next_season": "9999-12-31T00:00:00Z",
-      "s100_osaka_one_run": "9999-12-31T00:00:00Z",
-      "s100_osaka_plantinvasion": "9999-12-31T00:00:00Z",
-      "s100_osaka_player_friends": "9999-12-31T00:00:00Z",
-      "s100_osaka_player_name_update": "9999-12-31T00:00:00Z",
-      "s100_osaka_season_challenge": "9999-12-31T00:00:00Z",
-      "s100_osaka_seasonhunt": "9999-12-31T00:00:00Z",
-      "s100_osaka_trickortreat": "9999-12-31T00:00:00Z",
-      "s100_osaka_updateGame_amazon": "9999-12-31T00:00:00Z",
-      "s100_osaka_updateGame_android": "9999-12-31T00:00:00Z",
-      "s100_osaka_updateGame_ios": "9999-12-31T00:00:00Z",
-      "s100_osaka_welcome": "9999-12-31T00:00:00Z"
+      "s101_copenhagen_200thWorldTour_1": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_200thWorldTour_2": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_200thWorldTour_reminder": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_birthday_gift_1": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_challenges": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_floorislava": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_next_season": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_one_run": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_plantinvasion": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_season_challenge": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_seasonhunt": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_trickortreat": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_updateGame_amazon": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_updateGame_android": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_updateGame_ios": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_creatorclub": "9999-12-31T00:00:00Z",
+      "s101_copenhagen_welcome": "9999-12-31T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -41,12 +44,37 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S100_newStuff": {
+      "S101_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S100_crew_bonus": {
+      "S101_crew_bonus": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "loc_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "holidaymakers_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "gelato_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "copenhagen_special_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "bobtheblob_portraits_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -56,22 +84,7 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "popstars_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "shounen_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "sunny_trio_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "sakura_blossom_bundle_promo": {
+      "voyage_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -182,6 +195,21 @@
         "opened": true
       },
       "multiplier_pack_bundle_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_10": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_11": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_12": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
