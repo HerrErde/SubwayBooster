@@ -58,7 +58,7 @@ jobs:
           python script/ui_seen.py
 
       - name: increase version
-        run: python script/update.py
+        run: python script/update.py ${{steps.version.outputs.version}}
 
       - name: Get version
         id: version

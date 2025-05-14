@@ -51,13 +51,11 @@ def update_season_hunt(season, season_hunt_file):
         print(f"Error updating season hunt file: {e}")
 
 
-def update_version(data, season):
+def update_version(data, season, app_version):
     try:
-        app_version = get_version()
-
         data.update(
             {
-                "appversion": app_version,
+                "version": app_version,
                 "season": str(season),
             }
         )
@@ -68,14 +66,14 @@ def update_version(data, season):
         return None
 
 
-def main():
+def main(version):
     try:
         with open(json_file, "r+") as file:
             data = json.load(file)
             season = update_season()
 
             if season is not None:
-                updated_data = update_version(data, season)
+                updated_data = update_version(data, season, version)
 
                 if updated_data is not None:
                     file.seek(0)
@@ -93,4 +91,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    version = sys.argv[1]
+    if not re.match(r"^\d{1,2}-\d{1,2}-\d{1,2}$", version):
+        print("Error: Invalid version format. Use 'X-Y-Z', e.g., '3-12-2'.")
+        sys.exit(1)
+
+    main(sys.argv[1])
