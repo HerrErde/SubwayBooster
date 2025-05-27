@@ -2,8 +2,8 @@ import json
 
 mailbox_data_path = "temp/input/mailbox_data.json"
 promotions_data_path = "temp/input/promotions_data.json"
-output_file_path = "src/profile/ui_seen.json"
 collections_file = "temp/input/collections_data.json"
+output_file_path = "src/profile/ui_seen.json"
 
 
 with open(collections_file, "r", encoding="utf-8") as file:
@@ -36,7 +36,7 @@ try:
                 entry_names = mailbox_data.get("entries", [])
 
                 local_mails_seen = {
-                    entry_name: "9999-12-31T00:00:00Z" for entry_name in entry_names
+                    entry_name: "1970-01-01T00:00:00Z" for entry_name in entry_names
                 }
 
                 data["data"]["newSeasonPopupShownForID"] = time_slot
