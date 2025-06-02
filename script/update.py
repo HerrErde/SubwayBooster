@@ -97,8 +97,8 @@ if __name__ == "__main__":
         sys.exit(1)
 
     version = sys.argv[1]
-    if not re.match(r"^\d{1,2}-\d{1,2}-\d{1,2}$", version):
-        print("Error: Invalid version format. Use 'X-Y-Z', e.g., '3-12-2'.")
+    if not re.match(r"^\d{1,2}.\d{1,2}.\d{1,2}$", version):
+        print("Error: Invalid version format. Use 'X.Y.Z', e.g., '3.12.2'.")
         sys.exit(1)
 
     main(version)
