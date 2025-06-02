@@ -6,6 +6,7 @@ kind_mapping = {"Daily": 1, "Meter": 2, "City": 4}
 
 def gen_enddate():
     future_date = datetime.now(timezone.utc) + timedelta(weeks=4)
+    future_date = future_date.replace(hour=0, minute=0, second=0, microsecond=0)
     formatted_date = future_date.strftime("%Y-%m-%dT%H:%M")
     return formatted_date
 
@@ -50,7 +51,6 @@ def challenge():
 
             part_req = challenge.get("participationRequirement", {})
 
-            # Check if 'participationRequirement' is a dictionary and if it has a 'data' key
             if isinstance(part_req, dict):
                 part_data = part_req.get("data", [])[0]
                 operator = part_req.get("operator")

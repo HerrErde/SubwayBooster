@@ -10,7 +10,6 @@ def generate(links_file, data_file, output_file):
 
     links_data = [link for link in links_data]
 
-    # markdown content
     content = "| Name | Id |\n| ---- | --- |\n"
 
     for link, character in zip(links_data, data):

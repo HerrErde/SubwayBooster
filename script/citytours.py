@@ -13,7 +13,6 @@ try:
         if tourId:
             city_tours.append(tourId)
 
-
     final_data = {
         "lastSaved": "1970-01-01T00:00:00Z",
         "cityTourInstances": {},

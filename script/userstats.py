@@ -8,15 +8,12 @@ try:
         try:
             data = json.load(file)
 
-            # Get the existing "worldDestinationVisited" dictionary from the data
             world_visited = data["data"].get("worldDestinationVisited", {})
 
-            # Read entry names from cities_data.json
             with open(input_data_path, "r", encoding="utf-8") as input_data_file:
                 cities_data = json.load(input_data_file)
                 entry_names = cities_data.get("cities", [])
 
-            # Update the existing "worldDestinationVisited" dictionary with new entries
             for entry_name in entry_names:
                 world_visited[entry_name] = 1
 

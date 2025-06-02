@@ -34,7 +34,7 @@ def setup():
     os.makedirs("temp/input", exist_ok=True)
 
 
-def get_scripts(version, onlydownload, nodownload):
+def get_scripts(version, onlydownload, nodownload, zipfiles):
 
     if onlydownload:
         return [
@@ -56,17 +56,24 @@ def get_scripts(version, onlydownload, nodownload):
         ["script/quests.py"],
         ["script/chainoffers.py"],
         ["script/ui_seen.py"],
-        ["script/update.py"],
+        ["script/update.py", version.replace("-", ".")],
         ["script/convert.py"],
-        ["script/zip.py"],
     ]
 
     if not nodownload:
-        download_script = [
-            f"script/setup.py",
-            version,
-        ]
-        script_list.insert(0, download_script)
+        script_list.insert(
+            0,
+            [
+                f"script/setup.py",
+                version,
+            ],
+        )
+
+    if not zipfiles:
+        script_list.insert(
+            -1,
+            ["script/zip.py"],
+        )
 
     return script_list
 
@@ -94,9 +101,15 @@ def cleanup(cleanup, nodownload, nocleanup):
         sys.exit(1)
 
 
-def run_scripts(version, onlydownload, nodownload, delay):
+def run_scripts(
+    version,
+    onlydownload,
+    nodownload,
+    zipfiles,
+    delay,
+):
 
-    scripts = get_scripts(version, onlydownload, nodownload)
+    scripts = get_scripts(version, onlydownload, nodownload, zipfiles)
 
     try:
         print(f"Choosing version: {version}\n")
@@ -145,8 +158,14 @@ def main():
         "-dly",
         "--delay",
         type=int,
-        default=5,
+        default=1,
         help="Change the delay between the running scripts",
+    )
+
+    parser.add_argument(
+        "--zipfiles",
+        action="store_true",
+        help="Will zip all files into a SubwayBooster.zip",
     )
 
     args = parser.parse_args()
@@ -155,7 +174,6 @@ def main():
     if args.version is None:
         args.version = version()
 
-    # Regex pattern
     version_pattern = r"^\d{1,2}-\d{1,2}-\d{1,2}$"
 
     # Validate 'version'
@@ -166,15 +184,18 @@ def main():
         sys.exit(1)
 
     try:
-        cleanup(args.cleanup, args.nodownload, args.nocleanup)
+        if not args.nodownload:
+            cleanup(args.cleanup, args.nodownload, args.nocleanup)
         setup()
-        run_scripts(args.version, args.onlydownload, args.nodownload, args.delay)
+        run_scripts(
+            args.version, args.onlydownload, args.nodownload, args.zipfiles, args.delay
+        )
 
-    except Exception as e:
-        print("Error:", e)
-        sys.exit(1)
     except KeyboardInterrupt:
         print("Script terminated by user.")
+        sys.exit(1)
+    except Exception as e:
+        print("Error:", e)
         sys.exit(1)
 
 

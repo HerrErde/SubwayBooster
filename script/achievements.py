@@ -21,7 +21,6 @@ for achievement in data:
     achievements_id = achievement.get("id", "")
     tier_goals = achievement.get("tierGoals", [])
     progress = tier_goals[-1]
-    
 
     achievements_list[achievements_id] = {
         "id": achievements_id,

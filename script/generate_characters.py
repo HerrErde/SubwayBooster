@@ -1,10 +1,8 @@
 import json
 
-# Read the input file
 with open("temp/input/characters_data.json") as f:
     data = json.load(f)
 
-# Process the data
 item_data_list = {}
 
 for item in data:
@@ -19,7 +17,6 @@ for item in data:
 
     item_data_list[item_id] = {"value": {"id": item_id, "ownedOutfits": item2_data}}
 
-# Generate the output
 inventory_data = {
     "version": 3,
     "data": {
@@ -28,6 +25,5 @@ inventory_data = {
     },
 }
 
-# Write the output file
 with open("src/profile/characters_inventory.json", "w", encoding="utf-8") as f:
     json.dump(inventory_data, f, indent=2, ensure_ascii=False)

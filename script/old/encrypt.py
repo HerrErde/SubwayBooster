@@ -62,7 +62,6 @@ def encrypt_data(data):
 
 def main():
     for file in files:
-        # Load user_stats.json to get the initial "data" value
         try:
             with open(f"temp/data/{file}", "r", encoding="utf-8") as f:
                 user_stats = json.load(f)
@@ -73,19 +72,16 @@ def main():
             print(f"Error: Could not decode JSON from {file}. Error: {e}")
             continue
 
-        # Get the current "data" value
         data_value = user_stats.get("data", "")
         if not isinstance(data_value, str) or not data_value:
             print(f"Error: No valid data found to encrypt in {file}.")
             continue
 
-        # Encrypt the data
         encrypted_result = encrypt_data(data_value)
         if encrypted_result is None:
             print(f"Error: Failed to encrypt data in file {file}.")
             continue
 
-        # Update the "data" value with encrypted result
         user_stats["data"] = encrypted_result
 
         try:
