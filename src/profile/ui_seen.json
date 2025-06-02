@@ -8,25 +8,24 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S101",
+    "newSeasonPopupShownForID": "season_S102",
     "localMailsSeenEntries": {
-      "s101_copenhagen_200thWorldTour_1": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_200thWorldTour_2": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_200thWorldTour_reminder": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_birthday_gift_1": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_challenges": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_floorislava": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_next_season": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_one_run": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_plantinvasion": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_season_challenge": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_seasonhunt": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_trickortreat": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_updateGame_amazon": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_updateGame_android": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_updateGame_ios": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_creatorclub": "9999-12-31T00:00:00Z",
-      "s101_copenhagen_welcome": "9999-12-31T00:00:00Z"
+      "s102_barcelona_challenges": "1970-01-01T00:00:00Z",
+      "s102_barcelona_floorislava": "1970-01-01T00:00:00Z",
+      "s102_barcelona_juneteenth_freebie": "1970-01-01T00:00:00Z",
+      "s102_barcelona_next_season": "1970-01-01T00:00:00Z",
+      "s102_barcelona_one_run": "1970-01-01T00:00:00Z",
+      "s102_barcelona_plantinvasion": "1970-01-01T00:00:00Z",
+      "s102_barcelona_season_challenge": "1970-01-01T00:00:00Z",
+      "s102_barcelona_seasonhunt": "1970-01-01T00:00:00Z",
+      "s102_barcelona_trickortreat": "1970-01-01T00:00:00Z",
+      "s102_barcelona_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s102_barcelona_updateGame_android": "1970-01-01T00:00:00Z",
+      "s102_barcelona_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s102_barcelona_welcome": "1970-01-01T00:00:00Z",
+      "s102_playing4theplanet": "1970-01-01T00:00:00Z",
+      "s102_playing4theplanet_bundle": "1970-01-01T00:00:00Z",
+      "s102_barcelona_trick_or_treat_ce": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -44,47 +43,42 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S101_newStuff": {
+      "S102_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S101_crew_bonus": {
+      "S102_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "loc_bundle_promo": {
+      "costa_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "holidaymakers_bundle_promo": {
+      "beachplease_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "gelato_bundle_promo": {
+      "yutanitreefrog_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "copenhagen_special_bundle_promo": {
+      "star_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "bobtheblob_portraits_bundle_promo": {
+      "rebel_buds_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "onihime_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "voyage_bundle_promo": {
+      "rio_duo_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -255,11 +249,6 @@
         "opened": true
       },
       "uc_flashDeals_slot_09": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "eco_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

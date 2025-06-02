@@ -75,6 +75,10 @@
         "id": "ventura_default_portrait",
         "isSeen": true
       },
+      "onihime_illustration_portrait": {
+        "id": "onihime_illustration_portrait",
+        "isSeen": true
+      },
       "tricky_graffiti_portrait": {
         "id": "tricky_graffiti_portrait",
         "isSeen": true
@@ -113,6 +117,10 @@
       },
       "meggan_graffiti_portrait": {
         "id": "meggan_graffiti_portrait",
+        "isSeen": true
+      },
+      "fresh_graffiti_portrait": {
+        "id": "fresh_graffiti_portrait",
         "isSeen": true
       },
       "fresh_illustration_portrait": {
@@ -187,6 +195,10 @@
         "id": "soul_illustration_portrait",
         "isSeen": true
       },
+      "dog_graffiti_portrait": {
+        "id": "dog_graffiti_portrait",
+        "isSeen": true
+      },
       "alexandre_stanoutfit_portrait": {
         "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
@@ -195,24 +207,24 @@
         "id": "vivienne_hollywoodglamoutfit_portrait",
         "isSeen": true
       },
-      "dog_graffiti_portrait": {
-        "id": "dog_graffiti_portrait",
-        "isSeen": true
-      },
-      "guard_pink_graffiti_portrait": {
-        "id": "guard_pink_graffiti_portrait",
-        "isSeen": true
-      },
-      "onihime_illustration_portrait": {
-        "id": "onihime_illustration_portrait",
+      "stevie_hitchhikeroutfit_illustration_portrait": {
+        "id": "stevie_hitchhikeroutfit_illustration_portrait",
         "isSeen": true
       },
       "stella_graffiti_portrait": {
         "id": "stella_graffiti_portrait",
         "isSeen": true
       },
-      "stevie_hitchhikeroutfit_illustration_portrait": {
-        "id": "stevie_hitchhikeroutfit_illustration_portrait",
+      "berta_illustration_portrait": {
+        "id": "berta_illustration_portrait",
+        "isSeen": true
+      },
+      "guard_pink_graffiti_portrait": {
+        "id": "guard_pink_graffiti_portrait",
+        "isSeen": true
+      },
+      "missmaia_illustration_portrait": {
+        "id": "missmaia_illustration_portrait",
         "isSeen": true
       }
     }

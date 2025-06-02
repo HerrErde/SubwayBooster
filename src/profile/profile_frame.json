@@ -19,6 +19,10 @@
         "id": "lava_frame",
         "isSeen": true
       },
+      "club_frame": {
+        "id": "club_frame",
+        "isSeen": true
+      },
       "birthday2024_frame": {
         "id": "birthday2024_frame",
         "isSeen": true
@@ -27,8 +31,8 @@
         "id": "hollywood_frame",
         "isSeen": true
       },
-      "club_frame": {
-        "id": "club_frame",
+      "pride_frame": {
+        "id": "pride_frame",
         "isSeen": true
       }
     }

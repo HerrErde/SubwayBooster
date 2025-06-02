@@ -2944,9 +2944,49 @@
           ]
         }
       },
+      "berta": {
+        "value": {
+          "id": "berta",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bertaSummerEleganzaOutfit": {
+        "value": {
+          "id": "bertaSummerEleganzaOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "costa": {
+        "value": {
+          "id": "costa",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "haliGummyBearOutfit": {
+        "value": {
+          "id": "haliGummyBearOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3017,6 +3057,16 @@
       "thunderUrbanHeroOutfit": {
         "value": {
           "id": "thunderUrbanHeroOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "yutaniTreeFrog": {
+        "value": {
+          "id": "yutaniTreeFrog",
           "ownedOutfits": [
             {
               "value": "default"

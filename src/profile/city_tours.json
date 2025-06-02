@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "data": {
+    "lastSaved": "1970-01-01T00:00:00Z",
+    "cityTourInstances": {},
+    "completedCityTours": [
+      "city_tour_1"
+    ]
+  }
+}

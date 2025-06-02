@@ -3118,29 +3118,25 @@
           }
         }
       },
+      "youarehere": {
+        "value": {
+          "id": "youarehere",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
       "freebird": {
         "value": {
           "id": "freebird",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarCrewCrush": {
-        "value": {
-          "id": "sakarCrewCrush",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "sakarSurfSpray": {
-        "value": {
-          "id": "sakarSurfSpray",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -3161,17 +3157,60 @@
           }
         }
       },
-      "youarehere": {
+      "feelingBeachy": {
         "value": {
-          "id": "youarehere",
+          "id": "feelingBeachy",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "floatBooster": {
+        "value": {
+          "id": "floatBooster",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "doubleJump": {
+            "highSpeed": {
               "value": true
             },
-            "highSpeed": {
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "glitterBlaster": {
+        "value": {
+          "id": "glitterBlaster",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarCrewCrush": {
+        "value": {
+          "id": "sakarCrewCrush",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarSurfSpray": {
+        "value": {
+          "id": "sakarSurfSpray",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }

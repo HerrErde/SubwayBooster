@@ -266,3 +266,7 @@
 | Trespasser | `trespasser` |
 | Mizu Dash | `mizuDash` |
 | Zapline | `zapline` |
+| 13th Birthday | `birthday2025` |
+| You Are Here | `youarehere` |
+| Freebird | `freebird` |
+| Seven Seas | `sevenseas` |
