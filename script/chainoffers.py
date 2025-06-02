@@ -10,7 +10,7 @@ try:
     completedChainOffers = []
 
     for offer in data:
-        timeSlot = offer.get("timeSlot", "")
+        timeSlot = offer.get("id", "")
 
         if timeSlot:
             completedChainOffers.append(timeSlot)
