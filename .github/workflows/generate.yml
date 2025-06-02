@@ -33,11 +33,11 @@ jobs:
           changelog=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.body' | tr '\n' '\r\n')
           echo "changelog=$changelog" >> $GITHUB_OUTPUT
 
-      - name: Setup Python
-        uses: actions/setup-python@v5.1.0
-        with:
-          python-version: '3.x'
-          cache: 'pip'
+#      - name: Setup Python
+#        uses: actions/setup-python@v5.1.0
+#        with:
+#          python-version: '3.x'
+#          cache: 'pip'
 
       - name: Install
         run: pip install -r requirements.txt
