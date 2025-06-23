@@ -232,3 +232,8 @@
 | Saru | `saru` |
 | LOC | `loc` |
 | Stevie | `stevie` |
+| Berta | `berta` |
+| Costa | `costa` |
+| Yutani Tree Frog | `yutaniTreeFrog` |
+| Rochelle Rebelle | `rochelleRebelle` |
+| Asher | `asher` |

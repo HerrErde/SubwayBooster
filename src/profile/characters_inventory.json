@@ -2954,16 +2954,6 @@
           ]
         }
       },
-      "bertaSummerEleganzaOutfit": {
-        "value": {
-          "id": "bertaSummerEleganzaOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
       "costa": {
         "value": {
           "id": "costa",
@@ -2974,9 +2964,69 @@
           ]
         }
       },
+      "yutaniTreeFrog": {
+        "value": {
+          "id": "yutaniTreeFrog",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "rochelleRebelle": {
+        "value": {
+          "id": "rochelleRebelle",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "asher": {
+        "value": {
+          "id": "asher",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "asherSplasherOutfit": {
+        "value": {
+          "id": "asherSplasherOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bertaSummerEleganzaOutfit": {
+        "value": {
+          "id": "bertaSummerEleganzaOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "gabrielRadInRedOutfit": {
+        "value": {
+          "id": "gabrielRadInRedOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3057,16 +3107,6 @@
       "thunderUrbanHeroOutfit": {
         "value": {
           "id": "thunderUrbanHeroOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "yutaniTreeFrog": {
-        "value": {
-          "id": "yutaniTreeFrog",
           "ownedOutfits": [
             {
               "value": "default"

@@ -3196,6 +3196,29 @@
           }
         }
       },
+      "midsummer": {
+        "value": {
+          "id": "midsummer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "roll&Race": {
+        "value": {
+          "id": "roll&Race",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
       "sakarCrewCrush": {
         "value": {
           "id": "sakarCrewCrush",
@@ -3211,6 +3234,22 @@
           "id": "sakarSurfSpray",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "streetStyle": {
+        "value": {
+          "id": "streetStyle",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            },
+            "superJump": {
               "value": true
             }
           }

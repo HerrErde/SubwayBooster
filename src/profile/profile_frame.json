@@ -15,6 +15,10 @@
         "id": "plant_frame",
         "isSeen": true
       },
+      "pride_frame": {
+        "id": "pride_frame",
+        "isSeen": true
+      },
       "lava_frame": {
         "id": "lava_frame",
         "isSeen": true
@@ -29,10 +33,6 @@
       },
       "hollywood_frame": {
         "id": "hollywood_frame",
-        "isSeen": true
-      },
-      "pride_frame": {
-        "id": "pride_frame",
         "isSeen": true
       }
     }

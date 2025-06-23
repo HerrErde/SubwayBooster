@@ -203,6 +203,10 @@
         "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
       },
+      "missmaia_illustration_portrait": {
+        "id": "missmaia_illustration_portrait",
+        "isSeen": true
+      },
       "vivienne_hollywoodglamoutfit_portrait": {
         "id": "vivienne_hollywoodglamoutfit_portrait",
         "isSeen": true
@@ -211,20 +215,24 @@
         "id": "stevie_hitchhikeroutfit_illustration_portrait",
         "isSeen": true
       },
-      "stella_graffiti_portrait": {
-        "id": "stella_graffiti_portrait",
-        "isSeen": true
-      },
       "berta_illustration_portrait": {
         "id": "berta_illustration_portrait",
         "isSeen": true
       },
-      "guard_pink_graffiti_portrait": {
-        "id": "guard_pink_graffiti_portrait",
+      "rochellerebelle_graffiti_portrait": {
+        "id": "rochellerebelle_graffiti_portrait",
         "isSeen": true
       },
-      "missmaia_illustration_portrait": {
-        "id": "missmaia_illustration_portrait",
+      "stella_graffiti_portrait": {
+        "id": "stella_graffiti_portrait",
+        "isSeen": true
+      },
+      "guard_illustration_portrait": {
+        "id": "guard_illustration_portrait",
+        "isSeen": true
+      },
+      "guard_pink_graffiti_portrait": {
+        "id": "guard_pink_graffiti_portrait",
         "isSeen": true
       }
     }

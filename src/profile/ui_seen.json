@@ -8,24 +8,20 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S102",
+    "newSeasonPopupShownForID": "season_S103",
     "localMailsSeenEntries": {
-      "s102_barcelona_challenges": "1970-01-01T00:00:00Z",
-      "s102_barcelona_floorislava": "1970-01-01T00:00:00Z",
-      "s102_barcelona_juneteenth_freebie": "1970-01-01T00:00:00Z",
-      "s102_barcelona_next_season": "1970-01-01T00:00:00Z",
-      "s102_barcelona_one_run": "1970-01-01T00:00:00Z",
-      "s102_barcelona_plantinvasion": "1970-01-01T00:00:00Z",
-      "s102_barcelona_season_challenge": "1970-01-01T00:00:00Z",
-      "s102_barcelona_seasonhunt": "1970-01-01T00:00:00Z",
-      "s102_barcelona_trickortreat": "1970-01-01T00:00:00Z",
-      "s102_barcelona_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s102_barcelona_updateGame_android": "1970-01-01T00:00:00Z",
-      "s102_barcelona_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s102_barcelona_welcome": "1970-01-01T00:00:00Z",
-      "s102_playing4theplanet": "1970-01-01T00:00:00Z",
-      "s102_playing4theplanet_bundle": "1970-01-01T00:00:00Z",
-      "s102_barcelona_trick_or_treat_ce": "1970-01-01T00:00:00Z"
+      "s103_mapleleaf_giveaway": "1970-01-01T00:00:00Z",
+      "s103_washington_challenges": "1970-01-01T00:00:00Z",
+      "s103_washington_floorislava": "1970-01-01T00:00:00Z",
+      "s103_washington_next_season": "1970-01-01T00:00:00Z",
+      "s103_washington_one_run": "1970-01-01T00:00:00Z",
+      "s103_washington_plantinvasion": "1970-01-01T00:00:00Z",
+      "s103_washington_season_challenge": "1970-01-01T00:00:00Z",
+      "s103_washington_seasonhunt": "1970-01-01T00:00:00Z",
+      "s103_washington_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s103_washington_updateGame_android": "1970-01-01T00:00:00Z",
+      "s103_washington_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s103_washington_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -43,42 +39,42 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S102_newStuff": {
+      "S103_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S102_crew_bonus": {
+      "S103_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "costa_bundle_promo": {
+      "rochellerebelle_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "beachplease_bundle_promo": {
+      "street_party_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "yutanitreefrog_bundle_promo": {
+      "yeehaw_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "star_bundle_promo": {
+      "election_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "rebel_buds_bundle": {
+      "ucb_zayn_eastvest_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "rio_duo_bundle": {
+      "vegas_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
