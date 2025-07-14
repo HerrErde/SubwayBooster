@@ -70,7 +70,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add tower/
+          git add src/
           if ! git diff --cached --quiet; then
             git commit -m "auto update files ${{ steps.var.outputs.version }}"
             git push
