@@ -18,9 +18,9 @@
 | Windglider | `windglider` |
 | Teleporter | `teleporter` |
 | Wild Style | `sakarWildStyle` |
-| Surf & Spray | `ray` |
+| Surf & Spray | `sakarSurfSpray` |
 | Crew | `sakarCrew` |
-| Crew Crush | `sakarCrew` |
+| Crew Crush | `sakarCrewCrush` |
 | Blue Ice | `sakarBlueIce` |
 | Liberty | `liberty` |
 | Toucan | `toucan` |
@@ -270,3 +270,9 @@
 | You Are Here | `youarehere` |
 | Freebird | `freebird` |
 | Seven Seas | `sevenseas` |
+| Glitter Blaster | `glitterBlaster` |
+| Feeling Beachy | `feelingBeachy` |
+| Float-Booster | `floatBooster` |
+| Street Style | `streetStyle` |
+| Roll & Race | `roll&Race` |
+| Midsummer | `midsummer` |

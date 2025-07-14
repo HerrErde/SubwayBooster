@@ -8,20 +8,21 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S103",
+    "newSeasonPopupShownForID": "season_S104",
     "localMailsSeenEntries": {
-      "s103_mapleleaf_giveaway": "1970-01-01T00:00:00Z",
-      "s103_washington_challenges": "1970-01-01T00:00:00Z",
-      "s103_washington_floorislava": "1970-01-01T00:00:00Z",
-      "s103_washington_next_season": "1970-01-01T00:00:00Z",
-      "s103_washington_one_run": "1970-01-01T00:00:00Z",
-      "s103_washington_plantinvasion": "1970-01-01T00:00:00Z",
-      "s103_washington_season_challenge": "1970-01-01T00:00:00Z",
-      "s103_washington_seasonhunt": "1970-01-01T00:00:00Z",
-      "s103_washington_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s103_washington_updateGame_android": "1970-01-01T00:00:00Z",
-      "s103_washington_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s103_washington_welcome": "1970-01-01T00:00:00Z"
+      "s104_subwayclassic_challenges": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_floorislava": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_giveaway_india": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_giveaway_indonesia": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_next_season": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_one_run": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_plantinvasion": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_season_challenge": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_seasonhunt": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_updateGame_android": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s104_subwayclassic_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -39,42 +40,47 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S103_newStuff": {
+      "S104_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S103_crew_bonus": {
+      "S104_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "rochellerebelle_bundle_promo": {
+      "whiterabbit_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "street_party_bundle_promo": {
+      "spooksy_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "yeehaw_bundle_promo": {
+      "cutesy_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "election_bundle_promo": {
+      "ucb_zayn_stealth_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "ucb_zayn_eastvest_promo": {
+      "ucb_nick_speed_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "vegas_bundle_promo": {
+      "deluxe_deal_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "easter_robots_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -185,21 +191,6 @@
         "opened": true
       },
       "multiplier_pack_bundle_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_10": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_11": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_12": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

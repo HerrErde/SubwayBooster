@@ -243,9 +243,9 @@
           }
         }
       },
-      "ray": {
+      "sakarSurfSpray": {
         "value": {
-          "id": "ray",
+          "id": "sakarSurfSpray",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -256,6 +256,16 @@
       "sakarCrew": {
         "value": {
           "id": "sakarCrew",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sakarCrewCrush": {
+        "value": {
+          "id": "sakarCrewCrush",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -660,6 +670,16 @@
       "chameleon": {
         "value": {
           "id": "chameleon",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "ray": {
+        "value": {
+          "id": "ray",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -3157,6 +3177,19 @@
           }
         }
       },
+      "glitterBlaster": {
+        "value": {
+          "id": "glitterBlaster",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
       "feelingBeachy": {
         "value": {
           "id": "feelingBeachy",
@@ -3183,24 +3216,17 @@
           }
         }
       },
-      "glitterBlaster": {
+      "streetStyle": {
         "value": {
-          "id": "glitterBlaster",
+          "id": "streetStyle",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "superJump": {
+            "lowrider": {
               "value": true
-            }
-          }
-        }
-      },
-      "midsummer": {
-        "value": {
-          "id": "midsummer",
-          "ownedUpgrades": {
-            "default": {
+            },
+            "superJump": {
               "value": true
             }
           }
@@ -3219,9 +3245,9 @@
           }
         }
       },
-      "sakarCrewCrush": {
+      "midsummer": {
         "value": {
-          "id": "sakarCrewCrush",
+          "id": "midsummer",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -3229,19 +3255,9 @@
           }
         }
       },
-      "sakarSurfSpray": {
+      "businessTime": {
         "value": {
-          "id": "sakarSurfSpray",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
-      "streetStyle": {
-        "value": {
-          "id": "streetStyle",
+          "id": "businessTime",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -3249,7 +3265,30 @@
             "lowrider": {
               "value": true
             },
-            "superJump": {
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "circuitBunny": {
+        "value": {
+          "id": "circuitBunny",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "rabbitRacer": {
+        "value": {
+          "id": "rabbitRacer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
               "value": true
             }
           }

@@ -227,12 +227,20 @@
         "id": "stella_graffiti_portrait",
         "isSeen": true
       },
+      "guard_graffiti_portrait": {
+        "id": "guard_graffiti_portrait",
+        "isSeen": true
+      },
       "guard_illustration_portrait": {
         "id": "guard_illustration_portrait",
         "isSeen": true
       },
       "guard_pink_graffiti_portrait": {
         "id": "guard_pink_graffiti_portrait",
+        "isSeen": true
+      },
+      "whiterabbit_illustration_portrait": {
+        "id": "whiterabbit_illustration_portrait",
         "isSeen": true
       }
     }

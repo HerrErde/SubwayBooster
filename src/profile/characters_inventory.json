@@ -3014,6 +3014,16 @@
           ]
         }
       },
+      "bonnieThumperOutfit": {
+        "value": {
+          "id": "bonnieThumperOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
@@ -3047,6 +3057,26 @@
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "peter": {
+        "value": {
+          "id": "peter",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "peterBunAndRunOutfit": {
+        "value": {
+          "id": "peterBunAndRunOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3107,6 +3137,16 @@
       "thunderUrbanHeroOutfit": {
         "value": {
           "id": "thunderUrbanHeroOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "whiteRabbit": {
+        "value": {
+          "id": "whiteRabbit",
           "ownedOutfits": [
             {
               "value": "default"
