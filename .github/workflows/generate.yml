@@ -70,9 +70,14 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add src/
-          git commit -am "auto update files ${{steps.var.outputs.version}}"
-          git push
+          git add tower/
+          if ! git diff --cached --quiet; then
+            git commit -m "auto update files ${{ steps.var.outputs.version }}"
+            git push
+          else
+            git commit --allow-empty -m "no change ${{ steps.var.outputs.version }}"
+            git push
+          fi
 
       - name: Convert & Zip
         run: |
