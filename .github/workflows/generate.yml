@@ -23,7 +23,7 @@ jobs:
         id: var
         run: |
           if [ -z "${{ github.event.inputs.version }}" ]; then
-            version=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.name')
+            version=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.name' | tr '-' '.')
           else
             version=$(echo "${{ github.event.inputs.version }}" | tr '-' '.')
           fi
