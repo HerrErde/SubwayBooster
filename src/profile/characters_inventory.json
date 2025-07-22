@@ -2994,6 +2994,26 @@
           ]
         }
       },
+      "whiteRabbit": {
+        "value": {
+          "id": "whiteRabbit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "peter": {
+        "value": {
+          "id": "peter",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
@@ -3064,16 +3084,6 @@
           ]
         }
       },
-      "peter": {
-        "value": {
-          "id": "peter",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
       "peterBunAndRunOutfit": {
         "value": {
           "id": "peterBunAndRunOutfit",
@@ -3137,16 +3147,6 @@
       "thunderUrbanHeroOutfit": {
         "value": {
           "id": "thunderUrbanHeroOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "whiteRabbit": {
-        "value": {
-          "id": "whiteRabbit",
           "ownedOutfits": [
             {
               "value": "default"

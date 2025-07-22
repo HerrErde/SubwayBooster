@@ -19,7 +19,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_02": {
         "id": "achievement_02",
@@ -36,41 +37,48 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_03": {
         "id": "achievement_03",
-        "progress": 20000,
-        "highestProgress": 20000,
+        "progress": 100000,
+        "highestProgress": 100000,
         "goals": [
           500,
           2000,
           10000,
-          20000
+          30000,
+          100000
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_04": {
         "id": "achievement_04",
-        "progress": 60,
-        "highestProgress": 60,
+        "progress": 300,
+        "highestProgress": 300,
         "goals": [
-          2,
-          12,
-          30,
-          60
+          5,
+          25,
+          75,
+          150,
+          300
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_05": {
         "id": "achievement_05",
@@ -87,58 +95,68 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_06": {
         "id": "achievement_06",
-        "progress": 42,
-        "highestProgress": 42,
+        "progress": 90,
+        "highestProgress": 90,
         "goals": [
           5,
-          14,
-          21,
-          42
+          15,
+          30,
+          60,
+          90
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_07": {
         "id": "achievement_07",
-        "progress": 70,
-        "highestProgress": 70,
+        "progress": 300,
+        "highestProgress": 300,
         "goals": [
           5,
-          14,
-          34,
-          70
+          25,
+          75,
+          150,
+          300
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_08": {
         "id": "achievement_08",
-        "progress": 36,
-        "highestProgress": 36,
+        "progress": 100,
+        "highestProgress": 100,
         "goals": [
           3,
-          14,
-          21,
-          36
+          10,
+          40,
+          80,
+          100
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_09": {
         "id": "achievement_09",
@@ -155,7 +173,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_10": {
         "id": "achievement_10",
@@ -172,24 +191,28 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_11": {
         "id": "achievement_11",
-        "progress": 500000,
-        "highestProgress": 500000,
+        "progress": 2000000,
+        "highestProgress": 2000000,
         "goals": [
           50000,
-          130000,
           250000,
-          500000
+          500000,
+          1000000,
+          2000000
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_12": {
         "id": "achievement_12",
@@ -206,7 +229,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_13": {
         "id": "achievement_13",
@@ -223,7 +247,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_14": {
         "id": "achievement_14",
@@ -240,7 +265,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_16": {
         "id": "achievement_16",
@@ -257,41 +283,48 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_17": {
         "id": "achievement_17",
-        "progress": 1500,
-        "highestProgress": 1500,
+        "progress": 10000,
+        "highestProgress": 10000,
         "goals": [
           20,
-          180,
+          100,
           500,
-          1500
+          2500,
+          10000
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_18": {
         "id": "achievement_18",
-        "progress": 1000000,
-        "highestProgress": 1000000,
+        "progress": 3000000,
+        "highestProgress": 3000000,
         "goals": [
-          60000,
-          200000,
-          500000,
-          1000000
+          75000,
+          300000,
+          750000,
+          1500000,
+          3000000
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_19": {
         "id": "achievement_19",
@@ -308,7 +341,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_20": {
         "id": "achievement_20",
@@ -325,41 +359,46 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_21": {
         "id": "achievement_21",
-        "progress": 4,
-        "highestProgress": 4,
+        "progress": 7,
+        "highestProgress": 7,
         "goals": [
           1,
           2,
           3,
-          4
+          5,
+          7
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_22": {
         "id": "achievement_22",
-        "progress": 450,
-        "highestProgress": 450,
+        "progress": 1000,
+        "highestProgress": 1000,
         "goals": [
-          10,
-          90,
-          250,
-          450
+          25,
+          150,
+          500,
+          1000
         ],
         "claimState": [
           true,
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_23": {
         "id": "achievement_23",
@@ -376,24 +415,28 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_24": {
         "id": "achievement_24",
-        "progress": 565000,
-        "highestProgress": 565000,
+        "progress": 5000000,
+        "highestProgress": 5000000,
         "goals": [
-          45000,
-          135000,
-          315000,
-          565000
+          100000,
+          400000,
+          1500000,
+          3000000,
+          5000000
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_25": {
         "id": "achievement_25",
@@ -410,7 +453,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_26": {
         "id": "achievement_26",
@@ -427,7 +471,8 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_27": {
         "id": "achievement_27",
@@ -444,24 +489,168 @@
           true,
           true,
           true
-        ]
+        ],
+        "markAsViewed": true
       },
       "achievement_28": {
         "id": "achievement_28",
-        "progress": 60,
-        "highestProgress": 60,
+        "progress": 90,
+        "highestProgress": 90,
         "goals": [
-          7,
-          14,
-          30,
-          60
+          1,
+          5,
+          20,
+          60,
+          90
         ],
         "claimState": [
           true,
           true,
           true,
+          true,
           true
-        ]
+        ],
+        "markAsViewed": true
+      },
+      "achievement_29": {
+        "id": "achievement_29",
+        "progress": 80,
+        "highestProgress": 80,
+        "goals": [
+          5,
+          10,
+          20,
+          50,
+          80
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_30": {
+        "id": "achievement_30",
+        "progress": 100,
+        "highestProgress": 100,
+        "goals": [
+          1,
+          10,
+          25,
+          50,
+          100
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_31": {
+        "id": "achievement_31",
+        "progress": 1000000,
+        "highestProgress": 1000000,
+        "goals": [
+          5000,
+          25000,
+          200000,
+          500000,
+          1000000
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_32": {
+        "id": "achievement_32",
+        "progress": 23,
+        "highestProgress": 23,
+        "goals": [
+          1,
+          3,
+          7,
+          14,
+          23
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_33": {
+        "id": "achievement_33",
+        "progress": 120,
+        "highestProgress": 120,
+        "goals": [
+          10,
+          20,
+          40,
+          80,
+          120
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_34": {
+        "id": "achievement_34",
+        "progress": 450,
+        "highestProgress": 450,
+        "goals": [
+          25,
+          75,
+          150,
+          250,
+          450
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_35": {
+        "id": "achievement_35",
+        "progress": 160,
+        "highestProgress": 160,
+        "goals": [
+          15,
+          30,
+          60,
+          100,
+          160
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "markAsViewed": true
       }
     }
   }

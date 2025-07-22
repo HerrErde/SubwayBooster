@@ -237,3 +237,5 @@
 | Yutani Tree Frog | `yutaniTreeFrog` |
 | Rochelle Rebelle | `rochelleRebelle` |
 | Asher | `asher` |
+| White Rabbit | `whiteRabbit` |
+| Peter | `peter` |
