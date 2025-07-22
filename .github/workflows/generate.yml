@@ -22,12 +22,10 @@ jobs:
       - name: Set vars
         id: var
         run: |
-          packageId="com.kiloo.subwaysurf"
-          echo "packageId=$packageId" >> $GITHUB_OUTPUT
           if [ -z "${{ github.event.inputs.version }}" ]; then
-            version=$(curl -s "https://gplayapi.herrerde.xyz/api/apps/$packageId" | jq -r '.version' | awk -F '.' '{print $1 "." $2 ".0"}')
+            version=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.name')
           else
-            version=$(echo "${{ github.event.inputs.version }}" | tr '.' '-')
+            version=$(echo "${{ github.event.inputs.version }}" | tr '-' '.')
           fi
           echo "version=$version" >> $GITHUB_OUTPUT
           changelog=$(curl -s "https://api.github.com/repos/HerrErde/subway-source/releases/latest" | jq -r '.body' | tr '\n' '\r\n')
@@ -71,13 +69,8 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add src/
-          if ! git diff --cached --quiet; then
-            git commit -m "auto update files ${{ steps.var.outputs.version }}"
-            git push
-          else
-            git commit --allow-empty -m "no change ${{ steps.var.outputs.version }}"
-            git push
-          fi
+          git commit -am "auto update files ${{steps.var.outputs.version}}"
+          git push
 
       - name: Convert & Zip
         run: |

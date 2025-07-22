@@ -27,7 +27,8 @@ for achievement in data:
         "progress": progress,
         "highestProgress": progress,
         "goals": tier_goals,
-        "claimState": [True, True, True, True],
+        "claimState": [True for _ in tier_goals],
+        "markAsViewed": True,
     }
 
 with open("src/profile/achievements.json", "w", encoding="utf-8") as output_file:
