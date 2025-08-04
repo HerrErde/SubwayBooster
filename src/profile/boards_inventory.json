@@ -3255,6 +3255,22 @@
           }
         }
       },
+      "brainstormer": {
+        "value": {
+          "id": "brainstormer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
       "businessTime": {
         "value": {
           "id": "businessTime",
@@ -3276,6 +3292,29 @@
           "id": "circuitBunny",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "eRacer": {
+        "value": {
+          "id": "eRacer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "principalsNightmare": {
+        "value": {
+          "id": "principalsNightmare",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }

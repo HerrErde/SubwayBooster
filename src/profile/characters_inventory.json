@@ -3074,6 +3074,26 @@
           ]
         }
       },
+      "henry": {
+        "value": {
+          "id": "henry",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "henrySportySundayOutfit": {
+        "value": {
+          "id": "henrySportySundayOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
@@ -3144,9 +3164,29 @@
           ]
         }
       },
+      "tara": {
+        "value": {
+          "id": "tara",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "thunderUrbanHeroOutfit": {
         "value": {
           "id": "thunderUrbanHeroOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "yutoRockOutOutfit": {
+        "value": {
+          "id": "yutoRockOutOutfit",
           "ownedOutfits": [
             {
               "value": "default"

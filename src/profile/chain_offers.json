@@ -4,15 +4,12 @@
     "lastSaved": "1970-01-01T00:00:00Z",
     "chainOffers": {},
     "completedChainOffers": [
-      "s103_chain_offers_promo_1",
-      "s103_chain_offers_promo_2",
-      "s101_s102_chain_offers_promo",
-      "s103_chain_offers_promo_3",
-      "s102_s103_chain_offers_promo",
       "s104_chain_offers_promo_1",
       "s104_chain_offers_promo_2",
       "s104_chain_offers_promo_3",
-      "s104_s105_chain_offers_promo"
+      "s104_s105_chain_offers_promo",
+      "s105_chain_offers_promo_1",
+      "s105_chain_offers_promo_2"
     ]
   }
 }

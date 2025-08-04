@@ -271,67 +271,67 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S104": {
-        "id": "collection_season_S104",
+      "collection_season_S105": {
+        "id": "collection_season_S105",
         "items": [
           {
-            "id": "guardking.default",
+            "id": "logan.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 26385
+            "points": 26460
           },
           {
-            "id": "ribbon.default",
+            "id": "oniHime.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "rabbitRacer.default",
+            "id": "principalsNightmare.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "alarmon.default",
+            "id": "bigBoss.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "rollsRabbit.default",
+            "id": "fastandfestive.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "bonnie.harajukuOutfit",
+            "id": "ming.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "whiteRabbit.default",
+            "id": "tara.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "thursday.lilImpOutfit",
+            "id": "soul.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "kedi.default",
+            "id": "cathy.visualkeiOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
@@ -344,6 +344,10 @@
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

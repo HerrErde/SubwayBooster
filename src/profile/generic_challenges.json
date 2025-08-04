@@ -4,16 +4,16 @@
     "lastSaved": "1970-01-01T00:00:00Z",
     "patchVersion": 1,
     "challengeStates": {
-      "s104_hollywood_tta": {
-        "challengeId": "s104_hollywood_tta",
+      "s105_fantasyfest_tta": {
+        "challengeId": "s105_fantasyfest_tta",
         "challengeType": "ui.tlr.title_tag_attack",
         "challengeServerId": "tta",
-        "currentSetEntryID": "s104_hollywood_tta",
-        "currentSetEntryTimeSlot": "season_s104_hollywood_tta",
+        "currentSetEntryID": "s105_fantasyfest_tta",
+        "currentSetEntryTimeSlot": "season_s105_fantasyfest_tta",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -41,7 +41,7 @@
                   "value": 50,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -71,7 +71,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -101,7 +101,7 @@
                   "value": 150,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -131,7 +131,7 @@
                   "value": 250,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -152,7 +152,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -167,7 +167,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -197,7 +197,7 @@
                   "value": 350,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -226,7 +226,7 @@
                   "value": 1,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -241,7 +241,7 @@
                   "value": 450,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -271,7 +271,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -300,7 +300,7 @@
                   "value": 1,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -315,7 +315,7 @@
                   "value": 700,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -344,7 +344,7 @@
                   "value": 4,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -359,7 +359,7 @@
                   "value": 1150,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           }
@@ -382,7 +382,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "tasha.default,lucy.default,redpanda.default,drflyman.default",
+                "value": "tasha.default,ninja.default,yuto.default,soul.default",
                 "meta": {
                   "items": [
                     {
@@ -409,7 +409,7 @@
                         }
                       ],
                       "cooldown": 7200,
-                      "id": "lucy.default",
+                      "id": "ninja.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -424,7 +424,7 @@
                         }
                       ],
                       "cooldown": 1800,
-                      "id": "redpanda.default",
+                      "id": "yuto.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -439,7 +439,7 @@
                         }
                       ],
                       "cooldown": 1800,
-                      "id": "drflyman.default",
+                      "id": "soul.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -453,20 +453,20 @@
           }
         },
         "kind": 4,
-        "targetCity": "hollywood",
+        "targetCity": "fantasyfest",
         "markAsSeen": true,
         "gameMode": "timeLimited02"
       },
-      "s104_subwayclassic_st_tta": {
-        "challengeId": "s104_subwayclassic_st_tta",
-        "challengeType": "ui.challenge.season_challenge",
-        "challengeServerId": "staged_tta",
-        "currentSetEntryID": "s104_subwayclassic_st_tta",
-        "currentSetEntryTimeSlot": "season_s104_subwayclassic_st_tta",
+      "s105_plantinvasion_st_nfc": {
+        "challengeId": "s105_plantinvasion_st_nfc",
+        "challengeType": "ui.liveEvents.community_event_battle_mode_title",
+        "challengeServerId": "staged_plant_invasion",
+        "currentSetEntryID": "s105_plantinvasion_st_nfc",
+        "currentSetEntryTimeSlot": "season_s105_plantinvasion_st_nfc",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -494,7 +494,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -524,7 +524,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -554,7 +554,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -584,7 +584,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -614,7 +614,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -636,7 +636,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -666,7 +666,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -696,7 +696,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -726,7 +726,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -756,7 +756,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -786,7 +786,7 @@
                   "value": 700,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -796,19 +796,12 @@
             "OriginalRequiredScore": 240000,
             "Rewards": [
               {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 1000,
-                  "claimed": true
-                },
                 "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 1000,
+                  "id": "oxford_green_frame",
+                  "type": "ProfileFrame",
+                  "value": 1,
                   "claimed": true
-                },
-                "timeslot": "season_S104"
+                }
               }
             ]
           },
@@ -838,7 +831,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -868,7 +861,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -898,7 +891,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -928,7 +921,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -958,7 +951,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -996,7 +989,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1026,7 +1019,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1056,7 +1049,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1086,7 +1079,7 @@
                   "value": 800,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1116,7 +1109,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1146,7 +1139,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1176,7 +1169,7 @@
                   "value": 2000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1206,7 +1199,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1236,7 +1229,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1266,7 +1259,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1288,7 +1281,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -1299,921 +1292,8 @@
             "Rewards": [
               {
                 "reward": {
-                  "id": "peter.default",
+                  "id": "henry.default",
                   "type": "Character",
-                  "value": 1,
-                  "claimed": true
-                }
-              }
-            ]
-          }
-        ],
-        "rewardUnlockOffset": [
-          24,
-          48,
-          96,
-          168,
-          288
-        ],
-        "matchmakingId": "dailyChallenge",
-        "requirements": {
-          "access": {
-            "data": [
-              {
-                "operator": "GreaterEqual",
-                "type": "BaseMultiplier",
-                "value": "4"
-              }
-            ],
-            "operator": "And"
-          },
-          "participation": {
-            "data": [
-              {
-                "type": "SelectedCharacter",
-                "operator": "Equal",
-                "value": "peter.default,whiteRabbit.default",
-                "meta": {
-                  "items": [
-                    {
-                      "alternativeSkipCost": [
-                        {
-                          "adPlacement": "SkipCharacterCooldown",
-                          "currencyType": "Ads",
-                          "value": 1
-                        }
-                      ],
-                      "cooldown": 7200,
-                      "id": "peter.default",
-                      "limitRuns": 1,
-                      "skipCostKeys": [
-                        16
-                      ],
-                      "tryable": true
-                    },
-                    {
-                      "alternativeSkipCost": [
-                        {
-                          "adPlacement": "SkipCharacterCooldown",
-                          "currencyType": "Ads",
-                          "value": 1
-                        }
-                      ],
-                      "cooldown": 1800,
-                      "id": "whiteRabbit.default",
-                      "limitRuns": 1,
-                      "skipCostKeys": [
-                        16
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "operator": "And"
-          }
-        },
-        "kind": 4,
-        "targetCity": "subwayclassic",
-        "markAsSeen": true,
-        "gameMode": "timeLimited02"
-      },
-      "s104_plantinvasion_st_nfc": {
-        "challengeId": "s104_plantinvasion_st_nfc",
-        "challengeType": "cities.subwaycityplantinvasion.name",
-        "challengeServerId": "staged_plant_invasion",
-        "currentSetEntryID": "s104_plantinvasion_st_nfc",
-        "currentSetEntryTimeSlot": "season_s104_plantinvasion_st_nfc",
-        "currentScore": 2147483647,
-        "highScore": 2147483647,
-        "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
-        "rewardStates": [
-          {
-            "State": 10,
-            "RequiredScore": 10000,
-            "OriginalRequiredScore": 10000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 3,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 10000,
-            "OriginalRequiredScore": 10000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 30000,
-            "OriginalRequiredScore": 30000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 200,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 200,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 40000,
-            "OriginalRequiredScore": 40000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 60000,
-            "OriginalRequiredScore": 60000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 4,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 200,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 200,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 90000,
-            "OriginalRequiredScore": 90000,
-            "Rewards": [
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 110000,
-            "OriginalRequiredScore": 110000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 200,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 200,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 110000,
-            "OriginalRequiredScore": 110000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 140000,
-            "OriginalRequiredScore": 140000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 300,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 300,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 170000,
-            "OriginalRequiredScore": 170000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 200000,
-            "OriginalRequiredScore": 200000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 350,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 350,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 240000,
-            "OriginalRequiredScore": 240000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 5,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 600,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 600,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 270000,
-            "OriginalRequiredScore": 270000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 150,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 150,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 270000,
-            "OriginalRequiredScore": 270000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 300000,
-            "OriginalRequiredScore": 300000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 3,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 250,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 250,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 320000,
-            "OriginalRequiredScore": 320000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 350000,
-            "OriginalRequiredScore": 350000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 350,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 350,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 380000,
-            "OriginalRequiredScore": 380000,
-            "Rewards": [
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 600,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 600,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 400000,
-            "OriginalRequiredScore": 400000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 150,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 150,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 400000,
-            "OriginalRequiredScore": 400000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 430000,
-            "OriginalRequiredScore": 430000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 4,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 400,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 480000,
-            "OriginalRequiredScore": 480000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 100,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 530000,
-            "OriginalRequiredScore": 530000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 5,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 250,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 250,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 580000,
-            "OriginalRequiredScore": 580000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 2,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 1000,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 1000,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 600000,
-            "OriginalRequiredScore": 600000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "ScoreBoosters",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 300,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 300,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 620000,
-            "OriginalRequiredScore": 620000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 3,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 670000,
-            "OriginalRequiredScore": 670000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "HeadStarts",
-                  "type": "Currency",
-                  "value": 1,
-                  "claimed": true
-                }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 720000,
-            "OriginalRequiredScore": 720000,
-            "Rewards": [
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 500,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              }
-            ]
-          },
-          {
-            "State": 10,
-            "RequiredScore": 780000,
-            "OriginalRequiredScore": 780000,
-            "Rewards": [
-              {
-                "reward": {
-                  "id": "businessTime",
-                  "type": "Hoverboard",
                   "value": 1,
                   "claimed": true
                 }
@@ -2245,7 +1325,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "jake.default,whiteRabbit.default",
+                "value": "henry.default,tara.default",
                 "meta": {
                   "items": [
                     {
@@ -2257,11 +1337,12 @@
                         }
                       ],
                       "cooldown": 7200,
-                      "id": "jake.default",
+                      "id": "henry.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
-                      ]
+                      ],
+                      "tryable": true
                     },
                     {
                       "alternativeSkipCost": [
@@ -2272,7 +1353,7 @@
                         }
                       ],
                       "cooldown": 1800,
-                      "id": "whiteRabbit.default",
+                      "id": "tara.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -2290,16 +1371,16 @@
         "markAsSeen": true,
         "gameMode": "plant_invasion"
       },
-      "s104_floorislava_st_nfc": {
-        "challengeId": "s104_floorislava_st_nfc",
-        "challengeType": "ui.floor_is_lava.title",
+      "s105_floorislava_st_nfc": {
+        "challengeId": "s105_floorislava_st_nfc",
+        "challengeType": "ui.liveEvents.community_event_battle_mode_title",
         "challengeServerId": "staged_floor_is_lava",
-        "currentSetEntryID": "s104_floorislava_st_nfc",
-        "currentSetEntryTimeSlot": "season_s104_floorislava_st_nfc",
+        "currentSetEntryID": "s105_floorislava_st_nfc",
+        "currentSetEntryTimeSlot": "season_s105_floorislava_st_nfc",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -2327,7 +1408,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2357,7 +1438,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -2371,7 +1452,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2401,7 +1482,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -2415,7 +1496,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2445,7 +1526,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2475,7 +1556,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -2489,7 +1570,7 @@
                   "value": 3,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2519,7 +1600,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2549,7 +1630,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2579,7 +1660,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -2593,7 +1674,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2623,7 +1704,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -2637,7 +1718,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2667,7 +1748,7 @@
                   "value": 700,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2697,7 +1778,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2708,40 +1789,11 @@
             "Rewards": [
               {
                 "reward": {
-                  "id": "Hoverboards",
-                  "type": "Currency",
-                  "value": 5,
+                  "id": "oxford_red_frame",
+                  "type": "ProfileFrame",
+                  "value": 1,
                   "claimed": true
                 }
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 1200,
-                  "claimed": true
-                },
-                "reward": {
-                  "id": "EventCoins",
-                  "type": "Currency",
-                  "value": 1200,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
-              },
-              {
-                "fallbackReward": {
-                  "id": "Coins",
-                  "type": "Currency",
-                  "value": 1500,
-                  "claimed": true
-                },
-                "reward": {
-                  "type": "SeasonHuntToken",
-                  "value": 3,
-                  "claimed": true
-                },
-                "timeslot": "season_S104"
               }
             ]
           },
@@ -2771,7 +1823,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2801,7 +1853,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2831,7 +1883,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2861,7 +1913,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2891,7 +1943,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2913,7 +1965,7 @@
                   "value": 700,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -2927,7 +1979,7 @@
                   "value": 3,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2957,7 +2009,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -2987,7 +2039,7 @@
                   "value": 800,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3001,7 +2053,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3031,7 +2083,7 @@
                   "value": 800,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3045,7 +2097,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3075,7 +2127,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3105,7 +2157,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3135,7 +2187,7 @@
                   "value": 2000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3149,7 +2201,7 @@
                   "value": 3,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3179,7 +2231,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3209,7 +2261,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3223,7 +2275,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3253,7 +2305,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3275,7 +2327,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3289,7 +2341,7 @@
                   "value": 5,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3300,7 +2352,7 @@
             "Rewards": [
               {
                 "reward": {
-                  "id": "bonnieThumperOutfit.default",
+                  "id": "yutoRockOutOutfit.default",
                   "type": "Character",
                   "value": 1,
                   "claimed": true
@@ -3333,7 +2385,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "bonnieThumperOutfit.default,whiteRabbit.default",
+                "value": "yutoRockOutOutfit.default,tara.default",
                 "meta": {
                   "items": [
                     {
@@ -3345,7 +2397,7 @@
                         }
                       ],
                       "cooldown": 7200,
-                      "id": "bonnieThumperOutfit.default",
+                      "id": "yutoRockOutOutfit.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -3361,7 +2413,7 @@
                         }
                       ],
                       "cooldown": 1800,
-                      "id": "whiteRabbit.default",
+                      "id": "tara.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -3379,16 +2431,16 @@
         "markAsSeen": true,
         "gameMode": "floor_is_lava"
       },
-      "s104_onerun_alohahawaii_mrt": {
-        "challengeId": "s104_onerun_alohahawaii_mrt",
+      "s105_onerun_venicebeach_mrt": {
+        "challengeId": "s105_onerun_venicebeach_mrt",
         "challengeType": "ui.challenge.one_run",
         "challengeServerId": "marathon",
-        "currentSetEntryID": "s104_onerun_alohahawaii_mrt",
-        "currentSetEntryTimeSlot": "season_s104_onerun_alohahawaii_mrt",
+        "currentSetEntryID": "s105_onerun_venicebeach_mrt",
+        "currentSetEntryTimeSlot": "season_s105_onerun_venicebeach_mrt",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -3416,7 +2468,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3446,7 +2498,7 @@
                   "value": 1000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3467,7 +2519,7 @@
                   "value": 2,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3482,7 +2534,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3512,7 +2564,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3542,7 +2594,7 @@
                   "value": 2000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3563,7 +2615,7 @@
                   "value": 3,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3578,7 +2630,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3607,7 +2659,7 @@
                   "value": 5,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3622,7 +2674,7 @@
                   "value": 2000,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3633,7 +2685,7 @@
             "Rewards": [
               {
                 "reward": {
-                  "id": "freshlove",
+                  "id": "arara",
                   "type": "Hoverboard",
                   "value": 1,
                   "claimed": true
@@ -3660,7 +2712,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "peterBunAndRunOutfit.default",
+                "value": "henrySportySundayOutfit.default",
                 "meta": {
                   "items": [
                     {
@@ -3672,7 +2724,7 @@
                         }
                       ],
                       "cooldown": 28800,
-                      "id": "peterBunAndRunOutfit.default",
+                      "id": "henrySportySundayOutfit.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -3687,20 +2739,20 @@
           }
         },
         "kind": 4,
-        "targetCity": "alohahawaii",
+        "targetCity": "venicebeach",
         "markAsSeen": true,
         "gameMode": "default_marathon"
       },
-      "s104_ireland_mrt": {
-        "challengeId": "s104_ireland_mrt",
+      "s105_marrakesh_mrt": {
+        "challengeId": "s105_marrakesh_mrt",
         "challengeType": "ui.challengeCity.marathon",
         "challengeServerId": "marathon",
-        "currentSetEntryID": "s104_ireland_mrt",
-        "currentSetEntryTimeSlot": "season_s104_ireland_mrt",
+        "currentSetEntryID": "s105_marrakesh_mrt",
+        "currentSetEntryTimeSlot": "season_s105_marrakesh_mrt",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -3728,7 +2780,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3766,7 +2818,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3787,7 +2839,7 @@
                   "value": 1,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3802,7 +2854,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3832,7 +2884,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3862,7 +2914,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3892,7 +2944,7 @@
                   "value": 150,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3922,7 +2974,7 @@
                   "value": 250,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -3951,7 +3003,7 @@
                   "value": 4,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -3966,7 +3018,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           }
@@ -3989,7 +3041,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "peterBunAndRunOutfit.default",
+                "value": "henrySportySundayOutfit.default",
                 "meta": {
                   "items": [
                     {
@@ -4001,7 +3053,7 @@
                         }
                       ],
                       "cooldown": 28800,
-                      "id": "peterBunAndRunOutfit.default",
+                      "id": "henrySportySundayOutfit.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -4016,20 +3068,20 @@
           }
         },
         "kind": 4,
-        "targetCity": "ireland",
+        "targetCity": "marrakesh",
         "markAsSeen": true,
         "gameMode": "default_marathon"
       },
-      "s104_shenzhen_mrt": {
-        "challengeId": "s104_shenzhen_mrt",
+      "s105_seoul_mrt": {
+        "challengeId": "s105_seoul_mrt",
         "challengeType": "ui.challengeCity.marathon",
         "challengeServerId": "marathon",
-        "currentSetEntryID": "s104_shenzhen_mrt",
-        "currentSetEntryTimeSlot": "season_s104_shenzhen_mrt",
+        "currentSetEntryID": "s105_seoul_mrt",
+        "currentSetEntryTimeSlot": "season_s105_seoul_mrt",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -4057,7 +3109,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4095,7 +3147,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4116,7 +3168,7 @@
                   "value": 1,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -4131,7 +3183,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4161,7 +3213,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4191,7 +3243,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4221,7 +3273,7 @@
                   "value": 150,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4251,7 +3303,7 @@
                   "value": 250,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4280,7 +3332,7 @@
                   "value": 4,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -4295,7 +3347,7 @@
                   "value": 500,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           }
@@ -4318,7 +3370,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "peterBunAndRunOutfit.default",
+                "value": "henrySportySundayOutfit.default",
                 "meta": {
                   "items": [
                     {
@@ -4330,7 +3382,7 @@
                         }
                       ],
                       "cooldown": 28800,
-                      "id": "peterBunAndRunOutfit.default",
+                      "id": "henrySportySundayOutfit.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -4345,20 +3397,20 @@
           }
         },
         "kind": 4,
-        "targetCity": "shenzhen",
+        "targetCity": "seoul",
         "markAsSeen": true,
         "gameMode": "default_marathon"
       },
-      "s104_shenzhen_mh": {
-        "challengeId": "s104_shenzhen_mh",
+      "s105_houston_mh": {
+        "challengeId": "s105_houston_mh",
         "challengeType": "ui.mystery_hurdle.title",
         "challengeServerId": "mystery_hurdles",
-        "currentSetEntryID": "s104_shenzhen_mh",
-        "currentSetEntryTimeSlot": "season_s104_shenzhen_mh",
+        "currentSetEntryID": "s105_houston_mh",
+        "currentSetEntryTimeSlot": "season_s105_houston_mh",
         "currentScore": 2147483647,
         "highScore": 2147483647,
         "startDate": "1970-01-01T00:00:00Z",
-        "endDate": "2025-08-19T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
         "rewardStates": [
           {
             "State": 10,
@@ -4386,7 +3438,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4416,7 +3468,7 @@
                   "value": 300,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4446,7 +3498,7 @@
                   "value": 100,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4476,7 +3528,7 @@
                   "value": 150,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4497,7 +3549,7 @@
                   "value": 3,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -4512,7 +3564,7 @@
                   "value": 800,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4542,7 +3594,7 @@
                   "value": 200,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4563,7 +3615,7 @@
                   "value": 1,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -4578,7 +3630,7 @@
                   "value": 400,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4616,7 +3668,7 @@
                   "value": 550,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4637,7 +3689,7 @@
                   "value": 1,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -4652,7 +3704,7 @@
                   "value": 600,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4681,7 +3733,7 @@
                   "value": 5,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               },
               {
                 "fallbackReward": {
@@ -4696,7 +3748,7 @@
                   "value": 800,
                   "claimed": true
                 },
-                "timeslot": "season_S104"
+                "timeslot": "season_S105"
               }
             ]
           },
@@ -4734,7 +3786,7 @@
               {
                 "type": "SelectedCharacter",
                 "operator": "Equal",
-                "value": "peterBunAndRunOutfit.default",
+                "value": "henrySportySundayOutfit.default",
                 "meta": {
                   "items": [
                     {
@@ -4746,7 +3798,7 @@
                         }
                       ],
                       "cooldown": 28800,
-                      "id": "peterBunAndRunOutfit.default",
+                      "id": "henrySportySundayOutfit.default",
                       "limitRuns": 1,
                       "skipCostKeys": [
                         16
@@ -4761,9 +3813,921 @@
           }
         },
         "kind": 4,
-        "targetCity": "shenzhen",
+        "targetCity": "houston",
         "markAsSeen": true,
         "gameMode": "mystery_hurdles_default"
+      },
+      "s105_oxford_st_tta": {
+        "challengeId": "s105_oxford_st_tta",
+        "challengeType": "ui.challenge.back_to_school",
+        "challengeServerId": "staged_tta",
+        "currentSetEntryID": "s105_oxford_st_tta",
+        "currentSetEntryTimeSlot": "season_s105_oxford_st_tta",
+        "currentScore": 2147483647,
+        "highScore": 2147483647,
+        "startDate": "1970-01-01T00:00:00Z",
+        "endDate": "2025-09-01T00:00:00Z",
+        "rewardStates": [
+          {
+            "State": 10,
+            "RequiredScore": 10000,
+            "OriginalRequiredScore": 10000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 3,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 10000,
+            "OriginalRequiredScore": 10000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 30000,
+            "OriginalRequiredScore": 30000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 200,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 200,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 40000,
+            "OriginalRequiredScore": 40000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 60000,
+            "OriginalRequiredScore": 60000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 4,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 200,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 200,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 90000,
+            "OriginalRequiredScore": 90000,
+            "Rewards": [
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 110000,
+            "OriginalRequiredScore": 110000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 200,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 200,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 110000,
+            "OriginalRequiredScore": 110000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 140000,
+            "OriginalRequiredScore": 140000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 300,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 300,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 170000,
+            "OriginalRequiredScore": 170000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 200000,
+            "OriginalRequiredScore": 200000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 350,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 350,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 240000,
+            "OriginalRequiredScore": 240000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 5,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 600,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 600,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 270000,
+            "OriginalRequiredScore": 270000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 150,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 150,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 270000,
+            "OriginalRequiredScore": 270000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 300000,
+            "OriginalRequiredScore": 300000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 3,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 250,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 250,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 320000,
+            "OriginalRequiredScore": 320000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 350000,
+            "OriginalRequiredScore": 350000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 350,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 350,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 380000,
+            "OriginalRequiredScore": 380000,
+            "Rewards": [
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 600,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 600,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 400000,
+            "OriginalRequiredScore": 400000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 150,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 150,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 400000,
+            "OriginalRequiredScore": 400000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 430000,
+            "OriginalRequiredScore": 430000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 4,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 400,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 480000,
+            "OriginalRequiredScore": 480000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 100,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 530000,
+            "OriginalRequiredScore": 530000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 5,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 250,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 250,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 580000,
+            "OriginalRequiredScore": 580000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 2,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 1000,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 1000,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 600000,
+            "OriginalRequiredScore": 600000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "ScoreBoosters",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 300,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 300,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 620000,
+            "OriginalRequiredScore": 620000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "Hoverboards",
+                  "type": "Currency",
+                  "value": 3,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 670000,
+            "OriginalRequiredScore": 670000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "HeadStarts",
+                  "type": "Currency",
+                  "value": 1,
+                  "claimed": true
+                }
+              },
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 720000,
+            "OriginalRequiredScore": 720000,
+            "Rewards": [
+              {
+                "fallbackReward": {
+                  "id": "Coins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "reward": {
+                  "id": "EventCoins",
+                  "type": "Currency",
+                  "value": 500,
+                  "claimed": true
+                },
+                "timeslot": "season_S105"
+              }
+            ]
+          },
+          {
+            "State": 10,
+            "RequiredScore": 780000,
+            "OriginalRequiredScore": 780000,
+            "Rewards": [
+              {
+                "reward": {
+                  "id": "brainstormer",
+                  "type": "Hoverboard",
+                  "value": 1,
+                  "claimed": true
+                }
+              }
+            ]
+          }
+        ],
+        "rewardUnlockOffset": [
+          24,
+          48,
+          72,
+          72
+        ],
+        "matchmakingId": "dailyChallenge",
+        "requirements": {
+          "access": {
+            "data": [
+              {
+                "operator": "GreaterEqual",
+                "type": "BaseMultiplier",
+                "value": "4"
+              }
+            ],
+            "operator": "And"
+          },
+          "participation": {
+            "data": [
+              {
+                "type": "SelectedCharacter",
+                "operator": "Equal",
+                "value": "henrySportySundayOutfit.default,tara.default",
+                "meta": {
+                  "items": [
+                    {
+                      "alternativeSkipCost": [
+                        {
+                          "adPlacement": "SkipCharacterCooldown",
+                          "currencyType": "Ads",
+                          "value": 1
+                        }
+                      ],
+                      "cooldown": 7200,
+                      "id": "henrySportySundayOutfit.default",
+                      "limitRuns": 1,
+                      "skipCostKeys": [
+                        16
+                      ],
+                      "tryable": true
+                    },
+                    {
+                      "alternativeSkipCost": [
+                        {
+                          "adPlacement": "SkipCharacterCooldown",
+                          "currencyType": "Ads",
+                          "value": 1
+                        }
+                      ],
+                      "cooldown": 1800,
+                      "id": "tara.default",
+                      "limitRuns": 1,
+                      "skipCostKeys": [
+                        16
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "operator": "And"
+          }
+        },
+        "kind": 4,
+        "targetCity": "oxford",
+        "markAsSeen": true,
+        "gameMode": "timeLimited02"
       }
     }
   }

@@ -34,6 +34,14 @@
       "hollywood_frame": {
         "id": "hollywood_frame",
         "isSeen": true
+      },
+      "oxford_green_frame": {
+        "id": "oxford_green_frame",
+        "isSeen": true
+      },
+      "oxford_red_frame": {
+        "id": "oxford_red_frame",
+        "isSeen": true
       }
     }
   }

@@ -574,14 +574,14 @@
       },
       "achievement_32": {
         "id": "achievement_32",
-        "progress": 23,
-        "highestProgress": 23,
+        "progress": 9,
+        "highestProgress": 9,
         "goals": [
           1,
-          3,
+          2,
+          4,
           7,
-          14,
-          23
+          9
         ],
         "claimState": [
           true,

@@ -8,22 +8,25 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S104",
+    "newSeasonPopupShownForID": "season_S105",
     "localMailsSeenEntries": {
       "s104_subwayclassic_badges": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_challenges": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_floorislava": "1970-01-01T00:00:00Z",
+      "s105_oxford_backtoschool_challenge": "1970-01-01T00:00:00Z",
+      "s105_oxford_challenges": "1970-01-01T00:00:00Z",
+      "s105_oxford_floorislava": "1970-01-01T00:00:00Z",
+      "s105_oxford_next_season": "1970-01-01T00:00:00Z",
+      "s105_oxford_one_run": "1970-01-01T00:00:00Z",
+      "s105_oxford_plantinvasion": "1970-01-01T00:00:00Z",
+      "s105_oxford_seasonhunt": "1970-01-01T00:00:00Z",
+      "s105_oxford_survey_planet_play_android": "1970-01-01T00:00:00Z",
       "s104_subwayclassic_giveaway_india": "1970-01-01T00:00:00Z",
       "s104_subwayclassic_giveaway_indonesia": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_next_season": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_one_run": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_plantinvasion": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_season_challenge": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_seasonhunt": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_updateGame_android": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_welcome": "1970-01-01T00:00:00Z"
+      "s105_oxford_survey_planet_play_ios": "1970-01-01T00:00:00Z",
+      "s105_oxford_teamtakeover_01": "1970-01-01T00:00:00Z",
+      "s105_oxford_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s105_oxford_updateGame_android": "1970-01-01T00:00:00Z",
+      "s105_oxford_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s105_oxford_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -31,6 +34,46 @@
     "popupSeenInfo": {},
     "lastSeenPopupTime": "1970-01-01T00:00:00Z",
     "promotionsSeenInfo": {
+      "tara_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "soultea_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "too_cool_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "finlay_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "changeling_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "cupid_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "beelzebundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "footy_buddies_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "welcomepack_skipAds_tickets_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
@@ -41,47 +84,12 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S104_newStuff": {
+      "S105_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S104_crew_bonus": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "whiterabbit_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "spooksy_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "cutesy_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "ucb_zayn_stealth_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "ucb_nick_speed_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "deluxe_deal_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "easter_robots_bundle": {
+      "S105_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
