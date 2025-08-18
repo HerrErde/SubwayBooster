@@ -271,67 +271,67 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S105": {
-        "id": "collection_season_S105",
+      "collection_season_S106": {
+        "id": "collection_season_S106",
         "items": [
           {
-            "id": "logan.default",
+            "id": "loc.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 26460
+            "points": 27360
           },
           {
-            "id": "oniHime.default",
+            "id": "mala.missmosaicOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "principalsNightmare.default",
+            "id": "nikos.heroOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "lion.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "bigBoss.default",
+            "id": "hyperviper.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "fastandfestive.default",
+            "id": "roaringheart.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "ming.default",
+            "id": "sunny.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "tara.default",
+            "id": "rani.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "soul.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "cathy.visualkeiOutfit",
+            "id": "finn.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
@@ -344,6 +344,10 @@
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

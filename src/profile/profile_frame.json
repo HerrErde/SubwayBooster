@@ -3,6 +3,14 @@
   "data": {
     "selected": "default_frame",
     "owned": {
+      "oxford_green_frame": {
+        "id": "oxford_green_frame",
+        "isSeen": true
+      },
+      "oxford_red_frame": {
+        "id": "oxford_red_frame",
+        "isSeen": true
+      },
       "default_frame": {
         "id": "default_frame",
         "isSeen": true
@@ -33,14 +41,6 @@
       },
       "hollywood_frame": {
         "id": "hollywood_frame",
-        "isSeen": true
-      },
-      "oxford_green_frame": {
-        "id": "oxford_green_frame",
-        "isSeen": true
-      },
-      "oxford_red_frame": {
-        "id": "oxford_red_frame",
         "isSeen": true
       }
     }

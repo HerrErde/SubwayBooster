@@ -8,9 +8,8 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S105",
+    "newSeasonPopupShownForID": "season_S106",
     "localMailsSeenEntries": {
-      "s104_subwayclassic_badges": "1970-01-01T00:00:00Z",
       "s105_oxford_backtoschool_challenge": "1970-01-01T00:00:00Z",
       "s105_oxford_challenges": "1970-01-01T00:00:00Z",
       "s105_oxford_floorislava": "1970-01-01T00:00:00Z",
@@ -19,14 +18,27 @@
       "s105_oxford_plantinvasion": "1970-01-01T00:00:00Z",
       "s105_oxford_seasonhunt": "1970-01-01T00:00:00Z",
       "s105_oxford_survey_planet_play_android": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_giveaway_india": "1970-01-01T00:00:00Z",
-      "s104_subwayclassic_giveaway_indonesia": "1970-01-01T00:00:00Z",
       "s105_oxford_survey_planet_play_ios": "1970-01-01T00:00:00Z",
       "s105_oxford_teamtakeover_01": "1970-01-01T00:00:00Z",
       "s105_oxford_updateGame_amazon": "1970-01-01T00:00:00Z",
       "s105_oxford_updateGame_android": "1970-01-01T00:00:00Z",
       "s105_oxford_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s105_oxford_welcome": "1970-01-01T00:00:00Z"
+      "s105_oxford_welcome": "1970-01-01T00:00:00Z",
+      "s106_greece_8_ball_citytour": "1970-01-01T00:00:00Z",
+      "s106_greece_8_ball_citytour_reminder": "1970-01-01T00:00:00Z",
+      "s106_greece_8_ball_crosspromo": "1970-01-01T00:00:00Z",
+      "s106_greece_challenges": "1970-01-01T00:00:00Z",
+      "s106_greece_floorislava": "1970-01-01T00:00:00Z",
+      "s106_greece_next_season": "1970-01-01T00:00:00Z",
+      "s106_greece_one_run": "1970-01-01T00:00:00Z",
+      "s106_greece_plantinvasion": "1970-01-01T00:00:00Z",
+      "s106_greece_season_challenge": "1970-01-01T00:00:00Z",
+      "s106_greece_seasonhunt": "1970-01-01T00:00:00Z",
+      "s106_greece_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s106_greece_updateGame_android": "1970-01-01T00:00:00Z",
+      "s106_greece_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s106_greece_welcome": "1970-01-01T00:00:00Z",
+      "s106_us_labor_day": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -34,37 +46,37 @@
     "popupSeenInfo": {},
     "lastSeenPopupTime": "1970-01-01T00:00:00Z",
     "promotionsSeenInfo": {
-      "tara_bundle_promo": {
+      "sunny_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "soultea_bundle_promo": {
+      "dancing_galz_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "too_cool_bundle_promo": {
+      "atlantis_explorers_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "finlay_bundle_promo": {
+      "saru_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "changeling_bundle_promo": {
+      "takeflight_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "cupid_bundle": {
+      "legendary_team_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "beelzebundle_promo": {
+      "schools_out_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -84,12 +96,12 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S105_newStuff": {
+      "S106_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S105_crew_bonus": {
+      "S106_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

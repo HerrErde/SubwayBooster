@@ -23,12 +23,32 @@
         "id": "ballerinatricky_portrait",
         "isSeen": true
       },
+      "bobtheblob_graffiti_portrait": {
+        "id": "bobtheblob_graffiti_portrait",
+        "isSeen": true
+      },
+      "bobtheblob_illustration_portrait": {
+        "id": "bobtheblob_illustration_portrait",
+        "isSeen": true
+      },
+      "bobtheblob_jingleoutfit_illustration_portrait": {
+        "id": "bobtheblob_jingleoutfit_illustration_portrait",
+        "isSeen": true
+      },
+      "bobtheblob_slimeoutfit_illustration_portrait": {
+        "id": "bobtheblob_slimeoutfit_illustration_portrait",
+        "isSeen": true
+      },
       "pixeljake_portrait": {
         "id": "pixeljake_portrait",
         "isSeen": true
       },
       "fantasma_graffiti_portrait": {
         "id": "fantasma_graffiti_portrait",
+        "isSeen": true
+      },
+      "rochellerebelle_graffiti_portrait": {
+        "id": "rochellerebelle_graffiti_portrait",
         "isSeen": true
       },
       "boombot_portrait": {
@@ -79,6 +99,10 @@
         "id": "spike_portrait",
         "isSeen": true
       },
+      "skateboard_graffiti_portrait": {
+        "id": "skateboard_graffiti_portrait",
+        "isSeen": true
+      },
       "jake_illustration_portrait": {
         "id": "jake_illustration_portrait",
         "isSeen": true
@@ -111,28 +135,32 @@
         "id": "dog_graffiti_portrait",
         "isSeen": true
       },
+      "guard_graffiti_portrait": {
+        "id": "guard_graffiti_portrait",
+        "isSeen": true
+      },
+      "guard_illustration_portrait": {
+        "id": "guard_illustration_portrait",
+        "isSeen": true
+      },
+      "guard_pink_graffiti_portrait": {
+        "id": "guard_pink_graffiti_portrait",
+        "isSeen": true
+      },
+      "tara_graffiti_portrait": {
+        "id": "tara_graffiti_portrait",
+        "isSeen": true
+      },
       "alexandre_stanoutfit_portrait": {
         "id": "alexandre_stanoutfit_portrait",
         "isSeen": true
       },
-      "bobtheblob_graffiti_portrait": {
-        "id": "bobtheblob_graffiti_portrait",
-        "isSeen": true
-      },
-      "bobtheblob_illustration_portrait": {
-        "id": "bobtheblob_illustration_portrait",
-        "isSeen": true
-      },
-      "bobtheblob_jingleoutfit_illustration_portrait": {
-        "id": "bobtheblob_jingleoutfit_illustration_portrait",
-        "isSeen": true
-      },
-      "bobtheblob_slimeoutfit_illustration_portrait": {
-        "id": "bobtheblob_slimeoutfit_illustration_portrait",
-        "isSeen": true
-      },
       "chickenjake_illustration_portrait": {
         "id": "chickenjake_illustration_portrait",
+        "isSeen": true
+      },
+      "whiterabbit_illustration_portrait": {
+        "id": "whiterabbit_illustration_portrait",
         "isSeen": true
       },
       "rebecaroar_illustration_portrait": {
@@ -145,10 +173,6 @@
       },
       "valentina_illustration_portrait": {
         "id": "valentina_illustration_portrait",
-        "isSeen": true
-      },
-      "thursday_lilimpoutfit_illustration_portrait": {
-        "id": "thursday_lilimpoutfit_illustration_portrait",
         "isSeen": true
       },
       "missmaia_illustration_portrait": {
@@ -183,6 +207,10 @@
         "id": "sindri_illustration_portrait",
         "isSeen": true
       },
+      "george_illustration_portrait": {
+        "id": "george_illustration_portrait",
+        "isSeen": true
+      },
       "frank_illustration_portrait": {
         "id": "frank_illustration_portrait",
         "isSeen": true
@@ -203,6 +231,10 @@
         "id": "berta_illustration_portrait",
         "isSeen": true
       },
+      "thursday_lilimpoutfit_illustration_portrait": {
+        "id": "thursday_lilimpoutfit_illustration_portrait",
+        "isSeen": true
+      },
       "pins_illustration_portrait": {
         "id": "pins_illustration_portrait",
         "isSeen": true
@@ -219,36 +251,16 @@
         "id": "soul_illustration_portrait",
         "isSeen": true
       },
-      "rochellerebelle_graffiti_portrait": {
-        "id": "rochellerebelle_graffiti_portrait",
+      "sunny_graffiti_portrait": {
+        "id": "sunny_graffiti_portrait",
         "isSeen": true
       },
       "stella_graffiti_portrait": {
         "id": "stella_graffiti_portrait",
         "isSeen": true
       },
-      "george_illustration_portrait": {
-        "id": "george_illustration_portrait",
-        "isSeen": true
-      },
-      "guard_graffiti_portrait": {
-        "id": "guard_graffiti_portrait",
-        "isSeen": true
-      },
-      "guard_illustration_portrait": {
-        "id": "guard_illustration_portrait",
-        "isSeen": true
-      },
-      "guard_pink_graffiti_portrait": {
-        "id": "guard_pink_graffiti_portrait",
-        "isSeen": true
-      },
-      "tara_graffiti_portrait": {
-        "id": "tara_graffiti_portrait",
-        "isSeen": true
-      },
-      "whiterabbit_illustration_portrait": {
-        "id": "whiterabbit_illustration_portrait",
+      "eightball_jake_illustration_portrait": {
+        "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       }
     }

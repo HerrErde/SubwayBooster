@@ -3014,6 +3014,36 @@
           ]
         }
       },
+      "tara": {
+        "value": {
+          "id": "tara",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "henry": {
+        "value": {
+          "id": "henry",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "sunny": {
+        "value": {
+          "id": "sunny",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
@@ -3044,6 +3074,16 @@
           ]
         }
       },
+      "eightBallJake": {
+        "value": {
+          "id": "eightBallJake",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "fantasmaCarnavalOutfit": {
         "value": {
           "id": "fantasmaCarnavalOutfit",
@@ -3067,16 +3107,6 @@
       "haliGummyBearOutfit": {
         "value": {
           "id": "haliGummyBearOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "henry": {
-        "value": {
-          "id": "henry",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3164,9 +3194,9 @@
           ]
         }
       },
-      "tara": {
+      "thunderUrbanHeroOutfit": {
         "value": {
-          "id": "tara",
+          "id": "thunderUrbanHeroOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3174,9 +3204,19 @@
           ]
         }
       },
-      "thunderUrbanHeroOutfit": {
+      "valentinaPinkAphroditeOutfit": {
         "value": {
-          "id": "thunderUrbanHeroOutfit",
+          "id": "valentinaPinkAphroditeOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "vivienneNightHecateOutfit": {
+        "value": {
+          "id": "vivienneNightHecateOutfit",
           "ownedOutfits": [
             {
               "value": "default"

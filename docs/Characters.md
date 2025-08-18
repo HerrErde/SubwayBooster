@@ -239,3 +239,7 @@
 | Asher | `asher` |
 | White Rabbit | `whiteRabbit` |
 | Peter | `peter` |
+| Tara | `tara` |
+| Henry | `henry` |
+| Sunny | `sunny` |
+| 8 Ball Jake | `asherSplasherOutfit` |

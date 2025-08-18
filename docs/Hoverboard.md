@@ -276,3 +276,9 @@
 | Street Style | `streetStyle` |
 | Roll & Race | `roll&Race` |
 | Midsummer | `midsummer` |
+| Business Time | `businessTime` |
+| Rabbit Racer | `rabbitRacer` |
+| Circuit Bunny | `circuitBunny` |
+| E-Racer | `eRacer` |
+| Brainstormer | `brainstormer` |
+| Principal's Nightmare | `principalsNightmare` |
