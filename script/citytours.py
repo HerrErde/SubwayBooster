@@ -1,7 +1,7 @@
 import json
 
 input_file_path = "temp/input/citytours_data.json"
-output_file_path = "src/profile/city_tours.json"
+output_file_path = "src/profile/city_tour.json"
 
 try:
     with open(input_file_path, "r", encoding="utf-8") as data_file:
