@@ -63,15 +63,16 @@ def challenge():
                     "meta": part_data_meta,
                 }
 
-            partreq = {
-                "data": [participation],
-                "operator": operator,
-            }
+                partreq = {
+                    "data": [participation],
+                    "operator": operator,
+                }
 
             requirements = {
                 "access": challenge["accessRequirement"],
-                "participation": partreq,
             }
+            if part_req:
+                requirements["participation"] = [partreq] if part_req else {}
 
         challengeStates[challenge_id] = {
             "challengeId": challenge_id,
