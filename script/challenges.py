@@ -51,8 +51,8 @@ def challenge():
 
             part_req = challenge.get("participationRequirement", {})
 
-            if isinstance(part_req, dict):
-                part_data = part_req.get("data", [])[0]
+            if isinstance(part_req, dict) and part_req.get("data"):
+                part_data = part_req["data"][0]
                 operator = part_req.get("operator")
                 part_data_meta = part_data.get("meta", [])
 
@@ -68,11 +68,14 @@ def challenge():
                     "operator": operator,
                 }
 
-            requirements = {
-                "access": challenge["accessRequirement"],
-            }
-            if part_req:
-                requirements["participation"] = [partreq] if part_req else {}
+                requirements = {
+                    "access": challenge.get("accessRequirement", {}),
+                    "participation": [partreq],
+                }
+            else:
+                requirements = {
+                    "access": challenge.get("accessRequirement", {}),
+                }
 
         challengeStates[challenge_id] = {
             "challengeId": challenge_id,
