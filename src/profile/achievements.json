@@ -651,6 +651,30 @@
           true
         ],
         "markAsViewed": true
+      },
+      "achievement_36": {
+        "id": "achievement_36",
+        "progress": 5,
+        "highestProgress": 5,
+        "goals": [
+          5
+        ],
+        "claimState": [
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_37": {
+        "id": "achievement_37",
+        "progress": 3,
+        "highestProgress": 3,
+        "goals": [
+          3
+        ],
+        "claimState": [
+          true
+        ],
+        "markAsViewed": true
       }
     }
   }

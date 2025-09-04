@@ -5,11 +5,15 @@
     "chainOffers": {},
     "completedChainOffers": [
       "s104_s105_chain_offers_promo",
-      "s105_chain_offers_promo_1",
-      "s105_chain_offers_promo_2",
       "s106_chain_offers_promo_1",
       "s106_chain_offers_promo_2",
-      "s106_s107_chain_offers_promo"
+      "s106_s107_chain_offers_promo",
+      "s107_chain_offers_promo_1",
+      "s107_chain_offers_promo_2",
+      "s107_chain_offers_promo_3",
+      "s107_chain_offers_promo_4",
+      "s107_chain_offers_promo_5",
+      "s107_s108_chain_offers_promo"
     ]
   }
 }

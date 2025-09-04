@@ -3333,11 +3333,17 @@
           }
         }
       },
-      "eightBall": {
+      "theDelyreious": {
         "value": {
-          "id": "eightBall",
+          "id": "theDelyreious",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }
@@ -3356,17 +3362,50 @@
           }
         }
       },
-      "theDelyreious": {
+      "eightBall": {
         "value": {
-          "id": "theDelyreious",
+          "id": "eightBall",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "finishLine": {
+        "value": {
+          "id": "finishLine",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
             "superJump": {
               "value": true
+            }
+          }
+        }
+      },
+      "motorMania": {
+        "value": {
+          "id": "motorMania",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
             },
-            "highSpeed": {
+            "doubleJump": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "pieceOfCake": {
+        "value": {
+          "id": "pieceOfCake",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }

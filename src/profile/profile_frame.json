@@ -7,6 +7,10 @@
         "id": "oxford_green_frame",
         "isSeen": true
       },
+      "hollywood_frame": {
+        "id": "hollywood_frame",
+        "isSeen": true
+      },
       "oxford_red_frame": {
         "id": "oxford_red_frame",
         "isSeen": true
@@ -39,8 +43,12 @@
         "id": "birthday2024_frame",
         "isSeen": true
       },
-      "hollywood_frame": {
-        "id": "hollywood_frame",
+      "brawlstars_frame": {
+        "id": "brawlstars_frame",
+        "isSeen": true
+      },
+      "brawlstars_gems_frame": {
+        "id": "brawlstars_gems_frame",
         "isSeen": true
       }
     }

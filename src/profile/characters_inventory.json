@@ -3074,6 +3074,66 @@
           ]
         }
       },
+      "bsBeardedGuy": {
+        "value": {
+          "id": "bsBeardedGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsElegantGirl": {
+        "value": {
+          "id": "bsElegantGirl",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsFastGirl": {
+        "value": {
+          "id": "bsFastGirl",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsPointyGuy": {
+        "value": {
+          "id": "bsPointyGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsSkullGuy": {
+        "value": {
+          "id": "bsSkullGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "bsToughGuy": {
+        "value": {
+          "id": "bsToughGuy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "eightBallJake": {
         "value": {
           "id": "eightBallJake",

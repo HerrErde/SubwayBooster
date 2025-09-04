@@ -282,3 +282,9 @@
 | E-Racer | `eRacer` |
 | Brainstormer | `brainstormer` |
 | Principal's Nightmare | `principalsNightmare` |
+| The De-lyre-ious | `theDelyreious` |
+| Moon Biter | `moonBiter` |
+| 8 Ball | `eightBall` |
+| Piece of Cake | None |
+| Finish Line | None |
+| Motor Mania | None |

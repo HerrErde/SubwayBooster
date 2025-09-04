@@ -8,37 +8,25 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S106",
+    "newSeasonPopupShownForID": "season_S107",
     "localMailsSeenEntries": {
-      "s105_oxford_backtoschool_challenge": "1970-01-01T00:00:00Z",
-      "s105_oxford_challenges": "1970-01-01T00:00:00Z",
-      "s105_oxford_floorislava": "1970-01-01T00:00:00Z",
-      "s105_oxford_next_season": "1970-01-01T00:00:00Z",
-      "s105_oxford_one_run": "1970-01-01T00:00:00Z",
-      "s105_oxford_plantinvasion": "1970-01-01T00:00:00Z",
-      "s105_oxford_seasonhunt": "1970-01-01T00:00:00Z",
-      "s105_oxford_survey_planet_play_android": "1970-01-01T00:00:00Z",
-      "s105_oxford_survey_planet_play_ios": "1970-01-01T00:00:00Z",
-      "s105_oxford_teamtakeover_01": "1970-01-01T00:00:00Z",
-      "s105_oxford_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s105_oxford_updateGame_android": "1970-01-01T00:00:00Z",
-      "s105_oxford_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s105_oxford_welcome": "1970-01-01T00:00:00Z",
-      "s106_greece_8_ball_citytour": "1970-01-01T00:00:00Z",
-      "s106_greece_8_ball_citytour_reminder": "1970-01-01T00:00:00Z",
-      "s106_greece_8_ball_crosspromo": "1970-01-01T00:00:00Z",
-      "s106_greece_challenges": "1970-01-01T00:00:00Z",
-      "s106_greece_floorislava": "1970-01-01T00:00:00Z",
-      "s106_greece_next_season": "1970-01-01T00:00:00Z",
-      "s106_greece_one_run": "1970-01-01T00:00:00Z",
-      "s106_greece_plantinvasion": "1970-01-01T00:00:00Z",
-      "s106_greece_season_challenge": "1970-01-01T00:00:00Z",
-      "s106_greece_seasonhunt": "1970-01-01T00:00:00Z",
-      "s106_greece_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s106_greece_updateGame_android": "1970-01-01T00:00:00Z",
-      "s106_greece_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s106_greece_welcome": "1970-01-01T00:00:00Z",
-      "s106_us_labor_day": "1970-01-01T00:00:00Z"
+      "s107_brawlstars_season_ending": "1970-01-01T00:00:00Z",
+      "s107_brawl_besties_badge": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_welcome": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_challenge": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_floor_is_lava": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_next_season": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_plantinvasion": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_showdown_play": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_star_badge": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_updateGame_android": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s107_onerun_fantasyfest_mrt": "1970-01-01T00:00:00Z",
+      "s107_onerun_hollywood_mrt": "1970-01-01T00:00:00Z",
+      "s107_onerun_tokyo_mrt": "1970-01-01T00:00:00Z",
+      "s107_subwayclassic_seasonhunt": "1970-01-01T00:00:00Z",
+      "s107_brawlstars_crosspromo": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -46,42 +34,87 @@
     "popupSeenInfo": {},
     "lastSeenPopupTime": "1970-01-01T00:00:00Z",
     "promotionsSeenInfo": {
-      "sunny_bundle_promo": {
+      "promo_two_bundles_keys_50_20": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "dancing_galz_bundle_promo": {
+      "promo_two_bundles_keys_50_20_v2": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "atlantis_explorers_bundle_promo": {
+      "promo_two_bundles_keys_50_20_v3": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "saru_bundle_promo": {
+      "promo_two_bundles_coins_20_10": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "takeflight_bundle_promo": {
+      "promo_two_bundles_coins_20_10_v2": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "legendary_team_promo": {
+      "bs_spike_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "schools_out_bundle_promo": {
+      "bs_dynamike_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "footy_buddies_bundle_promo": {
+      "bs_poco_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "veggie_might_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "fearless_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "bs_portraits_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sportsquad_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "super_runners_party_1_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "cute_duo_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "future_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "gold_friday_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "fullmoon_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -96,12 +129,12 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S106_newStuff": {
+      "S107_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S106_crew_bonus": {
+      "S107_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -127,21 +160,6 @@
         "opened": true
       },
       "3_offers_skip_ad_tickets": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "promo_two_bundles_keys_50_20": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "promo_two_bundles_coins_20_10": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "promo_two_bundles_keys_50_20_v2": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
