@@ -243,9 +243,9 @@
 | Henry | `henry` |
 | Sunny | `sunny` |
 | 8 Ball Jake | `asherSplasherOutfit` |
-| Piper | None |
-| El Primo | None |
-| Spike | None |
-| Dynamike | None |
-| Poco | None |
-| Max | None |
+| Piper | `bsElegantGirl` |
+| El Primo | `bsToughGuy` |
+| Spike | `bsPointyGuy` |
+| Dynamike | `bsBeardedOldGuy` |
+| Poco | `bsSkullGuy` |
+| Max | `bsFastGirl` |
