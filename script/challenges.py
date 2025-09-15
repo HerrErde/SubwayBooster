@@ -1,21 +1,13 @@
 import json
-from datetime import datetime, timedelta, timezone
 
 kind_mapping = {"Daily": 1, "Meter": 2, "City": 4}
 
 
-def gen_enddate():
-    future_date = datetime.now(timezone.utc) + timedelta(weeks=4)
-    future_date = future_date.replace(hour=0, minute=0, second=0, microsecond=0)
-    formatted_date = future_date.strftime("%Y-%m-%dT%H:%M")
-    return formatted_date
-
-
 def challenge():
     with open("temp/input/challenges_data.json", "r") as data_file:
-        challenge_data = json.load(data_file)
-
-    enddate = gen_enddate()
+        data = json.load(data_file)
+        challenge_data = data.get("challenges")
+        eliteChallenges_data = data.get("eliteChallenges")
 
     challengeStates = {}
 
@@ -27,7 +19,7 @@ def challenge():
         for rewardTier in rewardTiers:
             requiredScore = rewardTier["requiredScore"]
             rewards = rewardTier["rewards"]
-            rewards = rewardTier["rewards"]
+            groupId = rewardTier.get("groupId", None)
 
             rewardList = []
 
@@ -35,74 +27,104 @@ def challenge():
             for reward in rewards:
                 if "reward" in reward:
                     reward["reward"]["claimed"] = True
+
+                    """
+                    # if EventCoins, force timeslot
+                    if reward["reward"].get("id") == "EventCoins":
+                        reward["timeslot"] = "season_S107"
+                    """
+
                 if "fallbackReward" in reward:
                     reward["fallbackReward"]["claimed"] = True
 
                 rewardList.append(reward)
 
-            state = {
-                "State": 10,
-                "RequiredScore": requiredScore,
-                "OriginalRequiredScore": requiredScore,
-                "Rewards": rewardList,
-            }
+            state = {}
+
+            if groupId:
+                state["GroupId"] = groupId
+
+            state.update(
+                {
+                    "State": 10,
+                    "RequiredScore": requiredScore,
+                    "OriginalRequiredScore": requiredScore,
+                    "Rewards": rewardList,
+                }
+            )
 
             rewardStates.append(state)
 
             part_req = challenge.get("participationRequirement", {})
 
+            requirements = {
+                "access": challenge.get("accessRequirement", {}),
+            }
+            if challenge.get("visibilityRequirement"):
+                requirements["visibility"] = challenge.get("visibilityRequirement", {})
+
             if isinstance(part_req, dict) and part_req.get("data"):
-                part_data = part_req["data"][0]
-                operator = part_req.get("operator")
-                part_data_meta = part_data.get("meta", [])
 
-                participation = {
-                    "type": part_data.get("type"),
-                    "operator": part_data.get("operator"),
-                    "value": part_data.get("value"),
-                    "meta": part_data_meta,
-                }
-
-                partreq = {
-                    "data": [participation],
-                    "operator": operator,
-                }
-
-                requirements = {
-                    "access": challenge.get("accessRequirement", {}),
-                    "participation": [partreq],
-                }
-            else:
-                requirements = {
-                    "access": challenge.get("accessRequirement", {}),
-                }
+                requirements["participation"] = part_req
 
         challengeStates[challenge_id] = {
             "challengeId": challenge_id,
             "challengeType": challenge["headerTitleKey"],
             "challengeServerId": challenge["serverId"],
-            "currentSetEntryID": challenge_id,
-            "currentSetEntryTimeSlot": f"season_{challenge_id}",
+            "currentSetEntryID": challenge["currentSetEntryID"],
+            "currentSetEntryTimeSlot": challenge["currentSetEntryTimeSlot"],
             "currentScore": 2147483647,
             "highScore": 2147483647,
+            "lastSeenScore": 2147483647,
             "startDate": "1970-01-01T00:00:00Z",
-            # "endDate": "9999-12-31T00:00:00Z",
-            "endDate": f"{enddate}:00Z",
-            # "sunsetPeriodInSeconds": 604800,
-            # "multiplierOnStart": 1,
+            # "startDate": f"{startdate}:00Z",
+            "endDate": "9999-12-31T00:00:00Z",
+            # "endDate": f"{enddate}:00Z",
+            "sunsetPeriodInSeconds": challenge["sunsetPeriod"],
+            # "multiplierOnStart": 39,
             "rewardStates": rewardStates,
             "rewardUnlockOffset": challenge["rewardUnlockOffset"],
+            # "requirementsMultiplier": 1,
+            # "roundingValue": 1,
+            # "successParameter": 6,
+            "successBehaviour": 1,
             "matchmakingId": challenge["matchmakingId"],
+            "endAccess": -1,
             "requirements": requirements,
             "kind": kind_mapping.get(challenge["kind"]),
             "targetCity": challenge["targetCity"],
             "markAsSeen": True,
+            "accessed": True,
+            "lastInteractionTime": "2025-09-05T01:00:00Z",
+            # "lastInteractionTime": "1970-01-01T00:00:00Z",
             "gameMode": challenge["gameMode"],
+            # "createdInMinorVersion": 52,
+            # "winStreak": 0,
+            # "EventState": 0,
         }
+
+        if challenge["skipStageCost"]:
+            state["skipStageCost"] = challenge["skipStageCost"]
+
+        if challenge_id == "dailyChallenge":
+
+            challengeStates[challenge_id]["default"] = True
+
+            # Stays here for now, might be needed later
+            """
+            elite = eliteChallenges_data.get("daily_challenge_elite_tiers", {})
+            challengeStates[challenge_id]["eliteChallenge"] = {
+                "id": elite.get("id"),
+                "reviveHint": elite.get("reviveHint"),
+                "rewardTiers": elite.get("tiers"),
+                "unlockingValue": elite.get("unlockingValue", 1000000),
+                "milestoneDisplayData": elite.get("milestone"),
+            }
+            """
 
     data = {
         "lastSaved": "1970-01-01T00:00:00Z",
-        "patchVersion": 1,
+        "patchVersion": 2,
         "challengeStates": challengeStates,
     }
 
