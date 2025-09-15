@@ -57,6 +57,7 @@ jobs:
           python script/chainoffers.py
           python script/ui_seen.py
           python script/citytours.py
+          python script/upgrades.py
 
       - name: increase version
         run: python script/update.py ${{steps.var.outputs.version}}

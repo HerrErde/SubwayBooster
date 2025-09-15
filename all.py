@@ -56,6 +56,8 @@ def get_scripts(version, onlydownload, nodownload, zipfiles):
         ["script/quests.py"],
         ["script/chainoffers.py"],
         ["script/ui_seen.py"],
+        ["script/citytours.py"],
+        ["script/upgrades.py"],
         ["script/update.py", version.replace("-", ".")],
         ["script/convert.py"],
     ]
