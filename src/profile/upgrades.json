@@ -2,15 +2,16 @@
   "version": 3,
   "data": {
     "lastSaved": "1970-01-01T00:00:00Z",
-    "patchVersion": 1,
+    "patchVersion": 2,
     "scoreModifiers": {
       "permanent_score_multiplier": {
         "value": {
           "id": "permanent_score_multiplier",
           "type": 2,
           "subType": 3,
-          "value": 7
-        }
+          "value": 5
+        },
+        "contextType": 1
       },
       "permanent_score_multiplier_1": {
         "value": {
@@ -18,7 +19,8 @@
           "type": 2,
           "subType": 3,
           "value": 1
-        }
+        },
+        "contextType": 1
       },
       "permanent_score_multiplier_3": {
         "value": {
@@ -26,7 +28,8 @@
           "type": 2,
           "subType": 3,
           "value": 3
-        }
+        },
+        "contextType": 1
       }
     },
     "currencyPickupModifiers": {
@@ -36,17 +39,58 @@
           "type": 0,
           "subType": 0,
           "value": 2
+        },
+        "contextType": 1
+      },
+      "race_booster_double_charge": {
+        "value": {
+          "id": "race_booster_double_charge",
+          "type": 0,
+          "subType": 101,
+          "value": 2
+        },
+        "expirationValue": 1,
+        "expirationType": 2,
+        "contextType": 1,
+        "contextData": {
+          "GameModeID": "race"
         }
       },
-      "permanent_score_multiplier": {
+      "race_booster_double_trophy": {
         "value": {
-          "id": "permanent_score_multiplier",
-          "type": 2,
-          "subType": 3,
-          "value": 5
+          "id": "race_booster_double_trophy",
+          "type": 0,
+          "subType": 102,
+          "value": 2
         },
-        "expirationValue": 999999999999999,
-        "expirationType": 1
+        "expirationValue": 1,
+        "expirationType": 2,
+        "contextType": 1,
+        "contextData": {
+          "GameModeID": "race"
+        }
+      },
+      "token_multiplier_ads": {
+        "value": {
+          "id": "token_multiplier_ads",
+          "type": 0,
+          "subType": 2,
+          "value": 2
+        },
+        "expirationValue": 900,
+        "expirationType": 2,
+        "contextType": 1
+      },
+      "token_multiplier_high": {
+        "value": {
+          "id": "token_multiplier_high",
+          "type": 0,
+          "subType": 2,
+          "value": 4
+        },
+        "expirationValue": 86400,
+        "expirationType": 2,
+        "contextType": 1
       },
       "token_multiplier_low": {
         "value": {
@@ -55,8 +99,9 @@
           "subType": 2,
           "value": 2
         },
-        "expirationValue": 99999999999999,
-        "expirationType": 1
+        "expirationValue": 86400,
+        "expirationType": 2,
+        "contextType": 1
       }
     },
     "powerupLevels": {

@@ -242,10 +242,12 @@
 | Tara | `tara` |
 | Henry | `henry` |
 | Sunny | `sunny` |
-| 8 Ball Jake | `asherSplasherOutfit` |
-| Piper | None |
-| El Primo | None |
-| Spike | None |
-| Dynamike | None |
-| Poco | None |
-| Max | None |
+| 8 Ball Jake | `almaBrava` |
+| Piper | `mateo` |
+| El Primo | `amongUsBlack` |
+| Spike | `amongUsCyan` |
+| Dynamike | `amongUsGreen` |
+| Poco | `amongUsRed` |
+| Max | `amongUsRose` |
+| Alma Brava | `amongUsYellow` |
+| Mateo | `asherSplasherOutfit` |

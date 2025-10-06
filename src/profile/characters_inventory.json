@@ -3044,6 +3044,86 @@
           ]
         }
       },
+      "almaBrava": {
+        "value": {
+          "id": "almaBrava",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "mateo": {
+        "value": {
+          "id": "mateo",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsBlack": {
+        "value": {
+          "id": "amongUsBlack",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsCyan": {
+        "value": {
+          "id": "amongUsCyan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsGreen": {
+        "value": {
+          "id": "amongUsGreen",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsRed": {
+        "value": {
+          "id": "amongUsRed",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsRose": {
+        "value": {
+          "id": "amongUsRose",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "amongUsYellow": {
+        "value": {
+          "id": "amongUsYellow",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
@@ -3154,6 +3234,16 @@
           ]
         }
       },
+      "festiveTrickyCandyBonesOutfit": {
+        "value": {
+          "id": "festiveTrickyCandyBonesOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "gabrielRadInRedOutfit": {
         "value": {
           "id": "gabrielRadInRedOutfit",
@@ -3187,6 +3277,16 @@
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "mateoSantoCampoOutfit": {
+        "value": {
+          "id": "mateoSantoCampoOutfit",
           "ownedOutfits": [
             {
               "value": "default"

@@ -3372,6 +3372,16 @@
           }
         }
       },
+      "pieceOfCake": {
+        "value": {
+          "id": "pieceOfCake",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "finishLine": {
         "value": {
           "id": "finishLine",
@@ -3401,11 +3411,40 @@
           }
         }
       },
-      "pieceOfCake": {
+      "fiesta": {
         "value": {
-          "id": "pieceOfCake",
+          "id": "fiesta",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "galacticPeel": {
+        "value": {
+          "id": "galacticPeel",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "shinSupreme": {
+        "value": {
+          "id": "shinSupreme",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
               "value": true
             }
           }

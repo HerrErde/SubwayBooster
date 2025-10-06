@@ -8,25 +8,25 @@
       "ftue_introduction_worldtour_post"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S107",
+    "newSeasonPopupShownForID": "season_S108",
     "localMailsSeenEntries": {
-      "s107_brawlstars_season_ending": "1970-01-01T00:00:00Z",
-      "s107_brawl_besties_badge": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_welcome": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_challenge": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_floor_is_lava": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_next_season": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_plantinvasion": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_showdown_play": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_star_badge": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_updateGame_android": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s107_onerun_fantasyfest_mrt": "1970-01-01T00:00:00Z",
-      "s107_onerun_hollywood_mrt": "1970-01-01T00:00:00Z",
-      "s107_onerun_tokyo_mrt": "1970-01-01T00:00:00Z",
-      "s107_subwayclassic_seasonhunt": "1970-01-01T00:00:00Z",
-      "s107_brawlstars_crosspromo": "1970-01-01T00:00:00Z"
+      "s108_amongus_1": "1970-01-01T00:00:00Z",
+      "s108_amongus_2": "1970-01-01T00:00:00Z",
+      "s108_amongus_3": "1970-01-01T00:00:00Z",
+      "s108_diwali_freebie": "1970-01-01T00:00:00Z",
+      "s108_mexico_floor_is_lava": "1970-01-01T00:00:00Z",
+      "s108_mexico_next_season": "1970-01-01T00:00:00Z",
+      "s108_mexico_season_ending": "1970-01-01T00:00:00Z",
+      "s108_mexico_seasonhunt": "1970-01-01T00:00:00Z",
+      "s108_mexico_special_challenge": "1970-01-01T00:00:00Z",
+      "s108_mexico_trickortreat": "1970-01-01T00:00:00Z",
+      "s108_mexico_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s108_mexico_updateGame_android": "1970-01-01T00:00:00Z",
+      "s108_mexico_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s108_mexico_welcome": "1970-01-01T00:00:00Z",
+      "s108_onerun_edinburgh_mrt": "1970-01-01T00:00:00Z",
+      "s108_onerun_hauntedhood_mrt": "1970-01-01T00:00:00Z",
+      "s108_onerun_mexico_mrt": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -55,6 +55,56 @@
         "opened": true
       },
       "promo_two_bundles_coins_20_10_v2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "almabrava_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "blobbros_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "creepy_kooky_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "mateo_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "wicked_frames_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "stage_fright_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sugar_skull_crew_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "zombie_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "funky_allies_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "midnight_duo_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -129,12 +179,12 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S107_newStuff": {
+      "S108_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S107_crew_bonus": {
+      "S108_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

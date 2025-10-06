@@ -3,16 +3,16 @@
   "data": {
     "selected": "default_frame",
     "owned": {
-      "oxford_green_frame": {
-        "id": "oxford_green_frame",
+      "brawlstars_frame": {
+        "id": "brawlstars_frame",
         "isSeen": true
       },
       "hollywood_frame": {
         "id": "hollywood_frame",
         "isSeen": true
       },
-      "oxford_red_frame": {
-        "id": "oxford_red_frame",
+      "oxford_green_frame": {
+        "id": "oxford_green_frame",
         "isSeen": true
       },
       "default_frame": {
@@ -23,12 +23,24 @@
         "id": "summer_frame",
         "isSeen": true
       },
+      "oxford_red_frame": {
+        "id": "oxford_red_frame",
+        "isSeen": true
+      },
+      "brawlstars_gems_frame": {
+        "id": "brawlstars_gems_frame",
+        "isSeen": true
+      },
       "plant_frame": {
         "id": "plant_frame",
         "isSeen": true
       },
       "pride_frame": {
         "id": "pride_frame",
+        "isSeen": true
+      },
+      "birthday2024_frame": {
+        "id": "birthday2024_frame",
         "isSeen": true
       },
       "lava_frame": {
@@ -39,16 +51,12 @@
         "id": "club_frame",
         "isSeen": true
       },
-      "birthday2024_frame": {
-        "id": "birthday2024_frame",
+      "diademuertos_frame": {
+        "id": "diademuertos_frame",
         "isSeen": true
       },
-      "brawlstars_frame": {
-        "id": "brawlstars_frame",
-        "isSeen": true
-      },
-      "brawlstars_gems_frame": {
-        "id": "brawlstars_gems_frame",
+      "pumpkin_frame": {
+        "id": "pumpkin_frame",
         "isSeen": true
       }
     }
