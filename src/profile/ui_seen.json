@@ -5,7 +5,9 @@
     "updateAppViewLastSeen": "1970-01-01T00:00:00Z",
     "ftuePopupsSeen": [
       "ftue_introduction_worldtour_pre",
-      "ftue_introduction_worldtour_post"
+      "ftue_introduction_worldtour_post",
+      "BadgesOnboardingFromRewardScreen",
+      "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
     "newSeasonPopupShownForID": "season_S108",
