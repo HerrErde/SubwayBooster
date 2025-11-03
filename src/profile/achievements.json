@@ -676,6 +676,30 @@
         ],
         "markAsViewed": true
       },
+      "achievement_38": {
+        "id": "achievement_38",
+        "progress": 5,
+        "highestProgress": 5,
+        "goals": [
+          5
+        ],
+        "claimState": [
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_39": {
+        "id": "achievement_39",
+        "progress": 1,
+        "highestProgress": 1,
+        "goals": [
+          1
+        ],
+        "claimState": [
+          true
+        ],
+        "markAsViewed": true
+      },
       "achievement_40": {
         "id": "achievement_40",
         "progress": 6,
@@ -684,6 +708,26 @@
           6
         ],
         "claimState": [
+          true
+        ],
+        "markAsViewed": true
+      },
+      "achievement_41": {
+        "id": "achievement_41",
+        "progress": 50,
+        "highestProgress": 50,
+        "goals": [
+          2,
+          5,
+          12,
+          25,
+          50
+        ],
+        "claimState": [
+          true,
+          true,
+          true,
+          true,
           true
         ],
         "markAsViewed": true

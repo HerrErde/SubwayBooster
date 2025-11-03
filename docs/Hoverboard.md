@@ -288,3 +288,6 @@
 | Piece Of Cake | `pieceOfCake` |
 | Finish Line | `finishLine` |
 | Motor Mania | `motorMania` |
+| Fiesta | `fiesta` |
+| Shin Supreme | `shinSupreme` |
+| Galactic Peel | `galacticPeel` |

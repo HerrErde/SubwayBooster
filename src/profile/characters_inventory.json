@@ -3274,9 +3274,39 @@
           ]
         }
       },
+      "jooWon": {
+        "value": {
+          "id": "jooWon",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "jooWonAegyoOutfit": {
+        "value": {
+          "id": "jooWonAegyoOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "kaleoKissKissOutfit": {
         "value": {
           "id": "kaleoKissKissOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "luckyHaengUnOutfit": {
+        "value": {
+          "id": "luckyHaengUnOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3317,6 +3347,16 @@
       "saruKyaputenOutfit": {
         "value": {
           "id": "saruKyaputenOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "siWoo": {
+        "value": {
+          "id": "siWoo",
           "ownedOutfits": [
             {
               "value": "default"

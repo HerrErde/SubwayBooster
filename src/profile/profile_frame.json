@@ -3,6 +3,10 @@
   "data": {
     "selected": "default_frame",
     "owned": {
+      "diademuertos_frame": {
+        "id": "diademuertos_frame",
+        "isSeen": true
+      },
       "brawlstars_frame": {
         "id": "brawlstars_frame",
         "isSeen": true
@@ -17,6 +21,10 @@
       },
       "default_frame": {
         "id": "default_frame",
+        "isSeen": true
+      },
+      "pumpkin_frame": {
+        "id": "pumpkin_frame",
         "isSeen": true
       },
       "summer_frame": {
@@ -49,14 +57,6 @@
       },
       "club_frame": {
         "id": "club_frame",
-        "isSeen": true
-      },
-      "diademuertos_frame": {
-        "id": "diademuertos_frame",
-        "isSeen": true
-      },
-      "pumpkin_frame": {
-        "id": "pumpkin_frame",
         "isSeen": true
       }
     }

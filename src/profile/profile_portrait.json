@@ -131,6 +131,14 @@
         "id": "lily_default_portrait",
         "isSeen": true
       },
+      "thursday_graffiti_portrait": {
+        "id": "thursday_graffiti_portrait",
+        "isSeen": true
+      },
+      "thursday_lilimpoutfit_illustration_portrait": {
+        "id": "thursday_lilimpoutfit_illustration_portrait",
+        "isSeen": true
+      },
       "dog_graffiti_portrait": {
         "id": "dog_graffiti_portrait",
         "isSeen": true
@@ -153,6 +161,10 @@
       },
       "alexandre_stanoutfit_portrait": {
         "id": "alexandre_stanoutfit_portrait",
+        "isSeen": true
+      },
+      "mateosantocampooutfit_illustration_portrait": {
+        "id": "mateosantocampooutfit_illustration_portrait",
         "isSeen": true
       },
       "chickenjake_illustration_portrait": {
@@ -231,14 +243,6 @@
         "id": "berta_illustration_portrait",
         "isSeen": true
       },
-      "thursday_graffiti_portrait": {
-        "id": "thursday_graffiti_portrait",
-        "isSeen": true
-      },
-      "thursday_lilimpoutfit_illustration_portrait": {
-        "id": "thursday_lilimpoutfit_illustration_portrait",
-        "isSeen": true
-      },
       "pins_illustration_portrait": {
         "id": "pins_illustration_portrait",
         "isSeen": true
@@ -295,8 +299,12 @@
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
-      "mateosantocampooutfit_illustration_portrait": {
-        "id": "mateosantocampooutfit_illustration_portrait",
+      "joowon_illustration_portrait": {
+        "id": "joowon_illustration_portrait",
+        "isSeen": true
+      },
+      "siwoo_graffiti_portrait": {
+        "id": "siwoo_graffiti_portrait",
         "isSeen": true
       }
     }

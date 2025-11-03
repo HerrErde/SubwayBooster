@@ -251,3 +251,11 @@
 | Max | `amongUsRose` |
 | Alma Brava | `amongUsYellow` |
 | Mateo | `asherSplasherOutfit` |
+| Crewmate Jake | `bertaSummerEleganzaOutfit` |
+| Crewmate Tricky | `bonnieThumperOutfit` |
+| Crewmate Spike | `bsBeardedGuy` |
+| Crewmate King | `bsElegantGirl` |
+| Crewmate Tasha | `bsFastGirl` |
+| Crewmate Guard | `bsPointyGuy` |
+| Si Woo | None |
+| Joo Won | None |
