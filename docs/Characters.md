@@ -244,18 +244,21 @@
 | Sunny | `sunny` |
 | 8 Ball Jake | `almaBrava` |
 | Piper | `mateo` |
-| El Primo | `amongUsBlack` |
-| Spike | `amongUsCyan` |
-| Dynamike | `amongUsGreen` |
-| Poco | `amongUsRed` |
-| Max | `amongUsRose` |
-| Alma Brava | `amongUsYellow` |
-| Mateo | `asherSplasherOutfit` |
-| Crewmate Jake | `bertaSummerEleganzaOutfit` |
-| Crewmate Tricky | `bonnieThumperOutfit` |
-| Crewmate Spike | `bsBeardedGuy` |
-| Crewmate King | `bsElegantGirl` |
-| Crewmate Tasha | `bsFastGirl` |
-| Crewmate Guard | `bsPointyGuy` |
-| Si Woo | None |
-| Joo Won | None |
+| El Primo | `jooWon` |
+| Spike | `siWoo` |
+| Dynamike | `mrGobbles` |
+| Poco | `amongUsBlack` |
+| Max | `amongUsCyan` |
+| Alma Brava | `amongUsGreen` |
+| Mateo | `amongUsRed` |
+| Crewmate Jake | `amongUsRose` |
+| Crewmate Tricky | `amongUsYellow` |
+| Crewmate Spike | `asherSplasherOutfit` |
+| Crewmate King | `ballerinaLatticina` |
+| Crewmate Tasha | `bertaSummerEleganzaOutfit` |
+| Crewmate Guard | `bonnieThumperOutfit` |
+| Joo Won | `bsBeardedGuy` |
+| Si Woo | `bsElegantGirl` |
+| Mr. Gobbles | `bsFastGirl` |
+| Rosie | None |
+| Ballerina Latticina | None |

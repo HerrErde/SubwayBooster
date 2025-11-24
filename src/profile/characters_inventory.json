@@ -3064,6 +3064,36 @@
           ]
         }
       },
+      "jooWon": {
+        "value": {
+          "id": "jooWon",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "siWoo": {
+        "value": {
+          "id": "siWoo",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "mrGobbles": {
+        "value": {
+          "id": "mrGobbles",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "amongUsBlack": {
         "value": {
           "id": "amongUsBlack",
@@ -3127,6 +3157,16 @@
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ballerinaLatticina": {
+        "value": {
+          "id": "ballerinaLatticina",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3274,16 +3314,6 @@
           ]
         }
       },
-      "jooWon": {
-        "value": {
-          "id": "jooWon",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
       "jooWonAegyoOutfit": {
         "value": {
           "id": "jooWonAegyoOutfit",
@@ -3344,9 +3374,9 @@
           ]
         }
       },
-      "saruKyaputenOutfit": {
+      "rosie": {
         "value": {
-          "id": "saruKyaputenOutfit",
+          "id": "rosie",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3354,9 +3384,19 @@
           ]
         }
       },
-      "siWoo": {
+      "rosieautumnSpiceOutfit": {
         "value": {
-          "id": "siWoo",
+          "id": "rosieautumnSpiceOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "saruKyaputenOutfit": {
+        "value": {
+          "id": "saruKyaputenOutfit",
           "ownedOutfits": [
             {
               "value": "default"

@@ -271,67 +271,67 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S109": {
-        "id": "collection_season_S109",
+      "collection_season_S110": {
+        "id": "collection_season_S110",
         "items": [
           {
-            "id": "whiteRabbit.default",
+            "id": "tara.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 30060
+            "points": 30960
           },
           {
-            "id": "siWoo.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "oniHime.default",
+            "id": "ballerinaLatticina.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "rin.default",
+            "id": "hammybee.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "berta.default",
+            "id": "captainFlash.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "alexandre.stanOutfit",
+            "id": "ginger.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "biasBoom.default",
+            "id": "logan.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "lawrence.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "foxtrail.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "astrotune.default",
-            "type": 3,
-            "claimed": true,
-            "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "interstellar.default",
+            "id": "pathfinder.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
@@ -344,6 +344,10 @@
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

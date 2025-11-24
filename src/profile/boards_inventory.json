@@ -3450,6 +3450,19 @@
           }
         }
       },
+      "charmer": {
+        "value": {
+          "id": "charmer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
       "biasBoom": {
         "value": {
           "id": "biasBoom",
@@ -3466,24 +3479,40 @@
           }
         }
       },
-      "charmer": {
-        "value": {
-          "id": "charmer",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "lowrider": {
-              "value": true
-            }
-          }
-        }
-      },
       "fourLeafFlux": {
         "value": {
           "id": "fourLeafFlux",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "gobbleTrouble": {
+        "value": {
+          "id": "gobbleTrouble",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "pieExpress": {
+        "value": {
+          "id": "pieExpress",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
               "value": true
             }
           }

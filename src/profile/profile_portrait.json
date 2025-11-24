@@ -155,6 +155,10 @@
         "id": "guard_pink_graffiti_portrait",
         "isSeen": true
       },
+      "siwoo_graffiti_portrait": {
+        "id": "siwoo_graffiti_portrait",
+        "isSeen": true
+      },
       "tara_graffiti_portrait": {
         "id": "tara_graffiti_portrait",
         "isSeen": true
@@ -221,6 +225,10 @@
       },
       "george_illustration_portrait": {
         "id": "george_illustration_portrait",
+        "isSeen": true
+      },
+      "joowon_illustration_portrait": {
+        "id": "joowon_illustration_portrait",
         "isSeen": true
       },
       "frank_illustration_portrait": {
@@ -299,12 +307,12 @@
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
-      "joowon_illustration_portrait": {
-        "id": "joowon_illustration_portrait",
+      "mrgobbles_illustration_portrait": {
+        "id": "mrgobbles_illustration_portrait",
         "isSeen": true
       },
-      "siwoo_graffiti_portrait": {
-        "id": "siwoo_graffiti_portrait",
+      "sandwich_graffiti_portrait": {
+        "id": "sandwich_graffiti_portrait",
         "isSeen": true
       }
     }

@@ -10,25 +10,25 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S109",
+    "newSeasonPopupShownForID": "season_S110",
     "localMailsSeenEntries": {
-      "s108_amongus_1": "1970-01-01T00:00:00Z",
-      "s108_amongus_2": "1970-01-01T00:00:00Z",
-      "s108_amongus_3": "1970-01-01T00:00:00Z",
-      "s109_amongus_4": "1970-01-01T00:00:00Z",
-      "s109_amongus_5": "1970-01-01T00:00:00Z",
-      "s109_amongus_6": "1970-01-01T00:00:00Z",
-      "s109_seoul_challenges": "1970-01-01T00:00:00Z",
-      "s109_seoul_floorislava": "1970-01-01T00:00:00Z",
-      "s109_seoul_next_season": "1970-01-01T00:00:00Z",
-      "s109_seoul_one_run": "1970-01-01T00:00:00Z",
-      "s109_seoul_plantinvasion": "1970-01-01T00:00:00Z",
-      "s109_seoul_season_challenge": "1970-01-01T00:00:00Z",
-      "s109_seoul_seasonhunt": "1970-01-01T00:00:00Z",
-      "s109_seoul_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s109_seoul_updateGame_android": "1970-01-01T00:00:00Z",
-      "s109_seoul_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s109_seoul_welcome": "1970-01-01T00:00:00Z"
+      "s110_newyork_blackfriday1": "1970-01-01T00:00:00Z",
+      "s110_newyork_blackfriday2": "1970-01-01T00:00:00Z",
+      "s110_newyork_blackfriday3": "1970-01-01T00:00:00Z",
+      "s110_newyork_challenges": "1970-01-01T00:00:00Z",
+      "s110_newyork_floorislava": "1970-01-01T00:00:00Z",
+      "s110_newyork_next_season": "1970-01-01T00:00:00Z",
+      "s110_newyork_one_run": "1970-01-01T00:00:00Z",
+      "s110_newyork_plantinvasion": "1970-01-01T00:00:00Z",
+      "s110_newyork_quests": "1970-01-01T00:00:00Z",
+      "s110_newyork_season_challenge": "1970-01-01T00:00:00Z",
+      "s110_newyork_seasonhunt": "1970-01-01T00:00:00Z",
+      "s110_newyork_surferpass": "1970-01-01T00:00:00Z",
+      "s110_newyork_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s110_newyork_updateGame_android": "1970-01-01T00:00:00Z",
+      "s110_newyork_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s110_newyork_welcome": "1970-01-01T00:00:00Z",
+      "s110_newyork_welcome_season_pass": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -61,37 +61,62 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "siwoo_bundle_promo": {
+      "ballerinalatticina_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "idols_oni_bundle_promo": {
+      "schoolofpunk_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "bad_good_bundle_promo": {
+      "fallwarrior_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "worldtour_bundle_promo": {
+      "clockworkjohnny_starter_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "luckyleap_bundle": {
+      "captainflash_starter_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "thunder_lightning_bundle_promo": {
+      "gamers_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "almabrava_bundle_promo": {
+      "fantasy_parade_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "travelers_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "classic_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "black_friday_bonanza_promo_1": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "black_friday_bonanza_promo_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "black_friday_bonanza_promo_3": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -106,12 +131,22 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S109_newStuff": {
+      "S110_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S109_crew_bonus": {
+      "S110_newStuff_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S110_crew_bonus": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "S110_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -207,6 +242,51 @@
         "opened": true
       },
       "multiplier_pack_bundle_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_01_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_02_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_03_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_04_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_05_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_06_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_07_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_08_2": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "uc_flashDeals_slot_09_2": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

@@ -291,3 +291,6 @@
 | Fiesta | `fiesta` |
 | Shin Supreme | `shinSupreme` |
 | Galactic Peel | `galacticPeel` |
+| Charmer | `charmer` |
+| Bias Boom | `biasBoom` |
+| Four-leaf Flux | `fourLeafFlux` |
