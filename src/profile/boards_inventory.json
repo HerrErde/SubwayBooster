@@ -3489,6 +3489,39 @@
           }
         }
       },
+      "buckLightdeer": {
+        "value": {
+          "id": "buckLightdeer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "candyCrash": {
+        "value": {
+          "id": "candyCrash",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "chillOut": {
+        "value": {
+          "id": "chillOut",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "gobbleTrouble": {
         "value": {
           "id": "gobbleTrouble",
@@ -3500,6 +3533,22 @@
               "value": true
             },
             "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "meanGreenMachine": {
+        "value": {
+          "id": "meanGreenMachine",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "glider": {
               "value": true
             }
           }

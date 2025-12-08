@@ -247,18 +247,18 @@
 | El Primo | `jooWon` |
 | Spike | `siWoo` |
 | Dynamike | `mrGobbles` |
-| Poco | `amongUsBlack` |
-| Max | `amongUsCyan` |
-| Alma Brava | `amongUsGreen` |
-| Mateo | `amongUsRed` |
-| Crewmate Jake | `amongUsRose` |
-| Crewmate Tricky | `amongUsYellow` |
-| Crewmate Spike | `asherSplasherOutfit` |
-| Crewmate King | `ballerinaLatticina` |
-| Crewmate Tasha | `bertaSummerEleganzaOutfit` |
-| Crewmate Guard | `bonnieThumperOutfit` |
-| Joo Won | `bsBeardedGuy` |
-| Si Woo | `bsElegantGirl` |
-| Mr. Gobbles | `bsFastGirl` |
-| Rosie | None |
-| Ballerina Latticina | None |
+| Poco | `rosie` |
+| Max | `ballerinaLatticina` |
+| Alma Brava | `amongUsBlack` |
+| Mateo | `amongUsCyan` |
+| Crewmate Jake | `amongUsGreen` |
+| Crewmate Tricky | `amongUsRed` |
+| Crewmate Spike | `amongUsRose` |
+| Crewmate King | `amongUsYellow` |
+| Crewmate Tasha | `asherSplasherOutfit` |
+| Crewmate Guard | `bertaSummerEleganzaOutfit` |
+| Joo Won | `bonnieThumperOutfit` |
+| Si Woo | `bsBeardedGuy` |
+| Mr. Gobbles | `bsElegantGirl` |
+| Rosie | `bsFastGirl` |
+| Ballerina Latticina | `bsPointyGuy` |

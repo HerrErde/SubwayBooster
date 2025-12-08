@@ -58,6 +58,14 @@
       "club_frame": {
         "id": "club_frame",
         "isSeen": true
+      },
+      "candycane_frame": {
+        "id": "candycane_frame",
+        "isSeen": true
+      },
+      "gingerbread_frame": {
+        "id": "gingerbread_frame",
+        "isSeen": true
       }
     }
   }

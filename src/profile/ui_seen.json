@@ -10,25 +10,26 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S110",
+    "newSeasonPopupShownForID": "season_S111",
     "localMailsSeenEntries": {
-      "s110_newyork_blackfriday1": "1970-01-01T00:00:00Z",
-      "s110_newyork_blackfriday2": "1970-01-01T00:00:00Z",
-      "s110_newyork_blackfriday3": "1970-01-01T00:00:00Z",
-      "s110_newyork_challenges": "1970-01-01T00:00:00Z",
-      "s110_newyork_floorislava": "1970-01-01T00:00:00Z",
-      "s110_newyork_next_season": "1970-01-01T00:00:00Z",
-      "s110_newyork_one_run": "1970-01-01T00:00:00Z",
-      "s110_newyork_plantinvasion": "1970-01-01T00:00:00Z",
-      "s110_newyork_quests": "1970-01-01T00:00:00Z",
-      "s110_newyork_season_challenge": "1970-01-01T00:00:00Z",
-      "s110_newyork_seasonhunt": "1970-01-01T00:00:00Z",
-      "s110_newyork_surferpass": "1970-01-01T00:00:00Z",
-      "s110_newyork_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s110_newyork_updateGame_android": "1970-01-01T00:00:00Z",
-      "s110_newyork_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s110_newyork_welcome": "1970-01-01T00:00:00Z",
-      "s110_newyork_welcome_season_pass": "1970-01-01T00:00:00Z"
+      "s111_christmas_freebie": "1970-01-01T00:00:00Z",
+      "s111_northpole_floor_is_lava": "1970-01-01T00:00:00Z",
+      "s111_northpole_next_season": "1970-01-01T00:00:00Z",
+      "s111_northpole_plantinvasion": "1970-01-01T00:00:00Z",
+      "s111_northpole_season_challenge": "1970-01-01T00:00:00Z",
+      "s111_northpole_season_ending": "1970-01-01T00:00:00Z",
+      "s111_northpole_seasonhunt": "1970-01-01T00:00:00Z",
+      "s111_northpole_special_challenge": "1970-01-01T00:00:00Z",
+      "s111_northpole_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s111_northpole_updateGame_android": "1970-01-01T00:00:00Z",
+      "s111_northpole_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s111_northpole_welcome": "1970-01-01T00:00:00Z",
+      "s111_onerun_edinburgh_mrt": "1970-01-01T00:00:00Z",
+      "s111_onerun_hauntedhood_mrt": "1970-01-01T00:00:00Z",
+      "s111_onerun_northpole_mrt": "1970-01-01T00:00:00Z",
+      "s111_onerun_edinburgh_mrt_season_pass": "1970-01-01T00:00:00Z",
+      "s111_onerun_hauntedhood_mrt_season_pass": "1970-01-01T00:00:00Z",
+      "s111_onerun_northpole_mrt_season_pass": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -61,66 +62,6 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "ballerinalatticina_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "schoolofpunk_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "fallwarrior_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "clockworkjohnny_starter_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "captainflash_starter_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "gamers_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "fantasy_parade_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "travelers_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "classic_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "black_friday_bonanza_promo_1": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "black_friday_bonanza_promo_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "black_friday_bonanza_promo_3": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
       "welcomepack_skipAds_tickets_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
@@ -131,22 +72,82 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S110_newStuff": {
+      "S111_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S110_newStuff_season_pass": {
+      "S111_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S110_crew_bonus": {
+      "S111_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S110_crew_bonus_season_pass": {
+      "S111_crew_bonus_season_pass": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "jesterjake_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "snow_squad_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "elf_crew_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sweet_xmas": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "grand_juke_deluxe_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "snowy_deluxe_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "new_years_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "festive_frames_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "polar_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "winter_fun_bundle": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "festive_pals_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "festive_besties_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -242,51 +243,6 @@
         "opened": true
       },
       "multiplier_pack_bundle_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_01_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_02_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_03_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_04_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_05_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_06_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_07_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_08_2": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "uc_flashDeals_slot_09_2": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

@@ -139,6 +139,10 @@
         "id": "thursday_lilimpoutfit_illustration_portrait",
         "isSeen": true
       },
+      "sandwich_graffiti_portrait": {
+        "id": "sandwich_graffiti_portrait",
+        "isSeen": true
+      },
       "dog_graffiti_portrait": {
         "id": "dog_graffiti_portrait",
         "isSeen": true
@@ -157,6 +161,10 @@
       },
       "siwoo_graffiti_portrait": {
         "id": "siwoo_graffiti_portrait",
+        "isSeen": true
+      },
+      "freshsnow_graffiti_portrait": {
+        "id": "freshsnow_graffiti_portrait",
         "isSeen": true
       },
       "tara_graffiti_portrait": {
@@ -201,6 +209,10 @@
       },
       "vivienne_hollywoodglamoutfit_portrait": {
         "id": "vivienne_hollywoodglamoutfit_portrait",
+        "isSeen": true
+      },
+      "yutanigiftgrifter_illustration_portrait": {
+        "id": "yutanigiftgrifter_illustration_portrait",
         "isSeen": true
       },
       "stevie_hitchhikeroutfit_illustration_portrait": {
@@ -309,10 +321,6 @@
       },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
-        "isSeen": true
-      },
-      "sandwich_graffiti_portrait": {
-        "id": "sandwich_graffiti_portrait",
         "isSeen": true
       }
     }

@@ -271,67 +271,67 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S110": {
-        "id": "collection_season_S110",
+      "collection_season_S111": {
+        "id": "collection_season_S111",
         "items": [
           {
-            "id": "tara.default",
+            "id": "sunny.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 30960
+            "points": 31860
           },
           {
-            "id": "ballerinaLatticina.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "hammybee.default",
+            "id": "festiveJakeJesterJakeOutfit.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "captainFlash.default",
+            "id": "festiveFrank.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "ginger.default",
+            "id": "elfYutani.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "logan.default",
+            "id": "elfTricky.candyOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "lawrence.default",
+            "id": "clementine.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "foxtrail.default",
+            "id": "gingerbot.wrapperOutfit",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "snowdown.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "pathfinder.default",
+            "id": "buckLightdeer.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
@@ -344,6 +344,10 @@
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

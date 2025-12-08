@@ -3094,6 +3094,26 @@
           ]
         }
       },
+      "rosie": {
+        "value": {
+          "id": "rosie",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ballerinaLatticina": {
+        "value": {
+          "id": "ballerinaLatticina",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "amongUsBlack": {
         "value": {
           "id": "amongUsBlack",
@@ -3157,16 +3177,6 @@
       "asherSplasherOutfit": {
         "value": {
           "id": "asherSplasherOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "ballerinaLatticina": {
-        "value": {
-          "id": "ballerinaLatticina",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3274,9 +3284,59 @@
           ]
         }
       },
+      "festiveFreshFreshSnowOutfit": {
+        "value": {
+          "id": "festiveFreshFreshSnowOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "festiveJakeJesterJakeOutfit": {
+        "value": {
+          "id": "festiveJakeJesterJakeOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "festiveTrickyCandyBonesOutfit": {
         "value": {
           "id": "festiveTrickyCandyBonesOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "festiveTrickyEndearingTrickyOutfit": {
+        "value": {
+          "id": "festiveTrickyEndearingTrickyOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "festiveYutaniGiftGrifterOutfit": {
+        "value": {
+          "id": "festiveYutaniGiftGrifterOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "finlayMerrymakerOutfit": {
+        "value": {
+          "id": "finlayMerrymakerOutfit",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3367,16 +3427,6 @@
       "raniUrbanVibesOutfit": {
         "value": {
           "id": "raniUrbanVibesOutfit",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
-      "rosie": {
-        "value": {
-          "id": "rosie",
           "ownedOutfits": [
             {
               "value": "default"
