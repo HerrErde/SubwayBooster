@@ -10,26 +10,22 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S111",
+    "newSeasonPopupShownForID": "season_S112",
     "localMailsSeenEntries": {
-      "s111_christmas_freebie": "1970-01-01T00:00:00Z",
-      "s111_northpole_floor_is_lava": "1970-01-01T00:00:00Z",
-      "s111_northpole_next_season": "1970-01-01T00:00:00Z",
-      "s111_northpole_plantinvasion": "1970-01-01T00:00:00Z",
-      "s111_northpole_season_challenge": "1970-01-01T00:00:00Z",
-      "s111_northpole_season_ending": "1970-01-01T00:00:00Z",
-      "s111_northpole_seasonhunt": "1970-01-01T00:00:00Z",
-      "s111_northpole_special_challenge": "1970-01-01T00:00:00Z",
-      "s111_northpole_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s111_northpole_updateGame_android": "1970-01-01T00:00:00Z",
-      "s111_northpole_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s111_northpole_welcome": "1970-01-01T00:00:00Z",
-      "s111_onerun_edinburgh_mrt": "1970-01-01T00:00:00Z",
-      "s111_onerun_hauntedhood_mrt": "1970-01-01T00:00:00Z",
-      "s111_onerun_northpole_mrt": "1970-01-01T00:00:00Z",
-      "s111_onerun_edinburgh_mrt_season_pass": "1970-01-01T00:00:00Z",
-      "s111_onerun_hauntedhood_mrt_season_pass": "1970-01-01T00:00:00Z",
-      "s111_onerun_northpole_mrt_season_pass": "1970-01-01T00:00:00Z"
+      "s112_hollywood_challenges": "1970-01-01T00:00:00Z",
+      "s112_hollywood_floorislava": "1970-01-01T00:00:00Z",
+      "s112_hollywood_next_season": "1970-01-01T00:00:00Z",
+      "s112_hollywood_one_run": "1970-01-01T00:00:00Z",
+      "s112_hollywood_one_run2": "1970-01-01T00:00:00Z",
+      "s112_hollywood_plantinvasion": "1970-01-01T00:00:00Z",
+      "s112_hollywood_quests": "1970-01-01T00:00:00Z",
+      "s112_hollywood_season_challenge": "1970-01-01T00:00:00Z",
+      "s112_hollywood_seasonhunt": "1970-01-01T00:00:00Z",
+      "s112_hollywood_surferpass": "1970-01-01T00:00:00Z",
+      "s112_hollywood_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s112_hollywood_updateGame_android": "1970-01-01T00:00:00Z",
+      "s112_hollywood_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s112_hollywood_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -72,82 +68,57 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S111_newStuff": {
+      "S112_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S111_newStuff_season_pass": {
+      "S112_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S111_crew_bonus": {
+      "S112_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S111_crew_bonus_season_pass": {
+      "S112_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "jesterjake_bundle": {
+      "franknoir_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "snow_squad_bundle_promo": {
+      "starstruck_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "elf_crew_bundle_promo": {
+      "giftgrifter_deluxe_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "sweet_xmas": {
+      "frank_star_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "grand_juke_deluxe_bundle_promo": {
+      "showtime_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "snowy_deluxe_bundle_promo": {
+      "infinity_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "new_years_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "festive_frames_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "polar_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "winter_fun_bundle": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "festive_pals_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "festive_besties_bundle_promo": {
+      "dashingduo_bundle": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

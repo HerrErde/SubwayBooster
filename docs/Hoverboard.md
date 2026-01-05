@@ -294,3 +294,12 @@
 | Charmer | `charmer` |
 | Bias Boom | `biasBoom` |
 | Four-leaf Flux | `fourLeafFlux` |
+| Gobble Trouble | `gobbleTrouble` |
+| Pie Express | `pieExpress` |
+| Buck Lightdeer | `buckLightdeer` |
+| Chill Out | `chillOut` |
+| Candy Crash | `candyCrash` |
+| Mean Green Machine | `meanGreenMachine` |
+| Road Rage | None |
+| Frankmobile | None |
+| Perfectoplasma | None |

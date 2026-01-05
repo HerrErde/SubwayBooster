@@ -262,3 +262,5 @@
 | Mr. Gobbles | `bsElegantGirl` |
 | Rosie | `bsFastGirl` |
 | Ballerina Latticina | `bsPointyGuy` |
+| Frank Noir | None |
+| Holly | None |

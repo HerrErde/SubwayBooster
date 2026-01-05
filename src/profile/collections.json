@@ -271,67 +271,67 @@
       }
     },
     "seasonalCollectionsState": {
-      "collection_season_S111": {
-        "id": "collection_season_S111",
+      "collection_season_S112": {
+        "id": "collection_season_S112",
         "items": [
           {
-            "id": "sunny.default",
+            "id": "akira.nightriderOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 31860
+            "points": 32760
           },
           {
-            "id": "festiveJakeJesterJakeOutfit.default",
-            "type": 2,
-            "claimed": true,
-            "lastUpdate": "1970-01-01T00:00:00Z",
-            "points": 100
-          },
-          {
-            "id": "festiveFrank.default",
+            "id": "frankNoir.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "elfYutani.default",
+            "id": "astra.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "elfTricky.candyOutfit",
+            "id": "rudyrascal.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "clementine.default",
+            "id": "drflyman.default",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "gingerbot.wrapperOutfit",
+            "id": "catrine.trailmixOutfit",
             "type": 2,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "snowdown.default",
+            "id": "vivienne.default",
+            "type": 2,
+            "claimed": true,
+            "lastUpdate": "1970-01-01T00:00:00Z",
+            "points": 100
+          },
+          {
+            "id": "frankmobile.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
             "points": 100
           },
           {
-            "id": "buckLightdeer.default",
+            "id": "scifly.default",
             "type": 3,
             "claimed": true,
             "lastUpdate": "1970-01-01T00:00:00Z",
@@ -344,6 +344,10 @@
       }
     },
     "meterLevelClaimed": [
+      {
+        "Claimed": true,
+        "IsAvailable": true
+      },
       {
         "Claimed": true,
         "IsAvailable": true

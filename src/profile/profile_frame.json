@@ -7,12 +7,20 @@
         "id": "diademuertos_frame",
         "isSeen": true
       },
+      "gingerbread_frame": {
+        "id": "gingerbread_frame",
+        "isSeen": true
+      },
       "brawlstars_frame": {
         "id": "brawlstars_frame",
         "isSeen": true
       },
       "hollywood_frame": {
         "id": "hollywood_frame",
+        "isSeen": true
+      },
+      "candycane_frame": {
+        "id": "candycane_frame",
         "isSeen": true
       },
       "oxford_green_frame": {
@@ -59,12 +67,12 @@
         "id": "club_frame",
         "isSeen": true
       },
-      "candycane_frame": {
-        "id": "candycane_frame",
+      "glorx_frame": {
+        "id": "glorx_frame",
         "isSeen": true
       },
-      "gingerbread_frame": {
-        "id": "gingerbread_frame",
+      "movieslate_frame": {
+        "id": "movieslate_frame",
         "isSeen": true
       }
     }

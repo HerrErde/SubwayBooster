@@ -2910,6 +2910,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "chillBillOutfit"
             }
           ]
         }
@@ -3344,6 +3347,16 @@
           ]
         }
       },
+      "frankNoir": {
+        "value": {
+          "id": "frankNoir",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "gabrielRadInRedOutfit": {
         "value": {
           "id": "gabrielRadInRedOutfit",
@@ -3370,6 +3383,19 @@
           "ownedOutfits": [
             {
               "value": "default"
+            }
+          ]
+        }
+      },
+      "holly": {
+        "value": {
+          "id": "holly",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "blobbusterOutfit"
             }
           ]
         }

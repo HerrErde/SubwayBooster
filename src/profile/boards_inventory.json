@@ -3489,24 +3489,40 @@
           }
         }
       },
-      "buckLightdeer": {
+      "gobbleTrouble": {
         "value": {
-          "id": "buckLightdeer",
+          "id": "gobbleTrouble",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "highSpeed": {
               "value": true
             }
           }
         }
       },
-      "candyCrash": {
+      "pieExpress": {
         "value": {
-          "id": "candyCrash",
+          "id": "pieExpress",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "highSpeed": {
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "buckLightdeer": {
+        "value": {
+          "id": "buckLightdeer",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
@@ -3522,14 +3538,11 @@
           }
         }
       },
-      "gobbleTrouble": {
+      "candyCrash": {
         "value": {
-          "id": "gobbleTrouble",
+          "id": "candyCrash",
           "ownedUpgrades": {
             "default": {
-              "value": true
-            },
-            "glider": {
               "value": true
             },
             "highSpeed": {
@@ -3554,14 +3567,40 @@
           }
         }
       },
-      "pieExpress": {
+      "frankmobile": {
         "value": {
-          "id": "pieExpress",
+          "id": "frankmobile",
           "ownedUpgrades": {
             "default": {
               "value": true
             },
-            "doubleJump": {
+            "superJump": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "perfectoplasma": {
+        "value": {
+          "id": "perfectoplasma",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "roadRage": {
+        "value": {
+          "id": "roadRage",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
