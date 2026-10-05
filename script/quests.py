@@ -1,11 +1,21 @@
 import json
+import re
 
-output_file = "src/profile/quests.json"
-quests_file = "temp/gamedata/quests.json"
+quests_file = "src/profile/quests.json"
+challenges_file = "temp/upload/challenges_data.json"
+
+
+def get_latest_season():
+    with open(challenges_file, "r", encoding="utf-8") as file:
+        text = file.read()
+    seasons = [int(n) for n in re.findall(r"season_S(\d+)", text)]
+    if not seasons:
+        raise ValueError(f"No season timeslots found in {challenges_file}")
+    return f"season_S{max(seasons)}"
 
 
 def update_quests(season):
-    with open(output_file, "r+") as file:
+    with open(quests_file, "r+") as file:
         quests_data = json.load(file)
         quests_data["data"]["timeSlot"] = season
         for quest_type in ["daily", "seasonal"]:
@@ -15,7 +25,4 @@ def update_quests(season):
         json.dump(quests_data, file, indent=2)
 
 
-with open(quests_file) as f:
-    season = json.load(f).get("global", {}).get("timeSlot", "")
-
-update_quests(season)
+update_quests(get_latest_season())
