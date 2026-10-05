@@ -5,7 +5,7 @@
     "cityTourInstances": {},
     "completedCityTours": [],
     "activeGauntletInstance": {
-      "id": "s124_GauntletSodacan_1",
+      "id": "s125_GauntletSodacan_1",
       "tiers": [
         {
           "claimed": true,
@@ -112,7 +112,7 @@
           "reward": {
             "reward": {
               "type": "ProfileFrame",
-              "id": "comic_frame",
+              "id": "sanctuary_frame",
               "value": 1
             }
           }

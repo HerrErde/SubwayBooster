@@ -292,5 +292,7 @@
 | Alpha | `ballerinaLatticina` |
 | Crewmate Frank | `frankNoir` |
 | Santi Grafito | `holly` |
-| Matilda | None |
-| Bbno$ | None |
+| Matilda | `seanSnow` |
+| Bbno$ | `mia` |
+| Xoloko | None |
+| Count Corvin | `lorcan` |

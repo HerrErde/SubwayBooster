@@ -2364,6 +2364,30 @@
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
           },
+          "countCorvin.default": {
+            "id": "countCorvin.default",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "xoloko.default": {
+            "id": "xoloko.default",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "whiteRabbit.nightshadeOutfit": {
+            "id": "whiteRabbit.nightshadeOutfit",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "seanSnow.frankenstyleOutfit": {
+            "id": "seanSnow.frankenstyleOutfit",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
           "monster.default": {
             "id": "monster.default",
             "type": 3,
@@ -2456,6 +2480,24 @@
           },
           "plankenstein.default": {
             "id": "plankenstein.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "batLuck.default": {
+            "id": "batLuck.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "broom.default": {
+            "id": "broom.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "noxDrift.default": {
+            "id": "noxDrift.default",
             "type": 3,
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true

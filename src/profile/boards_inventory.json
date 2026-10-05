@@ -4045,16 +4045,6 @@
           }
         }
       },
-      "digiDash": {
-        "value": {
-          "id": "digiDash",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            }
-          }
-        }
-      },
       "plankenstein": {
         "value": {
           "id": "plankenstein",
@@ -4071,6 +4061,16 @@
           }
         }
       },
+      "digiDash": {
+        "value": {
+          "id": "digiDash",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
       "sketchySkater": {
         "value": {
           "id": "sketchySkater",
@@ -4079,6 +4079,45 @@
               "value": true
             },
             "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "batLuck": {
+        "value": {
+          "id": "batLuck",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "broom": {
+        "value": {
+          "id": "broom",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "noxDrift": {
+        "value": {
+          "id": "noxDrift",
+          "ownedUpgrades": {
+            "default": {
               "value": true
             }
           }
