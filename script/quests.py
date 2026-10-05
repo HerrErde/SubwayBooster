@@ -2,7 +2,7 @@ import json
 import re
 
 quests_file = "src/profile/quests.json"
-challenges_file = "temp/upload/challenges_data.json"
+challenges_file = "temp/input/challenges_data.json"
 
 
 def get_latest_season():
