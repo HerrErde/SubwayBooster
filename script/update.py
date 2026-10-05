@@ -6,7 +6,7 @@ import re
 gplayapi_url = "https://gplayapi.herrerde.xyz/api/apps/com.kiloo.subwaysurf"
 json_file = "src/version.json"
 season_hunt_file = "src/profile/season_hunt.json"
-collections_file = "temp/input/collections_data.json"
+challenges_file = "temp/input/challenges_data.json"
 
 
 def get_version():
@@ -30,14 +30,15 @@ def get_version():
 
 
 def update_season():
+    """Return the highest season number in challenges_data.json (e.g. "season_S125" -> 125)."""
     try:
-        with open(collections_file, "r", encoding="utf-8") as file:
-            data = json.load(file)
-            time_slot = data.get("timeSlot", "")
-            season = int(time_slot.split("_S")[1])
-            return season
-    except (IOError, json.JSONDecodeError, ValueError, IndexError) as e:
-        print(f"Error loading collections data: {e}")
+        with open(challenges_file, "r", encoding="utf-8") as file:
+            seasons = [int(n) for n in re.findall(r"season_S(\d+)", file.read())]
+        if not seasons:
+            raise ValueError("no season timeslots found")
+        return max(seasons)
+    except (IOError, ValueError) as e:
+        print(f"Error loading challenges data: {e}")
         return None
 
 

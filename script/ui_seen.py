@@ -1,14 +1,17 @@
 import json
+import re
 
 mailbox_data_path = "temp/input/mailbox_data.json"
 promotions_data_path = "temp/input/promotions_data.json"
-collections_file = "temp/input/collections_data.json"
+challenges_file = "temp/input/challenges_data.json"
 output_file_path = "src/profile/ui_seen.json"
 
 
-with open(collections_file, "r", encoding="utf-8") as file:
-    data = json.load(file)
-    time_slot = data.get("timeSlot", "")
+with open(challenges_file, "r", encoding="utf-8") as file:
+    seasons = [int(n) for n in re.findall(r"season_S(\d+)", file.read())]
+if not seasons:
+    raise ValueError(f"No season timeslots found in {challenges_file}")
+time_slot = f"season_S{max(seasons)}"
 
 try:
     with open(output_file_path, "r+", encoding="utf-8") as file:
