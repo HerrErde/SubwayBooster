@@ -1,11 +1,11 @@
 import json
 
-quests_file = "src/profile/quests.json"
-collections_file = "temp/input/collections_data.json"
+output_file = "src/profile/quests.json"
+quests_file = "temp/gamedata/quests.json"
 
 
 def update_quests(season):
-    with open(quests_file, "r+") as file:
+    with open(output_file, "r+") as file:
         quests_data = json.load(file)
         quests_data["data"]["timeSlot"] = season
         for quest_type in ["daily", "seasonal"]:
@@ -15,7 +15,7 @@ def update_quests(season):
         json.dump(quests_data, file, indent=2)
 
 
-with open(collections_file) as f:
-    season = json.load(f).get("timeSlot", "")
+with open(quests_file) as f:
+    season = json.load(f).get("global", {}).get("timeSlot", "")
 
 update_quests(season)
