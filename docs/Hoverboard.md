@@ -337,3 +337,6 @@
 | Astro Belt | `astroBelt` |
 | Lunar Surfer | `lunarSurfer` |
 | Neo Glarx 4000 | `neoGlarx4000` |
+| Plankenstein | `plankenstein` |
+| Digi Dash | `digiDash` |
+| Sketchy Skater | `sketchySkater` |

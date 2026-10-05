@@ -31,6 +31,10 @@
         "id": "bubbletea_graffiti_portrait",
         "isSeen": true
       },
+      "princek_graffiti_portrait": {
+        "id": "princek_graffiti_portrait",
+        "isSeen": true
+      },
       "ballerinatricky_portrait": {
         "id": "ballerinatricky_portrait",
         "isSeen": true
@@ -235,6 +239,10 @@
         "id": "orionstarborn_illustration_portrait",
         "isSeen": true
       },
+      "countcorvin_illustration_portrait": {
+        "id": "countcorvin_illustration_portrait",
+        "isSeen": true
+      },
       "mariemacaron_illustration_portrait": {
         "id": "mariemacaron_illustration_portrait",
         "isSeen": true
@@ -249,6 +257,10 @@
       },
       "whiterabbit_illustration_portrait": {
         "id": "whiterabbit_illustration_portrait",
+        "isSeen": true
+      },
+      "whiterabbitnightshade_illustration_portrait": {
+        "id": "whiterabbitnightshade_illustration_portrait",
         "isSeen": true
       },
       "rebecaroar_illustration_portrait": {
@@ -441,6 +453,14 @@
       },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
+        "isSeen": true
+      },
+      "xoloko_illustration_portrait": {
+        "id": "xoloko_illustration_portrait",
+        "isSeen": true
+      },
+      "zoe_illustration_portrait": {
+        "id": "zoe_illustration_portrait",
         "isSeen": true
       }
     }

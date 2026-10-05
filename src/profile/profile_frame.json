@@ -215,6 +215,14 @@
         "id": "pvp_leaderboard_09_frame",
         "isSeen": true
       },
+      "pvp_leaderboard_10_frame": {
+        "id": "pvp_leaderboard_10_frame",
+        "isSeen": true
+      },
+      "sanctuary_frame": {
+        "id": "sanctuary_frame",
+        "isSeen": true
+      },
       "stpatrick_frame": {
         "id": "stpatrick_frame",
         "isSeen": true

@@ -3260,6 +3260,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "nightshadeOutfit"
             }
           ]
         }
@@ -3592,6 +3595,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "frankenstyleOutfit"
             }
           ]
         }
@@ -3912,6 +3918,26 @@
       "bbno$": {
         "value": {
           "id": "bbno$",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "xoloko": {
+        "value": {
+          "id": "xoloko",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "countCorvin": {
+        "value": {
+          "id": "countCorvin",
           "ownedOutfits": [
             {
               "value": "default"
