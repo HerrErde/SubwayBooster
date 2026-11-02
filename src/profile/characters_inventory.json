@@ -2509,6 +2509,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "neonFuOutfit"
             }
           ]
         }
@@ -3941,6 +3944,29 @@
           "ownedOutfits": [
             {
               "value": "default"
+            }
+          ]
+        }
+      },
+      "wuJadeLing": {
+        "value": {
+          "id": "wuJadeLing",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "meihua": {
+        "value": {
+          "id": "meihua",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "baoBaoOutfit"
             }
           ]
         }

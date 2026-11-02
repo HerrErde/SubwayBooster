@@ -340,3 +340,9 @@
 | Plankenstein | `plankenstein` |
 | Digi Dash | `digiDash` |
 | Sketchy Skater | `sketchySkater` |
+| Bat Luck | `batLuck` |
+| Broom | `broom` |
+| Nox Drift | `noxDrift` |
+| Dynasty Drifter | None |
+| Bambooster | None |
+| Nimbus Link | None |

@@ -4122,6 +4122,45 @@
             }
           }
         }
+      },
+      "bambooster": {
+        "value": {
+          "id": "bambooster",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "dynastyDrifter": {
+        "value": {
+          "id": "dynastyDrifter",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "lowrider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "nimbusLink": {
+        "value": {
+          "id": "nimbusLink",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
       }
     }
   }

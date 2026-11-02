@@ -10,29 +10,25 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S125",
+    "newSeasonPopupShownForID": "season_S126",
     "localMailsSeenEntries": {
-      "s125_diwali": "1970-01-01T00:00:00Z",
-      "s125_halloween": "1970-01-01T00:00:00Z",
-      "s125_mexico_trickortreat": "1970-01-01T00:00:00Z",
-      "s125_transylvania_challenges": "1970-01-01T00:00:00Z",
-      "s125_transylvania_floorislava": "1970-01-01T00:00:00Z",
-      "s125_transylvania_mega": "1970-01-01T00:00:00Z",
-      "s125_transylvania_next_season": "1970-01-01T00:00:00Z",
-      "s125_transylvania_plantinvasion": "1970-01-01T00:00:00Z",
-      "s125_transylvania_quests": "1970-01-01T00:00:00Z",
-      "s125_transylvania_season_challenge": "1970-01-01T00:00:00Z",
-      "s125_transylvania_seasonhunt": "1970-01-01T00:00:00Z",
-      "s125_transylvania_showdown": "1970-01-01T00:00:00Z",
-      "s125_transylvania_soda_rush_1": "1970-01-01T00:00:00Z",
-      "s125_transylvania_soda_rush_2": "1970-01-01T00:00:00Z",
-      "s125_transylvania_soda_rush_3": "1970-01-01T00:00:00Z",
-      "s125_transylvania_soda_rush_4": "1970-01-01T00:00:00Z",
-      "s125_transylvania_surferpass": "1970-01-01T00:00:00Z",
-      "s125_transylvania_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s125_transylvania_updateGame_android": "1970-01-01T00:00:00Z",
-      "s125_transylvania_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s125_transylvania_welcome": "1970-01-01T00:00:00Z"
+      "s126_diwali": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_challenges": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_floorislava": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_mega": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_next_season": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_plantinvasion": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_season_challenge": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_seasonhunt": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_showdown": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_soda_rush_1": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_soda_rush_2": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_soda_rush_3": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_superspeed": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_updateGame_android": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s126_shenzhenshowdown_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -90,52 +86,7 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "batty_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
       "blue_riff_surfin_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "bob_blob_deluxe_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "bog_witch_project_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "can_canvas_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "count_corvin_mega_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "creepy_kooky_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "duelo_de_calaveras_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "kawaii_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "lil_imp_deluxe_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -150,27 +101,17 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "og_oh_no_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
       "party_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "pins_deluxe_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "player_one_pixel_two_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
       "prague_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "kawaii_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -205,37 +146,72 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
+      "wu_jade_mega_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "grand_thrift_antics_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "thunder_skies_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "fall_4_you_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "r3vive_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "kindness_krew_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "song_yi_starter_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "tribute_flames_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "dine_and_dash_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sugar_skull_shablam_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "tech_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
       "promo_two_bundles_skipad_tickets_50_25": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S125_crew_bonus": {
+      "S126_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S125_crew_bonus_season_pass": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "S125_newStuff": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "S125_newStuff_season_pass": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "scary_troupe_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "schoolyard_scares_promo": {
+      "S126_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -251,21 +227,6 @@
         "opened": true
       },
       "skipAds_tickets_pack_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "slime_deluxe_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "spooky_scary_skeleton_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "sugar_skull_shablam_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -361,11 +322,6 @@
         "opened": true
       },
       "welcomepack_skipAds_tickets_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "wheres_wolf_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

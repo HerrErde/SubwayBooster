@@ -294,5 +294,7 @@
 | Santi Grafito | `holly` |
 | Matilda | `seanSnow` |
 | Bbno$ | `mia` |
-| Xoloko | None |
+| Xoloko | `rosalita` |
 | Count Corvin | `lorcan` |
+| Wu Jade & Ling | `horse` |
+| Meihua | None |

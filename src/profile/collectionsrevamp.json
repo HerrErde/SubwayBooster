@@ -3507,6 +3507,18 @@
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
           },
+          "wuJadeLing.default": {
+            "id": "wuJadeLing.default",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "meihua.default": {
+            "id": "meihua.default",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
           "liberty.default": {
             "id": "liberty.default",
             "type": 3,
@@ -3617,6 +3629,18 @@
           },
           "jeTaime.default": {
             "id": "jeTaime.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "dynastyDrifter.default": {
+            "id": "dynastyDrifter.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "bambooster.default": {
+            "id": "bambooster.default",
             "type": 3,
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
@@ -4303,6 +4327,12 @@
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
           },
+          "thunder.neonFuOutfit": {
+            "id": "thunder.neonFuOutfit",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
           "lowrider.default": {
             "id": "lowrider.default",
             "type": 3,
@@ -4668,6 +4698,12 @@
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
           },
+          "meihua.baoBaoOutfit": {
+            "id": "meihua.baoBaoOutfit",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
           "scoot.default": {
             "id": "scoot.default",
             "type": 3,
@@ -4784,6 +4820,12 @@
           },
           "sweetElite.default": {
             "id": "sweetElite.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "nimbusLink.default": {
+            "id": "nimbusLink.default",
             "type": 3,
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true

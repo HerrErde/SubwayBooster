@@ -27,6 +27,10 @@
         "id": "midsummer_frame",
         "isSeen": true
       },
+      "sanctuary_frame": {
+        "id": "sanctuary_frame",
+        "isSeen": true
+      },
       "earthday_frame": {
         "id": "earthday_frame",
         "isSeen": true
@@ -69,6 +73,10 @@
       },
       "comic_frame": {
         "id": "comic_frame",
+        "isSeen": true
+      },
+      "panda_frame": {
+        "id": "panda_frame",
         "isSeen": true
       },
       "lava_frame": {
@@ -219,8 +227,8 @@
         "id": "pvp_leaderboard_10_frame",
         "isSeen": true
       },
-      "sanctuary_frame": {
-        "id": "sanctuary_frame",
+      "pvp_leaderboard_11_frame": {
+        "id": "pvp_leaderboard_11_frame",
         "isSeen": true
       },
       "stpatrick_frame": {
