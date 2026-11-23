@@ -255,6 +255,10 @@
         "id": "santigrafito_illustration_portrait",
         "isSeen": true
       },
+      "queenofcards_illustration_portrait": {
+        "id": "queenofcards_illustration_portrait",
+        "isSeen": true
+      },
       "chickenjake_illustration_portrait": {
         "id": "chickenjake_illustration_portrait",
         "isSeen": true
@@ -393,6 +397,10 @@
       },
       "tasha_illustration_portrait": {
         "id": "tasha_illustration_portrait",
+        "isSeen": true
+      },
+      "jimbo_illustration_portrait": {
+        "id": "jimbo_illustration_portrait",
         "isSeen": true
       },
       "pins_illustration_portrait": {

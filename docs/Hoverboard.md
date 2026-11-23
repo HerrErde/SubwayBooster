@@ -343,6 +343,6 @@
 | Bat Luck | `batLuck` |
 | Broom | `broom` |
 | Nox Drift | `noxDrift` |
-| Dynasty Drifter | None |
-| Bambooster | None |
-| Nimbus Link | None |
+| Dynasty Drifter | `dynastyDrifter` |
+| Bambooster | `bambooster` |
+| Nimbus Link | `nimbusLink` |

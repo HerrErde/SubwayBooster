@@ -2884,6 +2884,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "bunnyBusinessOutfit"
             }
           ]
         }
@@ -2937,6 +2940,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "jackpotOutfit"
             }
           ]
         }
@@ -3967,6 +3973,26 @@
             },
             {
               "value": "baoBaoOutfit"
+            }
+          ]
+        }
+      },
+      "queenOfCards": {
+        "value": {
+          "id": "queenOfCards",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "jimbo": {
+        "value": {
+          "id": "jimbo",
+          "ownedOutfits": [
+            {
+              "value": "default"
             }
           ]
         }

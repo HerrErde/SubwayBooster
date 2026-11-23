@@ -91,6 +91,10 @@
         "id": "blob_frame",
         "isSeen": true
       },
+      "card_frame": {
+        "id": "card_frame",
+        "isSeen": true
+      },
       "koi_frame": {
         "id": "koi_frame",
         "isSeen": true
@@ -229,6 +233,10 @@
       },
       "pvp_leaderboard_11_frame": {
         "id": "pvp_leaderboard_11_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_12_frame": {
+        "id": "pvp_leaderboard_12_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

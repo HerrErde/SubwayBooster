@@ -297,4 +297,6 @@
 | Xoloko | `rosalita` |
 | Count Corvin | `lorcan` |
 | Wu Jade & Ling | `horse` |
-| Meihua | None |
+| Meihua | `vittorio` |
+| Queen of Cards | `enzo` |
+| Jimbo | `sprinkle` |

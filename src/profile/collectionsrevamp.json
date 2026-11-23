@@ -4063,6 +4063,12 @@
             "type": 3,
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
+          },
+          "flaBingo.default": {
+            "id": "flaBingo.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
           }
         }
       },
@@ -4704,6 +4710,18 @@
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
           },
+          "queenOfCards.default": {
+            "id": "queenOfCards.default",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "grandjuke.jackpotOutfit": {
+            "id": "grandjuke.jackpotOutfit",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
           "scoot.default": {
             "id": "scoot.default",
             "type": 3,
@@ -4826,6 +4844,12 @@
           },
           "nimbusLink.default": {
             "id": "nimbusLink.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "royalFlash.default": {
+            "id": "royalFlash.default",
             "type": 3,
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
@@ -5105,6 +5129,12 @@
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
           },
+          "ginger.bunnyBusinessOutfit": {
+            "id": "ginger.bunnyBusinessOutfit",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
           "dragon.default": {
             "id": "dragon.default",
             "type": 3,
@@ -5236,12 +5266,35 @@
             "type": 3,
             "unlockedAt": "1970-01-01T00:00:00Z",
             "hasSeenUnlock": true
+          },
+          "clockAndRoll.default": {
+            "id": "clockAndRoll.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
           }
         }
       },
       "collection_15": {
         "id": "collection_15",
         "items": {}
+      },
+      "collection_71": {
+        "id": "collection_71",
+        "items": {
+          "jimbo.default": {
+            "id": "jimbo.default",
+            "type": 2,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          },
+          "joker.default": {
+            "id": "joker.default",
+            "type": 3,
+            "unlockedAt": "1970-01-01T00:00:00Z",
+            "hasSeenUnlock": true
+          }
+        }
       },
       "collection_70": {
         "id": "collection_70",

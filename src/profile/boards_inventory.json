@@ -4123,19 +4123,6 @@
           }
         }
       },
-      "bambooster": {
-        "value": {
-          "id": "bambooster",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            }
-          }
-        }
-      },
       "dynastyDrifter": {
         "value": {
           "id": "dynastyDrifter",
@@ -4152,11 +4139,79 @@
           }
         }
       },
+      "bambooster": {
+        "value": {
+          "id": "bambooster",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
       "nimbusLink": {
         "value": {
           "id": "nimbusLink",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "clockAndRoll": {
+        "value": {
+          "id": "clockAndRoll",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "flaBingo": {
+        "value": {
+          "id": "flaBingo",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "joker": {
+        "value": {
+          "id": "joker",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "royalFlash": {
+        "value": {
+          "id": "royalFlash",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            },
+            "glider": {
               "value": true
             }
           }
